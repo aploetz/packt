@@ -1,0 +1,358 @@
+name,year,group,status,dob,birthplace,gender,alma_mater,spaceflights,spaceflight_hours,spacewalks,spacewalk_hours,missions
+Joseph M. Acaba,2004,19,Active,5/17/1967,"Inglewood, CA",Male,University of California-Santa Barbara,2,3307,2,13,"STS-119 (Discovery), ISS-31/32 (Soyuz)"
+Loren W. Acton,1985,10,Retired,3/7/1936,"Lewiston, MT",Male,Montana State University,1,190,0,0,STS 51-F (Challenger)
+James C. Adamson,1984,10,Retired,3/3/1946,"Warsaw, NY",Male,US Military Academy,2,334,0,0,"STS-28 (Columbia), STS-43 (Atlantis)"
+Thomas D. Akers,1987,12,Retired,5/20/1951,"St. Louis, MO",Male,University of Missouri-Rolla,4,814,4,29,"STS-41 (Discovery), STS-49 (Endeavor), STS-61 (Endeavor), STS-79 (Atlantis)"
+Buzz Aldrin,1963,3,Retired,1/20/1930,"Montclair, NJ",Male,US Military Academy,2,289,2,8,"Gemini 12, Apollo 11"
+Andrew M. Allen,1987,12,Retired,8/4/1955,"Philadelphia, PA",Male,Villanova University,3,906,0,0,"STS-46 (Atlantis), STS-62 (Columbia), STS-75 (Columbia)"
+Joseph P. Allen,1967,6,Retired,6/27/1937,"Crawsfordsville, IN",Male,DePauw University,2,313,2,12,"ST-5 (Columbia), STS 51-A (Discovery)"
+Scott D. Altman,1995,15,Retired,8/15/1959,"Lincoln, IL",Male,University of Illinois,4,1236,0,0,"STS-90 (Columbia), STS-106 (Atlantis), STS-109 (Columbia), STS-125 (Atlantis)"
+William A. Anders,1963,3,Retired,10/17/1933,Hong Kong,Male,US Naval Academy,1,147,0,0,Apollo 8
+Clayton C. Anderson,1998,17,Retired,2/23/1959,"Omaha, NE",Male,Hastings College,2,4005,6,38,"STS-117/120 (Atlantis/Discovery), STS-131 (Discovery)"
+Michael P. Anderson,1995,15,Deceased,12/25/1959,"Plattsburgh, NY",Male,University of Washington,2,594,0,0,"STS-89 (Endeavor), STS-107 (Columbia)"
+Dominic A. Antonelli,2000,18,Active,8/23/1967,"Detroit, MI",Male,MIT,2,579,0,0,"STS-119 (Discovery), STS-132 (Atlantis)"
+Jerome Apt III ,1985,11,Retired,4/18/1949,"Springfield, MA",Male,Harvard University,4,847,2,11,"STS-37 (Atlantis), STS-47 (Endeavor), STS-59 (Endeavor), STS-79 (Atlantis)"
+Lee J. Archambault,1998,17,Retired,8/25/1960,"Oak Park, IL",Male,University of Illinois-Urbana,2,639,0,0,"STS-117 (Atlantis), STS-119 (Discovery)"
+Neil A. Armstrong,1962,2,Deceased,8/5/1930,"Wapakoneta, OH",Male,Purdue University,2,205,1,2,"Gemini 8, Apollo 11"
+Richard R. Arnold II ,2004,19,Active,11/26/1963,"Cheverly, MD",Male,Frostburg State University,1,307,2,12,STS-119 (Discovery)
+Jeffrey S. Ashby,1995,15,Retired,6/1/1954,"Dallas, TX",Male,University of Idaho,3,655,0,0,"STS-93 (Columbia), STS-100 (Endeavor), STS-112 (Atlantis)"
+Serena M. Aunon,2009,20,Active,4/9/1976,"Indianapolis, IN",Female,George Washington University,0,0,0,0,
+James P. Bagian,1980,9,Retired,2/22/1952,"Philadelphia, PA",Male,Drexel University,2,337,0,0,"STS-29 (Discovery), STS-40 (Columbia)"
+Ellen S. Baker,1984,10,Retired,4/27/1953,"Fayettesville, NC",Female,State University of New York-Buffalo,3,686,0,0,"STS-34 (Atlantis), STS-50 (Columbia), STS-71 (Atlantis)"
+Michael A. Baker,1985,11,Management,10/27/1953,"Memphis, TN",Male,University of Texas,4,965,0,0,"STS-43 (Atlantis), STS-52 (Columbia), STS-68 (Endeavor), STS-81 (Atlantis)"
+Michael R. Barratt,2000,18,Active,4/16/1959,"Vancouver, WA",Male,University of Washington,2,5075,1,5,"ISS-19/20 (Soyuz), STS-133 (Discovery)"
+Daniel T. Barry,1992,14,Retired,12/30/1953,"Norwalk, CT",Male,Cornell University,3,733,4,26,"STS-72 (Endeavor), STS-96 (Discovery), STS-105 (Discovery)"
+John-David F. Bartoe,1985,10,Retired,11/17/1944,"Abington, PA",Male,Lehigh University,1,190,0,0,STS 51-F (Challenger)
+Charles A. Bassett II ,1963,3,Deceased,12/30/1931,"Dayton, OH",Male,Texas Technological College,0,0,0,0,
+Alan L. Bean,1963,3,Retired,3/15/1932,"Wheeler, TX",Male,University of Texas,2,1671,3,10,"Apollo 12, Skylab 3"
+Robert L. Behnken,2000,18,Active,7/28/1970,"Creve Couer, MO",Male,Washington University,2,708,6,37,"STS-123 (Endeavor), STS-130 (Endeavor)"
+John E. Blaha,1980,9,Retired,8/26/1942,"San Antonio, TX",Male,US Air Force Academy,5,3861,0,0,"STS-29 (Discovery), STS-33 (Discovery), STS-43 (Atlantis), STS-58 (Columbia), STS-79/81 (Atlantis/Atlantis)"
+Michael J. Bloomfield,1995,15,Retired,3/16/1959,"Flint, MI",Male,US Air Force Academy,3,779,0,0,"STS-86 (Atlantis), STS-97 (Endeavor), STS-110 (Atlantis)"
+Guion S. Bluford Jr. ,1978,8,Retired,11/22/1942,"Philadelphia, PA",Male,Pennsylvania State University,4,689,0,0,"STS-8 (Challenger), STS 61-A (Challenger), STS-39 (Discovery), STS-53 (Discovery)"
+Karol J. Bobko,1969,7,Retired,12/23/1937,"New York, NY",Male,US Air Force Academy,3,386,0,0,"STS-6 (Challenger), STS 51-D (Discovery), STS-51-J (Atlantis)"
+Eric A. Boe,2000,18,Active,10/1/1964,"Miami, FL",Male,US Air Force Academy,2,687,0,0,"STS-126 (Endeavor), STS-133 (Discovery)"
+Charles F. Bolden Jr. ,1980,9,Management,8/19/1946,"Columbia, SC",Male,US Naval Academy,4,680,0,0,"STS-61C (Columbia), STS-31 (Discovery), STS-45 (Atlantis), STS-60 (Discovery)"
+Frank Borman,1962,2,Retired,3/14/1928,"Gary, IN",Male,US Military Academy,2,477,0,0,"Gemini 7, Apollo 8"
+Stephen G. Bowen,2000,18,Active,2/13/1964,"Cohasset, MA",Male,US Naval Academy,3,970,7,47,"STS-126 (Endeavor), STS-132 (Atlantis), STS-133 (Discovery)"
+Kenneth D. Bowersox,1987,12,Retired,11/14/1956,"Portsmouth, VA",Male,US Naval Academy,5,5078,2,13,"STS-50 (Columbia), STS-61 (Endeavor), STS-73 (Columbia), STS-82 (Discovery), STS-113 (Endeavor/Soyuz)"
+Charles E. Brady Jr. ,1992,14,Deceased,8/12/1951,"Pinehurst, NC",Male,University of North Carolina at Chapel Hill,1,405,0,0,STS-78 (Columbia)
+Vance D. Brand,1966,5,Retired,5/9/1931,"Longmont, CA",Male,University of Colorado,4,752,0,0,"Apollo-Soyuz Test Project, STS-5 (Columbia), STS 41-B (Challenger), STS-35 (Columbia)"
+Daniel C. Brandenstein,1978,8,Retired,1/17/1943,"Watertown, WI",Male,University of Wisconsin,4,789,0,0,"STS-8 (Challenger), STS 51-G (Discovery), STS-32 (Columbia), STS-49 (Endeavor)"
+Randolph J. Bresnik,2004,19,Active,9/11/1967,"Fort Knox, KY",Male,The Citadel,1,259,2,12,STS-129 (Atlantis)
+Roy D. Bridges Jr. ,1980,9,Retired,7/19/1943,"Atlanta, GA",Male,US Air Force Academy,1,190,0,0,STS 51-F (Challenger)
+Curtis L. Brown Jr. ,1987,12,Retired,3/11/1956,"Elizabethtown, NC",Male,US Air Force Academy,6,1383,0,0,"STS-47 (Endeavor), STS-66 (Atlantis), STS-77 (Endeavor), STS-85 (Discovery), STS-95 (Discovery), STS-103 (Discovery)"
+David M. Brown,1996,16,Deceased,4/16/1956,"Arlington, VA",Male,College of William & Mary,1,382,0,0,STS-107 (Columbia)
+Mark N. Brown,1984,10,Retired,11/18/1951,"Valparaiso, IN",Male,Purdue University,2,249,0,0,"STS 28 (Columbia), STS-48 (Discovery)"
+James F. Buchli,1978,8,Retired,6/20/1945,"New Rockford, ND",Male,US Naval Academy,4,490,0,0,"STS 51-C (Discovery), STS 61-A (Challenger), STS-29 (Discovery), STS-48 (Discovery"
+Jay Clark Buckey,1998,17,Retired,6/6/1956,"New York, NY",Male,Cornell University,1,381,0,0,STS-90 (Columbia)
+John S. Bull,1966,5,Deceased,9/25/1934,"Memphis, TN",Male,Rice University,0,0,0,0,
+Daniel C. Burbank,1996,16,Active,7/27/1961,"Machester, CT",Male,US Coast Guard Academy,3,4512,1,7,"STS-106 (Atlantis), STS-115 (Atlantis), ISS-29/30 (Soyuz)"
+Daniel W. Bursch,1990,13,Retired,7/25/1957,"Bristol, PA",Male,US Naval Academy,4,5446,2,12,"STS-51 (Discovery), STS-68 (Endeavor), STS-77 (Endeavor), STS-108/111 (Endeavor)"
+Robert D. Cabana,1985,11,Management,1/23/1949,"Minneapolis, MN",Male,US Naval Academy,4,910,0,0,"STS-41 (Discovery), STS-53 (Discovery), STS-65 (Columbia), STS-88 (Endeavor)"
+Yvonne D. Cagle,1996,16,Management,4/24/1959,"West Point, NY",Female,San Francisco State University,0,0,0,0,
+Fernando Caldeiro,1996,16,Deceased,6/12/1958,"Buenos Aires, Argentina",Male,University of Arizona,0,0,0,0,
+Tracy E. Caldwell (Dyson),1998,17,Active,8/14/1969,"Arcadia, CA",Female,California State University-Fullerton,2,4531,3,23,"STS-118 (Endeavor), ISS-23/24 (Soyuz)"
+Charles J. Camarda,1996,16,Management,5/8/1952,"Queens, NY",Male,Polytechnic Institute of Brooklyn,1,333,0,0,STS-114 (Discovery)
+Kenneth D. Cameron,1984,10,Retired,11/29/1949,"Cleveland, OH",Male,MIT,3,562,0,0,"STS-37 (Atlantis), STS-56 (Discovery), STS-74 (Atlantis)"
+Duane G. Carey,1996,16,Retired,4/30/1957,"St. Paul, MN",Male,University of Minnesota-Minneapolis,1,262,0,0,STS-109 (Columbia)
+M. Scott Carpenter,1959,1,Retired,5/1/1925,"Boulder, CO",Male,University of Colorado,1,4,0,0,Mercury 7
+Gerald P. Carr,1966,5,Retired,8/22/1932,"Denver, CO",Male,University of Southern California,1,2017,3,16,Skylab 4
+Manley Lanier Carter Jr. ,1984,10,Deceased,8/15/1947,"Macon, GA",Male,Emory University,1,120,0,0,STS-33 (Discovery)
+John H. Casper,1984,10,Management,7/9/1943,"Greenville, SC",Male,US Air Force Academy,4,825,0,0,"STS-36 (Atlantis), STS-54 (Endeavor), STS-62 (Columbia), STS-77 (Endeavor)"
+Christopher J. Cassidy,2004,19,Active,1/4/1970,"Salem, MA",Male,US Naval Academy,1,4376,6,31,STS-127 (Endeavor)
+Robert Cenker,1986,11,Retired,11/5/1948,"Uniontown, PA",Male,Pennsylvania State University,1,146,0,0,STS 61-C (Columbia)
+Eugene A. Cernan,1963,3,Retired,3/14/1934,"Chicago, IL",Male,Purdue University,3,566,4,24,"Gemini 9, Apollo 10, Apollo 17"
+Roger B. Chaffee,1963,3,Deceased,2/15/1935,"Grand Rapids, MI",Male,Purdue University,1,0,0,0,Apollo 1
+Gregory E. Chamitoff,1998,17,Active,8/6/1962,"Montreal, Canada",Male,California Polytechnic State University,2,4770,2,13,"STS-124/126 (Discovery/Endeavor), STS-134 (Endeavor)"
+Franklin R. Chang-Diaz,1980,9,Retired,4/5/1950,"San Jose, Costa Rica",Male,University of Connecticut,7,1602,3,19,"STS 61-C (Columbia), STS-34 (Atlantis), STS-46 (Atlantis), STS-60 (Discovery), STS-75 (Columbia), STS-91 (Discovery), STS-111 (Endeavor)"
+Philip K. Chapman,1967,6,Retired,3/5/1935,"Melbourne, Australia",Male,University of Sydney,0,0,0,0,
+Kalpana Chawla,1995,15,Deceased,6/1/1961,"Karnal, India",Female,Punjab Engineering College,2,734,0,0,"STS-87 (Columbia), STS-107 (Columbia)"
+Leroy Chiao,1990,13,Retired,8/28/1960,"Milwaukee, WI",Male,University of California-Berkeley,4,5503,6,36,"STS-65 (Columbia), STS-72 (Endeavor), STS-92 (Discovery), ISS-10 (Soyuz)"
+Kevin P. Chilton,1987,12,Retired,3/11/1954,"Los Angeles, CA",Male,US Air Force Academy,3,700,0,0,"STS-49 (Endeavor), STS-59 (Endeavor), STS-76 (Atlantis)"
+Laurel B. Clark,1996,16,Deceased,3/10/1961,"Ames, IA",Female,University of Wisconsin-Madison,1,382,0,0,STS-107 (Columbia)
+Mary L. Cleave,1980,9,Retired,2/5/1947,"Southampton, NY",Female,Colorado State University,2,262,0,0,"STS 61-B (Atlantis), STS-30 (Atlantis)"
+Michael R. Clifford,1990,13,Retired,10/13/1952,"San Bernardino, CA",Male,US Military Academy,3,666,1,6,"STS-53 (Discovery), STS-59 (Endeavor), STS-76 (Atlantis)"
+Michael L. Coats,1978,8,Retired,1/16/1946,"Sacramento, CA",Male,US Naval Academy,3,463,0,0,"STS 41-D (Discovery), STS-29 (Discovery), STS-39 (Discovery)"
+Kenneth D. Cockrell,1990,13,Management,4/9/1950,"Austin, TX",Male,University of Texas,5,1548,0,0,"STS-56 (Discovery), STS-69 (Endeavor), STS-80 (Columbia), STS-98 (Atlantis), STS-111 (Endeavor)"
+Catherine G. Coleman,1992,14,Active,12/14/1960,"Charleston, SC",Female,MIT,3,4324,0,0,"STS-73 (Columbia), STS-93 (Columbia), ISS-26/27 (Soyuz)"
+Eileen M. Collins,1990,13,Retired,11/19/1959,"Elmira, NY",Female,Syracuse University,4,890,0,0,"STS-63 (Discovery), STS-84 (Atlantis), STS-114 (Columbia), STS-93 (Discovery)"
+Michael Collins,1963,3,Retired,10/31/1930,"Rome, Italy",Male,US Military Academy,2,266,1,1,"Gemini 10, Apollo 11"
+Charles Conrad Jr. ,1962,2,Deceased,5/2/1930,"Philadelphia, PA",Male,Princeton University,4,1179,4,12,"Gemini 5, Gemini 11, Apollo 12, Skylab 2"
+L. Gordon Cooper Jr. ,1959,1,Deceased,3/6/1927,"Shawnee, OK",Male,Air Force Institute of Technology,2,225,0,0,"Mercury 9, Gemini 5"
+Richard O. Covey,1978,8,Retired,8/1/1946,"Fayetteville, AR",Male,US Air Force Academy,4,645,0,0,"STS 51-l (Discovery), STS-26 (Discovery), STS-38 (Atlantis), STS-61 (Endeavor)"
+Timothy J. Creamer,1998,17,Management,11/15/1959,"Ft. Huachuca, AZ",Male,Loyola College,1,3917,0,0,ISS-22/23 (Soyuz)
+John O. Creighton,1978,8,Retired,4/28/1943,"Orange, TX",Male,US Naval Academy,3,404,0,0,"STS 51-G (Discovery), STS-36 (Atlantis), STS-48 (Discovery)"
+Robert L. Crippen,1969,7,Retired,9/11/1937,"Beaumont, TX",Male,University of Texas,4,565,0,0,"STS-1 (Columbia), STS-7 (Challenger), STS 41-C (Challenger), STS 41-G (Challenger)"
+Roger K. Crouch,1997,17,Retired,9/12/1940,"Jamestown, TN",Male,Tennessee Polytechnic Institute,1,471,0,0,"STS-83 (Columbia), STS-94 (Columbia)"
+Frank L. Culbertson Jr. ,1984,10,Retired,5/15/1949,"Charleston, SC",Male,US Naval Academy,3,3446,1,5,"STS-38 (Atlantis), STS-51 (Discovery), STS-105/108 (Discovery/Endeavor)"
+Walter Cunningham,1963,3,Retired,3/16/1932,"Creston, IA",Male,University of California-Los Angeles,1,260,0,0,Apollo 7
+Robert L. Curbeam Jr. ,1995,15,Retired,3/5/1962,"Baltimore, MD",Male,US Naval Academy,3,902,7,45,"STS-85 (Discovery), STS-98 (Atlantis), STS-116 (Discovery)"
+Nancy J. Currie,1990,13,Management,12/29/1958,"Wilmington, DE",Female,Ohio State University,4,999,0,0,"STS-57 (Endeavor), STS-70 (Discovery), STS-88 (Endeavor), STS-109 (Columbia)"
+N. Jan Davis,1987,12,Retired,11/1/1953,"Cocoa Beach, FL",Female,Georgia Institute of Technology,3,673,0,0,"STS-47 (Endeavor), STS-60 (Discovery), STS-85 (Discovery)"
+Lawrence J. Delucas,1992,14,Retired,7/11/1950,"Syracuse, NY",Male,University of Alabama at Birmingham,1,331,0,0,STS-50 (Columbia)
+Alvin B. Drew Jr. ,2000,18,Active,11/5/1962,"Washington, DC",Male,US Air Force Academy,2,613,2,13,"STS-118 (Endeavor), STS-133 (Discovery)"
+Brian Duffy,1985,11,Retired,6/20/1953,"Boston, MA",Male,US Air Force Academy,4,977,0,0,"STS-45 (Atlantis), STS-57 (Endeavor), STS-72 (Endeavor), STS-92 (Discovery)"
+Charles M. Duke Jr. ,1966,5,Retired,10/3/1935,"Charlotte, NC",Male,US Naval Academy,1,265,3,20,Apollo 16
+Bonnie J. Dunbar,1980,9,Retired,3/3/1949,"Sunnyside, WA",Female,University of Washington,5,1207,0,0,"STS 61-A (Challenger), STS-32 (Columbia), STS-50 (Columbia), STS-71 (Atlantis), STS-89 (Endeavor)"
+Samuel T. Durrance,1990,13,Retired,9/17/1943,"Tallahassee, FL",Male,California State University,2,614,0,0,"STS-35 (Columbia), STS-67 (Endeavor)"
+James P. Dutton Jr. ,2004,19,Management,11/20/1968,"Eugene, OR",Male,US Air Force Academy,1,362,0,0,STS-131 (Discovery)
+Joe F. Edwards Jr. ,1995,15,Retired,2/3/1958,"Richmond, VA",Male,US Naval Academy,1,211,0,0,STS-89 (Endeavor)
+Donn F. Eisele,1963,3,Deceased,5/23/1930,"Columbus, OH",Male,US Naval Academy,1,260,0,0,Apollo 7
+Anthony W. England,1967,6,Retired,5/15/1942,"Indianapolis, IN",Male,MIT,1,190,0,0,STS 51-F (Challenger)
+Joe H. Engle,1966,5,Retired,8/26/1932,"Dickinson, KS",Male,University of Kansas,2,224,0,0,"STS-2 (Columbia), STS 51-I (Discovery)"
+Jeanette J. Epps,2009,20,Active,11/3/1970,"Syracuse, NY",Female,LeMoyne College,0,0,0,0,
+Ronald E. Evans Jr. ,1966,5,Deceased,11/10/1933,"St. Francis, KS",Male,University of Kansas,1,301,1,1,Apollo 17
+John M. Fabian,1978,8,Retired,1/28/1939,"Goosecreek, TX",Male,Washington State University,2,316,0,0,"STS-7 (Challenger), STS 51-G (Discovery)"
+Christopher J. Ferguson,1998,17,Retired,9/1/1961,"Philadelphia, PA",Male,Drexel University,3,970,0,0,"STS-115 (Atlantis), STS-126 (Endeavor), STS-135 (Atlantis)"
+Martin J. Fettman,1993,14,Retired,12/31/1956,"Brooklyn, NY",Male,Cornell University,1,336,0,0,STS-58 (Columbia)
+Andrew J. Feustel,2000,18,Active,8/25/1965,"Lancaster, PA",Male,Purdue University,2,687,6,42,"STS-125 (Atlantis), STS-134 (Endeavor)"
+E. Michael Fincke,1996,16,Active,3/14/1967,"Pittsburgh, PA",Male,MIT,3,9159,9,48,"ISS-09 (Soyuz), ISS-18 (Soyuz), STS-134 (Endeavor)"
+Jack D. Fischer,2009,20,Active,1/23/1974,"Louisville, CO",Male,US Air Force Academy,0,0,0,0,
+Anna L. Fisher,1978,8,Management,8/24/1949,"New York, NY",Female,University of California-Los Angeles,1,191,0,0,STS 51-A (Discovery)
+William F. Fisher,1980,9,Retired,4/1/1946,"Dallas, TX",Male,Stanford University,1,170,2,12,STS 51-I (Discovery)
+C. Michael Foale,1987,12,Active,1/6/1957,"Louth, England",Male,Cambridge University,6,8970,4,22,"STS-45 (Atlantis), STS-56 (Discovery), STS-63 (Discovery), STS-84/86 (Atlantis), STS-103 (Discovery), ISS-08 (Soyuz)"
+Kevin A. Ford,2000,18,Active,7/7/1960,"Portland, IN",Male,University of Notre Dame,2,3781,0,0,"STS-128 (Discovery), ISS-33/34 (Soyuz)"
+Michael J. Foreman,1998,17,Management,3/29/1957,"Columbus, OH",Male,US Naval Academy,2,637,5,32,"STS-123 (Endeavor), STS-129 (Atlantis)"
+Patrick G. Forrester,1996,16,Management,3/31/1957,"El Paso, TX",Male,US Military Academy,3,950,4,25,"STS-105 (Discovery), STS-117 (Atlantis), STS-128 (Discovery)"
+Michael E. Fossum,1998,17,Active,12/19/1957,"Sioux Falls, SD",Male,Texas A&M University,3,4651,7,48,"STS-121 (Discovery), STS-124 (Discovery), ISS-28/29 (Soyuz)"
+Theodore C. Freeman,1963,3,Deceased,2/18/1930,"Haversford, PA",Male,US Naval Academy,0,0,0,0,
+Stephen N. Frick,1996,16,Management,9/30/1961,"Pittsburgh, PA",Male,US Naval Academy,2,566,0,0,"STS-110 (Atlantis), STS-122 (Atlantis)"
+C. Gordon Fullerton,1969,7,Retired,10/11/1936,"Rochester, NY",Male,California Institute of Technology,2,382,0,0,"STS-3 (Columbia), STS 51-F (Challenger)"
+F. Andrew Gaffney,1991,15,Retired,6/9/1946,"Carlsbad, NM",Male,University of California-Berkeley,1,218,0,0,STS-40 (Columbia)
+Ronald J. Garan Jr. ,2000,18,Management,10/20/1961,"Yonkers, NY",Male,State University of New York,2,4271,4,27,"STS-124 (Discovery), ISS-27/28 (Soyuz)"
+Dale A. Gardner,1978,8,Retired,11/8/1948,"Fairmont, MN",Male,University of Illinois,2,336,2,12,"STS-8 (Challenger), STS 51-A (Discovery)"
+Guy S. Gardner,1980,9,Retired,1/6/1948,"Alta Vista, VA",Male,US Air Force Academy,2,320,0,0,"STS-27 (Atlantis), STS-35 (Columbia)"
+Jake Garn,1985,11,Retired,10/12/1932,Richfield. UT,Male,University of Utah,1,167,0,0,STS 51-D (Discovery)
+Owen K. Garriott,1965,4,Retired,11/22/1930,"Enid, OK",Male,University of Oklahoma,2,1674,3,14,"Skylab 3, STS-9 (Columbia)"
+Charles D. Gemar,1985,11,Retired,8/4/1955,"Yanktown, SD",Male,US Military Academy,3,581,0,0,"STS-38 (Atlantis), STS-48 (Discovery), STS-62 (Columbia)"
+Michael L. Gernhardt,1992,14,Management,5/4/1956,"Mansfield, OH",Male,Vanderbilt University,4,1039,4,23,"STS-69 (Endeavor), STS-83 (Columbia), STS-94 (Columbia), STS-104 (Atlantis)"
+Edward G. Gibson,1965,4,Retired,11/8/1936,"Buffalo, NY",Male,University of Rochester,1,2017,3,15,Skylab 4
+Robert L. Gibson,1978,8,Retired,10/30/1946,"Cooperstown, NY",Male,California Polytechnic Institute,5,868,0,0,"STS 41-B (Challenger), STS 61-C (Columbia), STS-27 (Atlantis), STS-47 (Endeavor), STS-71 (Atlantis)"
+Edward G. Givens Jr. ,1966,5,Deceased,1/5/1930,"Quanah, TX",Male,US Naval Academy,0,0,0,0,
+John H. Glenn Jr. ,1959,1,Retired,7/18/1921,"Cambridge, OH",Male,Muskingum College,2,218,0,0,"Mercury 6, STS-95 (Discovery)"
+Linda M. Godwin,1985,11,Retired,7/2/1952,"Cape Girardeau, MO",Female,Southeast Missouri State,4,918,2,10,"STS-37 (Atlantis), STS-59 (Endeavor), STS-76 (Atlantis), STS-108 (Endeavor)"
+Michael T. Good,2000,18,Management,10/13/1962,"Parma, OH",Male,University of Notre Dame,2,592,4,30,"STS-125 (Atlantis), STS-132 (Atlantis)"
+Richard F. Gordon Jr. ,1963,3,Retired,10/5/1929,"Seattle, WA",Male,University of Washington,2,315,1,1,"Gemini 11, Apollo 12"
+Dominic L. Gorie,1995,15,Retired,5/2/1957,"Lake Charles, LA",Male,US Naval Academy,4,1167,0,0,"STS-91 (Discovery), STS-99 (Endeavor), STS-123 (Endeavor), STS-108 (Endeavor)"
+Ronald J. Grabe,1980,9,Retired,6/13/1945,"New York, NY",Male,US Air Force Academy,4,627,0,0,"STS 51-J (Atlantis), STS-30 (Atlantis), STS-42 (Discovery), STS-57 (Endeavor)"
+Duane E. Graveline,1965,4,Retired,3/2/1931,"Newport, VT",Male,University of Vermont,0,0,0,0,
+Frederick D. Gregory,1978,8,Retired,1/7/1941,"Washington, DC",Male,US Air Force Academy,3,455,0,0,"STS 51-B (Challenger), STS-33 (Discovery), STS-44 (Atlantis)"
+William G. Gregory,1990,13,Retired,5/14/1957,"Lockport, NY",Male,US Air Force Academy,1,399,0,0,STS-67 (Endeavor)
+S. David Griggs,1978,8,Deceased,9/7/1939,"Portland, OR",Male,US Naval Academy,1,167,1,3,STS 51-D (Discovery)
+Virgil I. Grissom,1959,1,Deceased,4/3/1926,"Mitchell, IN",Male,Purdue University,2,5,0,0,"Mercury 4, Gemini 3, Apollo 1"
+John M. Grunsfeld,1992,14,Management,10/10/1958,"Chicago, IL",Male,MIT,5,1407,8,58,"STS-67 (Endeavor), STS-81 (Atlantis), STS-103 (Discovery), STS-125 (Atlantis), STS-109 (Columbia)"
+Sidney M. Gutierrez,1984,10,Retired,6/27/1951,"Albuquerque, NM",Male,US Air Force Academy,2,488,0,0,"STS-40 (Columbia), STS-59 (Endeavor)"
+Fred W. Haise Jr. ,1966,5,Retired,11/14/1933,"Biloxi, MS",Male,University of Oklahoma,1,142,0,0,Apollo 13 
+James D. Halsell Jr. ,1990,13,Retired,9/29/1956,"Monroe, LA",Male,US Air Force Academy,5,1258,0,0,"STS-65 (Columbia), STS-74 (Atlantis), STS-83 (Columbia), STS-94 (Columbia), STS-101 (Atlantis)"
+Kenneth T. Ham,1998,17,Retired,12/12/1964,"Plainfield, NJ",Male,US Naval Academy,2,612,0,0,"STS-124 (Discovery), STS-132 (Atlantis)"
+L. Blaine Hammond Jr. ,1984,10,Retired,1/16/1952,"Savannah, GA",Male,US Air Force Academy,2,462,0,0,"STS-39 (Discovery), STS-64 (Discovery)"
+Gregory J. Harbaugh,1987,12,Retired,4/15/1956,"Cleveland, OH",Male,Purdue University,4,817,3,18,"STS-39 (Discovery), STS-54 (Endeavor), STS-71 (Atlantis), STS-82 (Discovery)"
+Bernard A. Harris Jr. ,1990,13,Retired,6/26/1956,"Temple, TX",Male,University of Houston,2,438,1,5,"STS-55 (Columbia), STS-63 (Discovery)"
+Terry J. Hart,1978,8,Retired,10/27/1946,"Pittsburgh, PA",Male,Lehigh University,1,167,0,0,STS 41-C (Challenger)
+Henry W. Hartsfield Jr. ,1969,7,Retired,11/21/1933,"Birmingham, AL",Male,Auburn University,3,482,0,0,"STS-4 (Columbia), STS 41-D (Discovery), STS 61-A (Challenger)"
+Frederick H. Hauck,1978,8,Retired,4/11/1941,"Long Beach, CA",Male,Tufts University,3,435,0,0,"STS-7 (Challenger), STS 51-A (Discovery), STS-26 (Discovery)"
+Steven A. Hawley,1978,8,Retired,12/12/1951,"Ottawa, KS",Male,University of Kansas,5,770,0,0,"STS 41-D (Discovery), STS 61-C (Columbia), STS-31 (Discovery), STS-82 (Discovery), STS-93 (Columbia)"
+Susan J. Helms,1990,13,Retired,2/26/1958,"Charlotte, NC",Female,US Air Force Academy,5,5063,1,9,"STS-54 (Endeavor), STS-64 (Discovery), STS-78 (Columbia), STS-101 (Atlantis), STS-102/105 (Discovery)"
+Karl G. Henize,1967,6,Deceased,10/17/1926,"Cincinnati, OH",Male,University of Virginia,1,190,0,0,STS 51-F (Challenger)
+Thomas J. Hennen,1991,13,Retired,8/17/1952,"Albany, GA",Male,,1,166,0,0,STS-44 (Atlantis)
+Terence T. Henricks,1985,11,Retired,7/5/1952,"Bryan, OH",Male,US Air Force Academy,4,1026,0,0,"STS-44 (Atlantis), STS-55 (Columbia), STS-70 (Discovery), STS-78 (Columbia)"
+Jose M. Hernandez,2004,19,Retired,8/7/1962,"French Camp, CA",Male,University of the Pacific,1,332,0,0,STS-128 (Discovery)
+John B. Herrington,1996,16,Retired,9/14/1958,"Wetumka, OK",Male,University of Colorado,1,330,3,20,STS-113 (Endeavor)
+Richard J. Hieb,1985,11,Retired,9/21/1955,"Jamestown, ND",Male,Northwest Nazarene College,3,766,3,18,"STS-39 (Discovery), STS-49 (Endeavor), STS-65 (Columbia)"
+Joan E. Higginbotham,1996,16,Retired,8/3/1964,"Chicago, IL",Female,Southern Illinois University-Carbondale,1,308,0,0,STS-116 (Discovery)
+David C. Hilmers,1980,9,Retired,1/28/1950,"Clinton, IA",Male,Cornell University,4,494,0,0,"ST 51-J (Atlantis), STS-26 (Discovery), STS-36 (Atlantis), STS-42 (Discovery)"
+Kathryn P. Hire,1995,15,Management,8/26/1959,"Mobile, AL",Female,US Naval Academy,2,711,0,0,"STS-90 (Columbia), STS-130 (Endeavor)"
+Charles O. Hobaugh,1996,16,Retired,11/5/1961,"Bar Harbor, ME",Male,US Naval Academy,3,873,0,0,"STS-104 (Atlantis), STS-118 (Endeavor), ST-129 (Atlantis)"
+Jeffrey A. Hoffman,1978,8,Retired,11/2/1944,"Brooklyn, NY",Male,Amherst College,5,1211,4,25,"STS 51-D (Discovery), STS-35 (Columbia), STS-46 (Atlantis), STS-61 (Endeavor), STS-75 (Columbia)"
+Donald L. Holmquest,1967,6,Retired,4/7/1939,"Dallas, TX",Male,Southern Methodist University,0,0,0,0,
+Michael S. Hopkins,2009,20,Active,12/28/1968,"Lebanon, MO",Male,University of Illinois,1,3990,2,13,ISS-37/38 (Soyuz)
+Scott J. Horowitz,1992,14,Retired,3/24/1957,"Philadelphia, PA",Male,California State University-Northridge,4,1137,0,0,"STS-75 (Columbia), STS-82 (Discovery), STS-101 (Atlantis), STS-105 (Discovery)"
+Millie Hughes-Fulford,1991,13,Retired,12/21/1945,"Mineral Wells, TX",Female,Tarleton State University,1,218,0,0,STS-40 (Columbia)
+Douglas G. Hurley,2000,18,Active,10/21/1966,"Endicott, NY",Male,Tulane University,2,683,0,0,"STS-127 (Endeavor), STS-135 (Atlantis)"
+Rick D. Husband,1995,15,Deceased,7/12/1957,"Amarillo, TX",Male,Texas Tech University,2,617,0,0,"STS-96 (Discovery), STS-107 (Columbia)"
+James B. Irwin,1966,5,Deceased,3/17/1930,"Pittsburgh, PA",Male,US Naval Academy,1,295,3,20,Apollo 15
+Marsha S. Ivins,1984,10,Retired,4/15/1951,"Baltimore, MD",Female,University of Colorado,5,1341,0,0,"STS-32 (Columbia), STS-46 (Atlantis), STS-62 (Columbia), STS-81 (Atlantis), STS-98 (Atlantis)"
+Gregory B. Jarvis,1986,11,Deceased,8/24/1944,"Detroit, MI",Male,State University of New York at Buffalo,1,0,0,0,STS 51-L (Challenger)
+Mae C. Jemison,1987,12,Retired,10/17/1956,"Decatur, AL",Female,Stanford University,1,190,0,0,STS-47 (Endeavor)
+Tamara E. Jernigan,1985,11,Retired,5/7/1959,"Chattanooga, TN",Female,Stanford University,5,1489,1,8,"STS-40 (Columbia), STS-52 (Columbia), STS-67 (Endeavor), STS-80 (Columbia), STS-98 (Discovery)"
+Brent W. Jett,1992,14,Retired,10/5/1958,"Pontiac, MI",Male,US Naval Academy,4,1002,0,0,"STS-72 (Endeavor), STS-81 (Atlantis), STS-97 (Endeavor), STS-115 (Atlantis)"
+Gregory C. Johnson,1998,17,Management,7/30/1954,"Seattle, WA",Male,University of Washington,1,309,0,0,STS-125 (Atlantis)
+Gregory H. Johnson,1998,17,Active,5/12/1962,"London, England",Male,US Air Force Academy,2,755,0,0,"STS-123 (Endeavor), STS-134 (Endeavor)"
+Thomas D. Jones,1990,13,Retired,1/22/1955,"Baltimore, MD",Male,US Air Force Academy,4,1272,3,20,"STS-59 (Endeavor), STS-68 (Endeavor), STS-80 (Columbia), STS-98 (Atlantis)"
+Janet L. Kavandi,1995,15,Management,7/17/1959,"Springfield, MO",Female,Missouri Southern State College,3,812,0,0,"STS-91 (Discovery), STS-99 (Endeavor), STS-104 (Atlantis)"
+James M. Kelly,1996,16,Management,5/14/1964,"Burlington, IA",Male,US Air Force Academy,2,641,0,0,"STS-102 (Discovery), STS-114 (Discovery)"
+Mark E. Kelly,1996,16,Retired,2/21/1964,"Orange, NJ",Male,US Merchant Marine Academy,4,1298,0,0,"STS-108 (Endeavor), STS-121 (Discovery), STS-124 (Discovery), STS-134 (Endeavor)"
+Scott J. Kelly,1996,16,Active,2/21/1964,"Orange, NJ",Male,State University of New York Maritime College,4,12490,3,18,"STS-103 (Discovery), STS-118 (Endeavor), ISS-25/26 (Soyuz), ISS-43/44/45/46 (Soyuz)"
+Joseph P. Kerwin,1965,4,Retired,2/19/1932,"Oak Park, IL",Male,College of the Holy Cross,1,672,1,3,Skylab 2
+Susan L. Kilrain (Still),1995,15,Retired,10/24/1961,"Augusta, GA",Female,Embry-Riddle University,2,472,0,0,"STS-83 (Columbia), STS-94 (Columbia)"
+Robert Shane Kimbrough,2004,19,Active,6/4/1967,"Killeen, TX",Male,US Military Academy,3,3720,4,25,"STS-126 (Endeavor), ISS-49/50 (Soyuz)"
+Timothy L. Kopra,2000,18,Active,4/9/1963,"Austin, TX",Male,US Military Academy,2,5857,3,13,"STS-127/128 (Endeavor/Discovery), ISS-46/47 (Soyuz)"
+Kevin R. Kregel,1992,14,Retired,9/16/1956,"New York, NY",Male,US Air Force Academy,4,1265,0,0,"STS-70 (Discovery), STS-78 (Columbia), STS-87 (Columbia), STS-99 (Endeavor)"
+Wendy B. Lawrence,1992,14,Retired,7/2/1959,"Jacksonville, FL",Female,US Naval Academy,4,1223,0,0,"STS-67 (Endeavor), STS-86 (Atlantis), STS-91 (Discovery), STS-114 (Discovery)"
+Mark C. Lee,1984,10,Retired,8/14/1952,"Viroqua, WI",Male,US Air Force Academy,4,789,4,26,"STS-30 (Atlantis), STS-47 (Endeavor), STS-64 (Discovery), STS-82 (Discovery)"
+David C. Leestma,1980,9,Management,5/6/1949,"Muskegon, MI",Male,US Naval Academy,3,532,1,3,"STS 41-G (Challenger), STS-28 (Columbia), STS-45 (Atlantis)"
+William B. Lenoir,1967,6,Deceased,3/14/1939,"Miami, FL",Male,MIT,1,122,0,0,STS-5 (Columbia)
+Fred W. Leslie,1995,15,Retired,12/19/1951,"Ancon, Panama",Male,University of Texas,1,381,0,0,STS-73 (Columbia)
+Byron K. Lichtenberg,1983,10,Retired,2/19/1948,"Stroudsburg, PA",Male,Brown University,2,461,0,0,"STS-9 (Columbia), STS-45 (Atlantis)"
+Don L. Lind,1966,5,Retired,5/18/1930,"Midvale, UT",Male,University of Utah,1,168,0,0,STS 51-B (Challenger)
+Kjell N. Lindgren,2009,20,Active,1/23/1973,"Taipei, Taiwan",Male,US Air Force Academy,1,3400,2,15,ISS-44/45 (Soyuz)
+Steven W. Lindsey,1995,15,Retired,8/24/1960,"Arcadia, CA",Male,US Air Force Academy,5,1510,0,0,"STS-87 (Columbia), STS-95 (Discovery), STS-104 (Atlantis), STS-121 (Discovery), STS-133 (Discovery)"
+Jerry M. Linenger,1992,14,Retired,1/16/1955,"Mount Clemens, MI",Male,US Naval Academy,2,3435,1,5,"STS-64 (Discovery), STS-81/84 (Atlantis)"
+Richard M. Linnehan,1992,14,Management,9/19/1957,"Lowell, MA",Male,University of New Hampshire,4,1427,6,43,"STS-78 (Columbia), STS-90 (Columbia), STS-109 (Columbia), STS-123 (Endeavor)"
+Gregory T. Linteris,1997,17,Retired,10/4/1957,"Demarest, NJ",Male,Princeton University,2,471,0,0,"STS-83 (Columbia), STS-94 (Columbia)"
+John A. Llewellyn,1967,6,Retired,4/22/1933,"Cardiff, Wales",Male,University College at Cardiff,0,0,0,0,
+Paul S. Lockhart,1996,16,Retired,4/28/1956,"Amarillo, TX",Male,Texas Tech University,2,663,0,0,"STS-111 (Endeavor), STS-113 (Endeavor)"
+Michael E. Lopez-Alegria,1992,14,Retired,5/30/1958,"Madrid, Spain",Male,US Naval Academy,3,6190,10,67,"STS-73 (Columbia), STS-92 (Discovery), STS-113 (Endeavor), ISS-14 (Soyuz)"
+Christopher J. Loria,1996,16,Retired,7/9/1960,"Belmont, MA",Male,US Naval Academy,0,0,0,0,
+J. Mike Lounge,1980,9,Deceased,6/28/1946,"Denver, CO",Male,US Naval Academy,3,483,0,0,"STS 51-I (Discovery), STS-26 (Discovery), STS-35 (Columbia)"
+Jack R. Lousma,1966,5,Retired,2/29/1936,"Grand Rapids, MI",Male,University of Michigan,2,1619,2,11,"Skylab 3, STS-3 (Columbia)"
+Stanley G. Love,1998,17,Management,6/8/1965,"San Diego, CA",Male,Harvey Mudd College,1,306,2,15,STS-122 (Atlantis)
+James A. Lovell Jr. ,1962,2,Retired,3/25/1928,"Cleveland, OH",Male,US Naval Academy,4,715,0,0,"Gemini 7, Gemini 12, Apollo 8, Apollo 13"
+G. David Low,1984,10,Deceased,2/19/1956,"Cleveland, OH",Male,Washington & Lee University,3,714,1,6,"STS-32 (Columbia), STS-43 (Atlantis), STS-57 (Endeavor)"
+Edward T. Lu,1995,15,Retired,7/1/1963,"Springfield, MA",Male,Cornell University,3,4962,1,6,"STS-84 (Atlantis), STS-106 (Atlantis), ISS-07 (Soyuz)"
+Shannon W. Lucid,1978,8,Retired,1/14/1943,"Shanghai, China",Female,University of Oklahoma,5,5354,0,0,"STS 51-G (Discovery), STS-34 (Atlantis), STS-43 (Atlantis), STS-58 (Columbia), STS-76/79 (Atlantis)"
+Sandra H. Magnus,1996,16,Retired,10/30/1964,"Belleville, IL",Female,University of Missouri-Rolla,3,3776,0,0,"STS-112 (Atlantis), STS-126/119 (Endeavor/Discovery), STS-135 (Atlantis)"
+Thomas H. Marshburn,2004,19,Active,8/29/1960,"Statesville, NC",Male,Davidson College,2,3871,4,24,"STS-127 (Endeavor), ISS-34/35 (Soyuz)"
+Michael J. Massimino,1996,16,Management,8/19/1962,"Oceanside, NY",Male,Columbia University,2,571,4,30,"STS-109 (Columbia), STS-125 (Atlantis)"
+Richard A. Mastracchio,1996,16,Active,2/11/1960,"Waterbury, CT",Male,University of Connecticut,4,5461,9,53,"STS-106 (Atlantis), STS-118 (Endeavor), STS-131 (Discovery), ISS-38/39 (Soyuz)"
+Thomas K. Mattingly II ,1966,5,Retired,3/17/1936,"Chicago, IL",Male,Auburn University,3,508,1,1,"Apollo 16, STS-4 (Columbia), STS 51-C (Discovery)"
+K. Megan McArthur,2000,18,Active,8/30/1971,"Honolulu, HI",Female,University of California-Los Angeles,1,309,0,0,STS-125 (Atlantis)
+William S. McArthur Jr. ,1990,3,Management,7/26/1951,"Laurinburg, NC",Male,US Military Academy,4,5398,4,24,"STS-58 (Columbia), STS-74 (Atlantis), STS-92 (Discovery), ISS-12 (Soyuz)"
+S. Christa McAuliffe,1985,11,Deceased,9/2/1948,"Boston, MA",Female,Framingham State College,1,0,0,0,STS 51-L (Challenger)
+Jon A. McBride,1978,8,Retired,8/14/1943,"Charleston, WV",Male,US Naval Postgraduate School,1,197,0,0,STS 41-G (Challenger)
+Bruce McCandless II ,1966,5,Retired,6/8/1937,"Boston, MA",Male,US Naval Academy,2,312,2,12,"STS 41-B (Challenger), STS-31 (Discovery)"
+William C. McCool,1996,16,Deceased,9/23/1961,"San Diego, CA",Male,US Naval Academy,1,382,0,0,STS-107 (Columbia)
+Michael J. McCulley,1984,10,Retired,8/4/1943,"San Diego, CA",Male,Purdue University,1,119,0,0,STS-34 (Atlantis)
+James A. McDivitt,1984,2,Retired,6/10/1929,"Chicago, IL",Male,University of Michigan,2,338,0,0,"Gemini 4, Apollo 9"
+Donald R. McMonagle,1987,12,Retired,5/14/1952,"Flint, MI",Male,US Air Force Academy,3,605,0,0,"STS-39 (Discovery), STS-54 (Endeavor), STS-66 (Atlantis)"
+Ronald E. McNair,1978,8,Deceased,10/21/1950,"Lake City, SC",Male,North Carolina A&T State College,2,191,0,0,"STS 41-B (Challenger), STS 51-L (Challenger)"
+Carl J. Meade,1985,11,Retired,11/16/1950,"Chanute Air Force Base, IL",Male,University of Texas,3,712,1,6,"STS-38 (Atlantis), STS-50 (Columbia), STS-64 (Discovery)"
+Bruce E. Melnick,1987,12,Retired,12/5/1949,"New York, NY",Male,US Coast Guard Academy,2,311,0,0,"STS-41 (Discovery), STS-49 (Endeavor)"
+Pamela A. Melroy,1995,15,Retired,9/17/1961,"Palo Alto, CA",Female,Wellesley College,3,914,0,0,"STS-92 (Discovery), STS-112 (Atlantis), STS-120 (Discovery)"
+Leland D. Melvin,1998,17,Management,2/15/1964,"Lynchburg, VA",Male,University of Richmond,2,565,0,0,"STS-122 (Atlantis), STS-129 (Atlantis)"
+Dorothy M. Metcalf-Lindenberger,2004,19,Active,5/2/1975,"Colorado Springs, CO",Female,Whitman College,1,362,0,0,STS-131 (Discovery)
+F. Curtis Michel,1965,4,Retired,6/5/1934,"LaCrosse, WI",Male,California Institute of Technology,0,0,0,0,
+Edgar D. Mitchell,1966,5,Retired,9/17/1930,"Hereford, TX",Male,Carnegie-Mellon University,1,216,2,9,Apollo 14
+Barbara R. Morgan,1998,17,Retired,11/28/1951,"Fresno, CA",Female,Stanford University,1,305,0,0,STS-118 (Endeavor)
+Lee M. Morin,1996,16,Management,9/9/1952,"Manchester, NH",Male,University of New Hampshire,1,259,2,14,STS-110 (Atlantis)
+Richard M. Mullane,1978,8,Retired,9/10/1945,"Wichita Falls, TX",Male,US Military Academy,3,356,0,0,"STS 41-D (Discovery), STS-27 (Atlantis), STS-36 (Atlantis)"
+Story Musgrave,1967,6,Retired,8/19/1935,"Boston, MA",Male,Syracuse University,6,1281,4,26,"STS-6 (Challenger), STS 51-F (Challenger), STS-33 (Discovery), STS-44 (Atlantis), STS-61 (Endeavor), STS-80 (Columbia)"
+Steven R. Nagel,1978,8,Retired,10/27/1946,"Canton, IL",Male,University of Illinois,4,721,0,0,"STS 51-G (Discovery), STS 61-A (Challenger), STS-37 (Atlantis), STS-55 (Columbia)"
+Bill Nelson,1986,11,Retired,9/29/1942,"Miami, FL",Male,Yale University,1,146,0,0,STS 61-C (Columbia)
+George D. Nelson,1978,8,Retired,7/13/1950,"Charles City, IA",Male,Harvey Mudd College,3,411,2,10,"STS 41-C (Challenger), STS 61-C (Columbia), STS-26 (Discovery)"
+James H. Newman,1990,13,Retired,10/16/1956,"San Diego, CA",Male,Dartmouth College,4,1042,6,43,"STS-51 (Discovery), STS-69 (Endeavor), STS-88 (Endeavor), STS- 109 (Columbia)"
+Carlos I. Noriega,1995,15,Retired,10/8/1959,"Lima, Peru",Male,University of Southern California,2,481,3,19,"STS-84 (Atlantis), STS-97 (Endeavor)"
+Lisa M. Nowak,1996,16,Retired,5/10/1963,"Washington, DC",Female,US Naval Academy,1,306,0,0,STS-121 (Discovery)
+Karen L. Nyberg,2000,18,Active,10/7/1969,"Parker’s Prairie, MN",Female,University of North Dakota,2,4320,0,0,"STS-124 (Discovery), ISS-36/37 (Soyuz)"
+Bryan D. O'Connor,1980,9,Retired,9/6/1946,"Orange, CA",Male,US Naval Academy,2,383,0,0,"STS 61-B (Atlantis), STS-40 (Columbia)"
+Brian T. O'Leary,1967,6,Deceased,1/27/1940,"Boston, MA",Male,Williams College,0,0,0,0,
+Ellen Ochoa,1990,13,Management,5/10/1958,"Los Angeles, CA",Female,San Diego State University,4,979,0,0,"STS-56 (Discovery), STS-66 (Atlantis), STS-96 (Discovery), STS-110 (Atlantis)"
+William A. Oefelein,1998,17,Retired,3/29/1965,"Ft. Belvoir, VA",Male,Oregon State University,1,308,0,0,STS-116 (Discovery)
+John D. Olivas,1998,17,Retired,5/25/1966,"North Hollywood, CA",Male,University of Texas-El Paso,2,665,5,34,"STS-117 (Atlantis), STS-128 (Discovery)"
+Ellison S. Onizuka,1978,8,Deceased,6/24/1946,"Kealakekua, HI",Male,University of Colorado,2,73,0,0,"STS 51-C (Discovery), STS 51-L (Challenger)"
+Stephen S. Oswald,1985,11,Retired,6/30/1951,"Seattle, WA",Male,US Naval Academy,3,814,0,0,"STS-42 (Discovery), STS-56 (Discovery), STS-67 (Endeavor)"
+Robert F. Overmyer,1969,7,Deceased,7/14/1936,"Lorain, OH",Male,Baldwin Wallace College,2,290,0,0,"STS-5 (Columbia), STS 51-B (Challenger)"
+William A. Pailes,1982,9,Retired,6/26/1952,"Hackensack, NJ",Male,US Air Force Academy,1,97,0,0,STS 51-J (Atlantis)
+Scott E. Parazynski,1992,14,Retired,7/28/1961,"Little Rock, AR",Male,Stanford University,5,1404,7,47,"STS-66 (Atlantis), STS-86 (Atlantis), STS-95 (Discovery), STS-100 (Endeavor), STS-120 (Discovery)"
+Ronald A. Parise,1990,13,Deceased,5/24/1951,"Warren, OH",Male,Youngstown State University,2,614,0,0,"STS-35 (Columbia), STS-67 (Endeavor)"
+Robert A. Parker,1967,6,Retired,12/14/1936,"New York, NY",Male,Amherst College,2,462,0,0,"STS-9 (Columbia), STS-35 (Columbia)"
+Niclolas J. M. Patrick,1998,17,Retired,3/22/1964,"North Yorkshire, England",Male,University of Cambridge,2,638,3,18,"STS-116 (Discovery), STS-130 (Endeavor)"
+James A. Pawelczyk,1998,17,Retired,9/20/1960,"Buffalo, NY",Male,University of Rochester,1,381,0,0,STS-90 (Columbia)
+Gary E. Payton,1985,11,Retired,6/20/1948,"Rock Island, IL",Male,US Air Force Academy,1,73,0,0,STS 51-C (Discovery)
+Donald H. Peterson,1969,7,Retired,10/22/1933,"Winona, MS",Male,US Military Academy,1,120,1,4,STS-6 (Challenger)
+Donald R. Pettit,1996,16,Active,4/20/1955,"Silverton, OR",Male,Oregon State University,3,8872,2,13,"ISS-6 (Soyuz), STS-126 (Endeavor), ISS-30/31 (Soyuz)"
+John L. Phillips,1996,16,Retired,4/15/1951,"Ft. Belvoir, VA",Male,US Naval Academy,3,4880,1,5,"STS-100 (Endeavor), ISS-11 (Soyuz), STS-119 (Discovery)"
+William R. Pogue,1966,5,Retired,1/23/1930,"Okemah, OK",Male,Oklahoma Baptist University,1,2017,2,13,Skylab 4
+Alan G. Poindexter,1998,17,Deceased,11/5/1961,"Pasadena, CA",Male,Georgia Institute of Technology,2,669,0,0,"STS-122 (Atlantis), STS-131 (Discovery)"
+Mark L. Polansky,1996,16,Retired,6/2/1956,"Paterson, NJ",Male,Purdue University,3,995,0,0,"STS-98 (Atlantis), ST-116 (Discovery), STS-127 (Endeavor)"
+Charles J. Precourt,1990,13,Retired,6/29/1955,"Waltham, MA",Male,US Air Force Academy,4,950,0,0,"STS-55 (Columbia), STS-71 (Atlantis), STS-84 (Atlantis), STS-91 (Discovery)"
+William F. Readdy,1987,12,Retired,1/24/1952,"Quonset Point, RI",Male,US Naval Academy,3,672,0,0,"STS-42 (Discovery), STS-51 (Discovery), STS-79 (Atlantis)"
+Kenneth S. Reightler Jr. ,1987,12,Retired,3/24/1951,"Patuxent River, MD",Male,US Naval Academy,2,327,0,0,"STS-48 (Discovery), STS-60 (Discovery)"
+James F. Reilly II ,1995,15,Retired,3/18/1954,"Mountain Home Air Force Base, ID",Male,University of Texas-Dallas,3,854,5,31,"STS-89 (Endeavor), STS-104 (Atlantis), STS-117 (Atlantis)"
+Garrett E. Reisman,1998,17,Retired,2/10/1968,"Morristown, NJ",Male,University of Pennsylvania,2,2571,3,21,"STS-123/124 (Endeavor/Discovery), STS-132 (Atlantis)"
+Judith A. Resnik,1978,8,Deceased,4/5/1949,"Akron, OH",Female,Carnegie-Mellon University,2,144,0,0,"STS 41-D (Discovery), STS 51-L (Challenger)"
+Paul W. Richards,1996,16,Management,5/20/1964,"Scranton, PA",Male,Drexel University,1,307,1,6,STS-102 (Discovery)
+Richard N. Richards,1980,9,Retired,8/24/1946,"Key West, FL",Male,University of Missouri,4,813,0,0,"STS-28 (Columbia), STS-41 (Discovery), STS-50 (Columbia), STS-64 (Discovery)"
+Sally K. Ride,1978,8,Deceased,5/26/1951,"Los Angeles, CA",Female,Stanford University,2,343,0,0,"STS-7 (Challenger), STS 41-G (Challenger)"
+Patricia Hilliard Robertson,1998,17,Deceased,3/12/1963,"Indiana, PA",Female,Indiana University of Pennsylvania,0,0,0,0,
+Stephen K. Robinson,1995,15,Retired,10/26/1955,"Sacramento, CA",Male,University of California-Davis,4,1162,3,20,"STS-85 (Discovery), STS-95 (Discovery), STS-114 (Discovery), STS-130 (Endeavor)"
+Kent V. Rominger,1992,14,Retired,8/7/1956,"Del Norte, CO",Male,Colorado State University,5,1611,0,0,"STS-73 (Columbia), STS-80 (Columbia), STS-85 (Discovery), STS-96 (Discovery), STS-100 (Endeavor)"
+Stuart A. Roosa,1966,5,Deceased,8/16/1933,"Durango, CO",Male,University of Colorado,1,216,0,0,Apollo 14
+Jerry L. Ross,1980,9,Retired,1/20/1948,"Crown Point, IN",Male,Purdue University,7,1393,9,58,"ST 61-B (Atlantis), ST-27 (Atlantis), ST-37 (Atlantis), STS-55 (Columbia), STS-74 (Atlantis), STS-88 (Endeavor), STS-110 (Atlantis)"
+Kathleen Rubins,2009,20,Active,10/14/1978,"Farmington, CT",Female,University of California-San Diego,1,2762,2,13,ISS-48/49 (Soyuz)
+Mario Runco Jr. ,1987,12,Management,1/26/1952,"Bronx, NY",Male,City College of New York,3,551,0,0,"STS-44 (Atlantis), STS-54 (Endeavor), STS-77 (Endeavor)"
+Albert Sacco Jr.,1995,15,Retired,5/3/1949,"Boston, MA",Male,Northeastern University,1,381,0,0,STS-73 (Columbia)
+Robert L. Satcher Jr. ,2004,19,Retired,9/22/1965,"Hampton, VA",Male,MIT,1,259,2,12,STS-129 (Atlantis)
+Walter M. Schirra Jr. ,1959,1,Deceased,3/12/1923,"Hackensack, NJ",Male,US Naval Academy,3,295,0,0,"Mercury 8, Gemini 6, Apollo 7"
+Harrison H. Schmitt,1965,4,Retired,7/3/1935,"Santa Rita, NM",Male,California Institute of Technology,1,301,3,22,Apollo 17
+Russell L. Schweickart,1963,3,Retired,10/25/1935,"Neptune, NJ",Male,MIT,1,241,1,1,Apollo 9
+Francis R. Scobee,1978,8,Deceased,5/19/1939,"Cle Elum, WA",Male,University of Arizona,2,167,0,0,"STS 41-C (Challenger), STS 51-L (Challenger)"
+David R. Scott,1963,3,Retired,6/6/1932,"San Antonio, TX",Male,US Military Academy,3,546,4,19,"Gemini 8, Apollo 9, Apollo 15"
+Winston E. Scott,1992,14,Retired,8/6/1950,"Miami, FL",Male,Florida State University,2,590,3,19,"STS-72 (Endeavor), STS-87 (Columbia)"
+Paul D. Scully-Power,1984,10,Retired,5/28/1944,"Sydney, Australia",Male,University of Sydney,1,197,0,0,STS 41-G (Challenger)
+Richard A. Searfoss,1990,13,Retired,6/5/1956,"Mount Clemens, MI",Male,US Air Force Academy,3,939,0,0,"STS-58 (Columbia), STS-76 (Atlantis), STS-90 (Columbia)"
+Margaret Rhea Seddon,1978,8,Retired,11/8/1947,"Murfreesboro, TN",Female,University of California-Berkeley,3,722,0,0,"STS 51-D (Discovery), STS-40 (Columbia), STS-58 (Columbia)"
+Elliot M. See Jr. ,1962,2,Deceased,7/23/1927,"Dallas, TX",Male,US Merchant Marine Academy,0,0,0,0,
+Ronald M. Sega,1990,13,Retired,12/4/1952,"Cleveland, OH",Male,US Air Force Academy,2,420,0,0,"STS-60 (Discovery), STS-76 (Atlantis)"
+Piers J. Sellers,1996,16,Management,4/11/1955,"Crowborough, England",Male,University of Edinburgh,3,839,6,41,"STS-112 (Atlantis), STS-121 (Discovery), STS-132 (Atlantis)"
+Brewster H. Shaw Jr. ,1978,8,Retired,5/16/1945,"Cass City, MI",Male,University of Wisconsin,3,533,0,0,"STS-9 (Columbia), STS 61-B (Atlantis), STS-28 (Columbia)"
+Alan B. Shepard Jr. ,1959,1,Deceased,11/18/1923,"East Derry, NH",Male,US Naval Academy,2,216,2,9,"Mercury 3, Apollo 14"
+William M. Shepherd,1984,10,Retired,7/26/1949,"Oak Ridge, TN",Male,US Naval Academy,4,3823,0,0,"STS-37 (Atlantis), STS-41 (Discovery), STS-52 (Columbia), ISS-01/STS-102 (Soyuz/Discovery)"
+Loren J. Shriver,1978,8,Retired,9/23/1944,"Jefferson, IA",Male,US Air Force Academy,3,386,0,0,"STS 51-C (Discovery), STS-31 (Discovery), STS-46 (Atlantis)"
+Donald K. Slayton,1959,1,Deceased,3/1/1924,"Sparta, WI",Male,University of Minnesota,1,217,0,0,Apollo-Soyuz Test Project
+Michael J. Smith,1980,9,Deceased,4/30/1945,"Beaufort, NC",Male,US Naval Academy,1,0,0,0,STS 51-L (Challenger)
+Steven L. Smith,1992,14,Management,12/30/1958,"Phoenix, AZ",Male,Stanford University,4,960,7,49,"STS-68 (Endeavor), STS-82 (Discovery), STS-103 (Discovery), STS-110 (Atlantis)"
+Sherwood C. Spring,1980,9,Retired,9/23/1944,"Hartford, CT",Male,US Military Academy,1,165,2,12,STS 61-B (Atlantis)
+Robert C. Springer,1980,9,Retired,5/21/1942,"St. Louis, MO",Male,US Naval Academy,2,237,0,0,"STS-29 (Discovery), STS-38 (Atlantis)"
+Thomas P. Stafford,1962,2,Retired,9/17/1930,"Weatherford, OK",Male,US Naval Academy,4,507,0,0,"Gemini 6, Gemini 9, Apollo 10, Apollo-Soyuz Test Project"
+Heidemarie M. Stefanyshyn-Piper,1996,16,Retired,2/7/1963,"St. Paul, MN",Female,MIT,2,663,2,33,"STS-115 (Atlantis), STS-126 (Endeavor)"
+Robert L. Stewart,1978,8,Retired,8/13/1942,"Washington, DC",Male,University of Southern Mississippi,2,289,2,12,"STS 41-B (Challenger), STS 51-J (Atlantis)"
+Nicole P. Stott,2000,18,Active,11/19/1962,"Albany, NY",Female,Embry-Riddle Aeronautical University,2,2477,1,6,"STS-128/129 (Discovery/Atlantis), STS-133 (Discovery)"
+Frederick W. Sturckow,1995,15,Retired,8/11/1961,"La Mesa, CA",Male,California Polytechnic State University,4,1233,0,0,"STS-88 (Endeavor), STS-105 (Discovery), STS-117 (Atlantis), STS-128 (Discovery)"
+Kathryn D. Sullivan,1978,8,Retired,10/3/1951,"Patterson, NJ",Female,University of California-Santa Cruz,3,532,1,3,"STS 41-G (Challenger), STS-31 (Discovery), STS-45 (Atlantis)"
+Steven R. Swanson,1998,17,Active,12/3/1960,"Syracuse, NY",Male,University of Colorado,3,4700,5,28,"STS-117 (Atlantis), STS-119 (Discovery), ISS-39/40 (Soyuz)"
+John L. Swigert Jr. ,1966,5,Deceased,8/30/1931,"Denver, CO",Male,University of Colorado,1,142,0,0,Apollo 13
+Daniel M. Tani,1996,16,Retired,2/1/1961,"Ridley Park, PA",Male,MIT,2,3162,6,39,"STS-108 (Endeavor), STS-120/122 (Discovery/Atlantis)"
+Joseph R. Tanner,1992,14,Retired,1/21/1950,"Danville, IL",Male,University of Illinois,4,1045,7,46,"STS-66 (Atlantis), STS-82 (Discovery), STS-97 (Endeavor), STS-115 (Discovery)"
+Norman E. Thagard,1978,8,Retired,7/3/1943,"Marianna, FL",Male,Florida State University,5,3373,0,0,"STS-7 (Challenger), STS 51-B (Challenger), STS-30 (Atlantis), STS-42 (Discovery), STS-71 (Soyuz/Atlantis)"
+Andrew S. W. Thomas,1992,14,Management,12/18/1951,"Adelaide, Australia",Male,University of Adelaide,4,4257,1,6,"STS-77 (Endeavor), STS-89/91 (Endeavor/Discovery), STS-102 (Discovery), STS-114 (Discovery)"
+Donald A. Thomas,1990,13,Retired,5/6/1955,"Cleveland, OH",Male,Case Western Reserve University,4,1040,0,0,"STS-65 (Columbia), STS-70 (Discovery), STS-83 (Columbia), STS-94 (Columbia)"
+Stephen D. Thorne,1985,11,Deceased,2/11/1953,"Frankfurt, West Germany",Male,US Naval Academy,0,0,0,0,
+Kathryn C. Thornton,1984,10,Retired,8/17/1952,"Montgomery, AL",Female,Auburn University,4,975,3,21,"STS-33 (Discovery), STS-49 (Endeavor), STS-61 (Endeavor), STS-73 (Columbia)"
+William E. Thornton,1967,6,Retired,4/14/1929,"Faison, NC",Male,University of North Carolina,2,315,0,0,"STS-8 (Challenger), STS 51-B (Challenger)"
+Pierre J. Thuot,1985,11,Retired,5/19/1955,"Groton, CT",Male,US Naval Academy,3,654,3,17,"STS-36 (Atlantis), STS-49 (Endeavor), STS-62 (Columbia)"
+Scott D. Tingle,2009,20,Active,7/19/1965,"Attleboro, MA",Male,Southeastern Massachusetts University,0,0,0,0,
+Richard H. Truly,1969,7,Retired,11/12/1937,"Fayette, MS",Male,Georgia Institute of Technology,2,199,0,0,"STS-2 (Columbia), STS-8 (Challenger)"
+Lodewijk van den Berg,1985,11,Retired,3/24/1932,"Sluiskil, Netherlands",Male,Delft University of Technology,1,168,0,0,STS 51-B (Challenger)
+James D. van Hoften,1978,8,Retired,6/11/1944,"Fresno, CA",Male,University of California-Berkeley,2,338,4,22,"STS 41-C (Challenger), STS 51-I (Discovery)"
+Mark T. Vande Hei,2009,20,Active,11/10/1966,"Falls Church, VA",Male,Saint John’s University,0,0,0,0,
+Charles Lacy Veach,1984,10,Deceased,9/18/1944,"Chicago, IL",Male,US Air Force Academy,2,436,0,0,"STS-39 (Discovery), STS-52 (Columbia)"
+Terry W. Virts Jr. ,2000,18,Active,12/1/1967,"Baltimore, MD",Male,US Air Force Academy,2,5122,3,18,"STS-130 (Endeavor), ISS-42/43 (Soyuz)"
+James S. Voss,1987,12,Retired,3/3/1949,"Cordova, AL",Male,Auburn University,5,4853,4,22,"STS-44 (Atlantis), STS-53 (Discovery), STS-69 (Endeavor), STS-101 (Atlantis), STS-102/105 (Discovery)"
+Janice E. Voss,1990,13,Deceased,10/8/1956,"South Bend, IN",Female,Purdue University,5,1179,0,0,"STS-57 (Endeavor), STS-63 (Discovery), STS-83 (Columbia), STS-94 (Columbia), STS-99 (Endeavor)"
+Rex J. Walheim,1996,16,Active,10/10/1962,"Redwood, CA",Male,University of California-Berkeley,3,872,5,36,"STS-110 (Atlantis), STS-122 (Atlantis), STS-135 (Atlantis)"
+Charles D. Walker,1984,10,Retired,8/29/1948,"Bedford, IN",Male,Purdue University,3,477,0,0,"STS 41-D (Discovery), STS 51-D (Discovery), STS 61-B (Atlantis)"
+David M. Walker,1978,8,Deceased,5/20/1944,"Columbus, GA",Male,US Naval Academy,4,724,0,0,"STS 51-A (Discovery), STS-30 (Atlantis), STS-53 (Discovery), STS-69 (Endeavor)"
+Shannon Walker,2004,19,Active,6/4/1965,"Houston, TX",Female,Rice University,1,3919,0,0,ISS-24/25 (Soyuz)
+Carl E. Walz,1990,13,Retired,9/6/1955,"Cleveland, OH",Male,Kent State University,4,5533,3,19,"STS-51 (Discovery), STS-65 (Columbia), STS-79 (Atlantis), STS-108/111 (Endeavor)"
+Taylor G. Wang,1985,11,Retired,6/16/1940,"Jiangxi, China",Male,University of California at Los Angeles,1,168,0,0,STS 51-B (Challenger)
+Mary E. Weber,1992,14,Retired,8/24/1962,"Cleveland, OH",Female,Purdue University,2,450,0,0,"STS-70 (Discovery), STS-101 (Atlantis)"
+Paul J. Weitz,1966,5,Retired,6/25/1932,"Erie, PA",Male,Pennsylvania State University,2,793,1,2,"Skylab 2, STS-6 (Challenger)"
+James D. Wetherbee,1984,10,Retired,11/27/1952,"Flushing, NY",Male,University of Notre Dame,6,1594,0,0,"STS-32 (Columbia), STS-52 (Columbia), STS-63 (Discovery), STS-86 (Atlantis), STS-102 (Discovery), STS-113 (Endeavor)"
+Douglas H. Wheelock,1998,17,Active,5/5/1960,"Binghamton, NY",Male,US Military Academy,2,4281,6,43,"STS-120 (Discovery), ISS-24/25 (Soyuz)"
+Edward H. White II ,1962,2,Deceased,11/14/1930,"San Antonio, TX",Male,US Military Academy,2,97,1,1,"Gemini 4, Apollo 1"
+Peggy A. Whitson,1996,16,Active,2/9/1960,"Mt. Ayr, IA",Female,Iowa Wesleyan College,3,11698,7,46,"STS-111/113 (Endeavor), ISS-16 (Soyuz), ISS-50/51 (Soyuz)"
+Terrence W. Wilcutt,1990,13,Management,10/31/1949,"Russellville, KY",Male,Western Kentucky University,4,1008,0,0,"STS-68 (Endeavor), STS-79 (Atlantis), STS-89 (Endeavor), STS-106 (Atlantis)"
+Clifton C. Williams Jr. ,1963,3,Deceased,9/26/1932,"Mobile, AL",Male,Auburn University,0,0,0,0,
+Donald E. Williams,1978,8,Retired,2/13/1958,"Lafayette, IN",Male,Purdue University,2,287,0,0,"STS 51-D (Discovery), STS-34 (Atlantis)"
+Jeffrey N. Williams,1996,16,Active,1/18/1958,"Superior, WI",Male,US Military Academy,4,12818,5,32,"STS-101 (Atlantis), ISS-13 (Soyuz), ISS-21/22 (Soyuz), ISS-47/48 (Soyuz)"
+Sunita L. Williams,1998,17,Active,9/19/1965,"Euclid, OH",Female,US Naval Academy,2,7721,7,50,"STS-116/117 (Discovery/Atlantis), ISS-32/33 (Soyuz)"
+Barry E. Wilmore,2000,18,Active,12/29/1962,"Murfreesboro, TN",Male,Tennessee Technological University,2,4272,4,25,"STS-129 (Atlantis), ISS-41/42 (Soyuz)"
+Stephanie D. Wilson,1996,16,Active,9/27/1966,"Boston, MA",Female,Harvard University,3,1031,0,0,"STS-121 (Discovery), STS-120 (Discovery), STS-131 (Discovery)"
+G. Reid Wiseman,2009,20,Active,11/11/1975,"Baltimore, MD",Male,Rensselaer Polytechnic Institute,1,3968,2,13,ISS-40/41 (Soyuz)
+Peter J. K. Wisoff,1990,13,Retired,8/16/1958,"Norfolk, VA",Male,University of Virginia,4,1064,3,20,"STS-57 (Endeavor), STS-68 (Endeavor), STS-81 (Atlantis), STS-92 (Discovery)"
+David A. Wolf,1990,13,Retired,8/23/1956,"Indianapolis, IN",Male,Purdue University,3,4044,7,41,"STS-58 (Columbia). STS-86/89 (Atlantis/Endeavor), STS-112 (Atlantis), STS-127 (Endeavor)"
+Neil W. Woodward III ,1998,17,Retired,7/26/1962,"Chicago, IL",Male,MIT,0,0,0,0,
+Alfred M. Worden,1966,5,Retired,2/7/1932,"Jackson, MI",Male,US Military Academy,1,295,1,1,Apollo 15
+John W. Young,1962,2,Retired,9/24/1930,"San Francisco, CA",Male,Georgia Institute of Technology,6,835,3,20,"Gemini 3, Gemini 10, Apollo 10, Apollo 16, STS-1 (Columbia), STS-9 (Columbia)"
+George D. Zamka,1998,17,Retired,6/29/1962,"Jersey City, NJ",Male,US Naval Academy,2,692,0,0,"STS-120 (Discovery), STS-130 (Endeavor)"
