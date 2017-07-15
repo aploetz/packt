@@ -1,0 +1,2684 @@
+CREATE (G20:Group {group: '20' , year: '2009'})
+CREATE (G11:Group {group: '11' , year: '1986'})
+CREATE (G10:Group {group: '10' , year: '1983'})
+CREATE (G13:Group {group: '13' , year: '1990'})
+CREATE (G12:Group {group: '12' , year: '1987'})
+CREATE (G15:Group {group: '15' , year: '1995'})
+CREATE (G1:Group {group: '1' , year: '1959'})
+CREATE (G2:Group {group: '2' , year: '1962'})
+CREATE (G14:Group {group: '14' , year: '1992'})
+CREATE (G17:Group {group: '17' , year: '1998'})
+CREATE (G3:Group {group: '3' , year: '1963'})
+CREATE (G4:Group {group: '4' , year: '1965'})
+CREATE (G16:Group {group: '16' , year: '1996'})
+CREATE (G19:Group {group: '19' , year: '2004'})
+CREATE (G5:Group {group: '5' , year: '1966'})
+CREATE (G18:Group {group: '18' , year: '2000'})
+CREATE (G6:Group {group: '6' , year: '1967'})
+CREATE (G7:Group {group: '7' , year: '1969'})
+CREATE (G8:Group {group: '8' , year: '1978'})
+CREATE (G9:Group {group: '9' , year: '1980'})
+
+CREATE (LeMoyneCollege:School {alma_mater: 'LeMoyne College'})
+CREATE (CaliforniaStateUniversityNorthridge:School {alma_mater: 'California State University-Northridge'})
+CREATE (AmherstCollege:School {alma_mater: 'Amherst College'})
+CREATE (YaleUniversity:School {alma_mater: 'Yale University'})
+CREATE (UniversityofNotreDame:School {alma_mater: 'University of Notre Dame'})
+CREATE (USAirForceAcademy:School {alma_mater: 'US Air Force Academy'})
+CREATE (UniversityofRichmond:School {alma_mater: 'University of Richmond'})
+CREATE (SyracuseUniversity:School {alma_mater: 'Syracuse University'})
+CREATE (FrostburgStateUniversity:School {alma_mater: 'Frostburg State University'})
+CREATE (UniversityofTexasElPaso:School {alma_mater: 'University of Texas-El Paso'})
+CREATE (CambridgeUniversity:School {alma_mater: 'Cambridge University'})
+CREATE (CarnegieMellonUniversity:School {alma_mater: 'Carnegie-Mellon University'})
+CREATE (NorthCarolinaATStateCollege:School {alma_mater: 'North Carolina A&T State College'})
+CREATE (UniversityofCaliforniaLosAngeles:School {alma_mater: 'University of California-Los Angeles'})
+CREATE (MissouriSouthernStateCollege:School {alma_mater: 'Missouri Southern State College'})
+CREATE (UniversityofSouthernCalifornia:School {alma_mater: 'University of Southern California'})
+CREATE (StanfordUniversity:School {alma_mater: 'Stanford University'})
+CREATE (UniversityofMichigan:School {alma_mater: 'University of Michigan'})
+CREATE (CaliforniaPolytechnicInstitute:School {alma_mater: 'California Polytechnic Institute'})
+CREATE (VanderbiltUniversity:School {alma_mater: 'Vanderbilt University'})
+CREATE (UniversityofWashington:School {alma_mater: 'University of Washington'})
+CREATE (UniversityofOklahoma:School {alma_mater: 'University of Oklahoma'})
+CREATE (UniversityofAdelaide:School {alma_mater: 'University of Adelaide'})
+CREATE (UniversityofKansas:School {alma_mater: 'University of Kansas'})
+CREATE (UniversityofSouthernMississippi:School {alma_mater: 'University of Southern Mississippi'})
+CREATE (FloridaStateUniversity:School {alma_mater: 'Florida State University'})
+CREATE (TuftsUniversity:School {alma_mater: 'Tufts University'})
+CREATE (UniversityofAlabamaatBirmingham:School {alma_mater: 'University of Alabama at Birmingham'})
+CREATE (MIT:School {alma_mater: 'MIT'})
+CREATE (UniversityofCaliforniaBerkeley:School {alma_mater: 'University of California-Berkeley'})
+CREATE (USMerchantMarineAcademy:School {alma_mater: 'US Merchant Marine Academy'})
+CREATE (CaseWesternReserveUniversity:School {alma_mater: 'Case Western Reserve University'})
+CREATE (UniversityofCambridge:School {alma_mater: 'University of Cambridge'})
+CREATE (IndianaUniversityofPennsylvania:School {alma_mater: 'Indiana University of Pennsylvania'})
+CREATE (StateUniversityofNewYorkBuffalo:School {alma_mater: 'State University of New York-Buffalo'})
+CREATE (DartmouthCollege:School {alma_mater: 'Dartmouth College'})
+CREATE (StateUniversityofNewYork:School {alma_mater: 'State University of New York'})
+CREATE (WesternKentuckyUniversity:School {alma_mater: 'Western Kentucky University'})
+CREATE (UniversityofCaliforniaDavis:School {alma_mater: 'University of California-Davis'})
+CREATE (UniversityofColorado:School {alma_mater: 'University of Colorado'})
+CREATE (SouthernIllinoisUniversityCarbondale:School {alma_mater: 'Southern Illinois University-Carbondale'})
+CREATE (UniversityofEdinburgh:School {alma_mater: 'University of Edinburgh'})
+CREATE (SanFranciscoStateUniversity:School {alma_mater: 'San Francisco State University'})
+CREATE (CaliforniaPolytechnicStateUniversity:School {alma_mater: 'California Polytechnic State University'})
+CREATE (UniversityofNorthCarolinaatChapelHill:School {alma_mater: 'University of North Carolina at Chapel Hill'})
+CREATE (UniversityofHouston:School {alma_mater: 'University of Houston'})
+CREATE (LoyolaCollege:School {alma_mater: 'Loyola College'})
+CREATE (UniversityofIdaho:School {alma_mater: 'University of Idaho'})
+CREATE (WashingtonLeeUniversity:School {alma_mater: 'Washington & Lee University'})
+CREATE (UniversityofCaliforniaSantaBarbara:School {alma_mater: 'University of California-Santa Barbara'})
+CREATE (PolytechnicInstituteofBrooklyn:School {alma_mater: 'Polytechnic Institute of Brooklyn'})
+CREATE (UniversityofVermont:School {alma_mater: 'University of Vermont'})
+CREATE (BrownUniversity:School {alma_mater: 'Brown University'})
+CREATE (UniversityofMinnesota:School {alma_mater: 'University of Minnesota'})
+CREATE (UniversityofPennsylvania:School {alma_mater: 'University of Pennsylvania'})
+CREATE (WhitmanCollege:School {alma_mater: 'Whitman College'})
+CREATE (WashingtonUniversity:School {alma_mater: 'Washington University'})
+CREATE (HarvardUniversity:School {alma_mater: 'Harvard University'})
+CREATE (UniversityofNorthCarolina:School {alma_mater: 'University of North Carolina'})
+CREATE (MuskingumCollege:School {alma_mater: 'Muskingum College'})
+CREATE (UniversityofCaliforniaSantaCruz:School {alma_mater: 'University of California-Santa Cruz'})
+CREATE (TarletonStateUniversity:School {alma_mater: 'Tarleton State University'})
+CREATE (WellesleyCollege:School {alma_mater: 'Wellesley College'})
+CREATE (UniversityofMinnesotaMinneapolis:School {alma_mater: 'University of Minnesota-Minneapolis'})
+CREATE (OregonStateUniversity:School {alma_mater: 'Oregon State University'})
+CREATE (CollegeofWilliamMary:School {alma_mater: 'College of William & Mary'})
+CREATE (MontanaStateUniversity:School {alma_mater: 'Montana State University'})
+CREATE (UniversityofConnecticut:School {alma_mater: 'University of Connecticut'})
+CREATE (TulaneUniversity:School {alma_mater: 'Tulane University'})
+CREATE (UniversityofNorthDakota:School {alma_mater: 'University of North Dakota'})
+CREATE (PunjabEngineeringCollege:School {alma_mater: 'Punjab Engineering College'})
+CREATE (AirForceInstituteofTechnology:School {alma_mater: 'Air Force Institute of Technology'})
+CREATE (UniversityofRochester:School {alma_mater: 'University of Rochester'})
+CREATE (PurdueUniversity:School {alma_mater: 'Purdue University'})
+CREATE (HarveyMuddCollege:School {alma_mater: 'Harvey Mudd College'})
+CREATE (UniversityofMissouriRolla:School {alma_mater: 'University of Missouri-Rolla'})
+CREATE (AuburnUniversity:School {alma_mater: 'Auburn University'})
+CREATE (GeorgiaInstituteofTechnology:School {alma_mater: 'Georgia Institute of Technology'})
+CREATE (SaintJohnsUniversity:School {alma_mater: 'Saint John’s University'})
+CREATE (TexasTechUniversity:School {alma_mater: 'Texas Tech University'})
+CREATE (CaliforniaInstituteofTechnology:School {alma_mater: 'California Institute of Technology'})
+CREATE (UniversityofTexas:School {alma_mater: 'University of Texas'})
+CREATE (NortheasternUniversity:School {alma_mater: 'Northeastern University'})
+CREATE (TexasTechnologicalCollege:School {alma_mater: 'Texas Technological College'})
+CREATE (UniversityCollegeatCardiff:School {alma_mater: 'University College at Cardiff'})
+CREATE (USCoastGuardAcademy:School {alma_mater: 'US Coast Guard Academy'})
+CREATE (StateUniversityofNewYorkatBuffalo:School {alma_mater: 'State University of New York at Buffalo'})
+CREATE (LehighUniversity:School {alma_mater: 'Lehigh University'})
+CREATE (DePauwUniversity:School {alma_mater: 'DePauw University'})
+CREATE (UniversityofWisconsinMadison:School {alma_mater: 'University of Wisconsin-Madison'})
+CREATE (VillanovaUniversity:School {alma_mater: 'Villanova University'})
+CREATE (CornellUniversity:School {alma_mater: 'Cornell University'})
+CREATE (USNavalAcademy:School {alma_mater: 'US Naval Academy'})
+CREATE (EmbryRiddleAeronauticalUniversity:School {alma_mater: 'Embry-Riddle Aeronautical University'})
+CREATE (SoutheasternMassachusettsUniversity:School {alma_mater: 'Southeastern Massachusetts University'})
+CREATE (GeorgeWashingtonUniversity:School {alma_mater: 'George Washington University'})
+CREATE (UniversityofIllinoisUrbana:School {alma_mater: 'University of Illinois-Urbana'})
+CREATE (UniversityofVirginia:School {alma_mater: 'University of Virginia'})
+CREATE (UniversityofUtah:School {alma_mater: 'University of Utah'})
+CREATE (ColoradoStateUniversity:School {alma_mater: 'Colorado State University'})
+CREATE (USMilitaryAcademy:School {alma_mater: 'US Military Academy'})
+CREATE (SouthernMethodistUniversity:School {alma_mater: 'Southern Methodist University'})
+CREATE (EmbryRiddleUniversity:School {alma_mater: 'Embry-Riddle University'})
+CREATE (UniversityofWisconsin:School {alma_mater: 'University of Wisconsin'})
+CREATE (KentStateUniversity:School {alma_mater: 'Kent State University'})
+CREATE (UniversityofTexasDallas:School {alma_mater: 'University of Texas-Dallas'})
+CREATE (OklahomaBaptistUniversity:School {alma_mater: 'Oklahoma Baptist University'})
+CREATE (UniversityofCaliforniaSanDiego:School {alma_mater: 'University of California-San Diego'})
+CREATE (UniversityofIllinois:School {alma_mater: 'University of Illinois'})
+CREATE (BaldwinWallaceCollege:School {alma_mater: 'Baldwin Wallace College'})
+CREATE (RiceUniversity:School {alma_mater: 'Rice University'})
+CREATE (WilliamsCollege:School {alma_mater: 'Williams College'})
+CREATE (CaliforniaStateUniversity:School {alma_mater: 'California State University'})
+CREATE (NorthwestNazareneCollege:School {alma_mater: 'Northwest Nazarene College'})
+CREATE (YoungstownStateUniversity:School {alma_mater: 'Youngstown State University'})
+CREATE (UniversityofthePacific:School {alma_mater: 'University of the Pacific'})
+CREATE (TennesseePolytechnicInstitute:School {alma_mater: 'Tennessee Polytechnic Institute'})
+CREATE (StateUniversityofNewYorkMaritimeCollege:School {alma_mater: 'State University of New York Maritime College'})
+CREATE (UniversityofArizona:School {alma_mater: 'University of Arizona'})
+CREATE (SanDiegoStateUniversity:School {alma_mater: 'San Diego State University'})
+CREATE (FraminghamStateCollege:School {alma_mater: 'Framingham State College'})
+CREATE (CaliforniaStateUniversityFullerton:School {alma_mater: 'California State University-Fullerton'})
+CREATE (WashingtonStateUniversity:School {alma_mater: 'Washington State University'})
+CREATE (RensselaerPolytechnicInstitute:School {alma_mater: 'Rensselaer Polytechnic Institute'})
+CREATE (PrincetonUniversity:School {alma_mater: 'Princeton University'})
+CREATE (UniversityofSydney:School {alma_mater: 'University of Sydney'})
+CREATE (TexasAMUniversity:School {alma_mater: 'Texas A&M University'})
+CREATE (CityCollegeofNewYork:School {alma_mater: 'City College of New York'})
+CREATE (DavidsonCollege:School {alma_mater: 'Davidson College'})
+CREATE (IowaWesleyanCollege:School {alma_mater: 'Iowa Wesleyan College'})
+CREATE (CollegeoftheHolyCross:School {alma_mater: 'College of the Holy Cross'})
+CREATE (DelftUniversityofTechnology:School {alma_mater: 'Delft University of Technology'})
+CREATE (SoutheastMissouriState:School {alma_mater: 'Southeast Missouri State'})
+CREATE (UniversityofMissouri:School {alma_mater: 'University of Missouri'})
+CREATE (TennesseeTechnologicalUniversity:School {alma_mater: 'Tennessee Technological University'})
+CREATE (EmoryUniversity:School {alma_mater: 'Emory University'})
+CREATE (UniversityofCaliforniaatLosAngeles:School {alma_mater: 'University of California at Los Angeles'})
+CREATE (ColumbiaUniversity:School {alma_mater: 'Columbia University'})
+CREATE (UniversityofNewHampshire:School {alma_mater: 'University of New Hampshire'})
+CREATE (HastingsCollege:School {alma_mater: 'Hastings College'})
+CREATE (DrexelUniversity:School {alma_mater: 'Drexel University'})
+CREATE (USNavalPostgraduateSchool:School {alma_mater: 'US Naval Postgraduate School'})
+CREATE (TheCitadel:School {alma_mater: 'The Citadel'})
+CREATE (PennsylvaniaStateUniversity:School {alma_mater: 'Pennsylvania State University'})
+CREATE (OhioStateUniversity:School {alma_mater: 'Ohio State University'})
+
+CREATE (STS121_Discovery_:Mission {name: 'STS-121 (Discovery)'})
+CREATE (STS132_Atlantis_:Mission {name: 'STS-132 (Atlantis)'})
+CREATE (STS131_Discovery_:Mission {name: 'STS-131 (Discovery)'})
+CREATE (STS51l_Discovery_:Mission {name: 'STS 51-l (Discovery)'})
+CREATE (ISS2324_Soyuz_:Mission {name: 'ISS-23/24 (Soyuz)'})
+CREATE (STS61A_Challenger_:Mission {name: 'STS 61-A (Challenger)'})
+CREATE (STS117_Atlantis_:Mission {name: 'STS-117 (Atlantis)'})
+CREATE (STS52_Columbia_:Mission {name: 'STS-52 (Columbia)'})
+CREATE (STS28_Columbia_:Mission {name: 'STS-28 (Columbia)'})
+CREATE (Gemini4:Mission {name: 'Gemini 4'})
+CREATE (Gemini3:Mission {name: 'Gemini 3'})
+CREATE (STS118_Endeavor_:Mission {name: 'STS-118 (Endeavor)'})
+CREATE (ISS3738_Soyuz_:Mission {name: 'ISS-37/38 (Soyuz)'})
+CREATE (STS108111_Endeavor_:Mission {name: 'STS-108/111 (Endeavor)'})
+CREATE (ISS3637_Soyuz_:Mission {name: 'ISS-36/37 (Soyuz)'})
+CREATE (STS92_Discovery_:Mission {name: 'STS-92 (Discovery)'})
+CREATE (STS82_Discovery_:Mission {name: 'STS-82 (Discovery)'})
+CREATE (STS125_Atlantis_:Mission {name: 'STS-125 (Atlantis)'})
+CREATE (STS127128_EndeavorDiscovery_:Mission {name: 'STS-127/128 (Endeavor/Discovery)'})
+CREATE (STS84_Atlantis_:Mission {name: 'STS-84 (Atlantis)'})
+CREATE (STS93_Discovery_:Mission {name: 'STS-93 (Discovery)'})
+CREATE (STS127_Endeavor_:Mission {name: 'STS-127 (Endeavor)'})
+CREATE (ISS11_Soyuz_:Mission {name: 'ISS-11 (Soyuz)'})
+CREATE (STS69_Endeavor_:Mission {name: 'STS-69 (Endeavor)'})
+CREATE (STS8_Challenger_:Mission {name: 'STS-8 (Challenger)'})
+CREATE (ISS4041_Soyuz_:Mission {name: 'ISS-40/41 (Soyuz)'})
+CREATE (STS34_Atlantis_:Mission {name: 'STS-34 (Atlantis)'})
+CREATE (STS87_Columbia_:Mission {name: 'STS-87 (Columbia)'})
+CREATE (STS63_Discovery_:Mission {name: 'STS-63 (Discovery)'})
+CREATE (STS6_Challenger_:Mission {name: 'STS-6 (Challenger)'})
+CREATE (STS7_Challenger_:Mission {name: 'STS-7 (Challenger)'})
+CREATE (STS53_Discovery_:Mission {name: 'STS-53 (Discovery)'})
+CREATE (STS111113_Endeavor_:Mission {name: 'STS-111/113 (Endeavor)'})
+CREATE (STS120_Discovery_:Mission {name: 'STS-120 (Discovery)'})
+CREATE (STS33_Discovery_:Mission {name: 'STS-33 (Discovery)'})
+CREATE (STS134_Endeavor_:Mission {name: 'STS-134 (Endeavor)'})
+CREATE (ISS2526_Soyuz_:Mission {name: 'ISS-25/26 (Soyuz)'})
+CREATE (STS51A_Discovery_:Mission {name: 'STS 51-A (Discovery)'})
+CREATE (STS48_Discovery:Mission {name: 'STS-48 (Discovery'})
+CREATE (STS115_Atlantis_:Mission {name: 'STS-115 (Atlantis)'})
+CREATE (ISS5051_Soyuz_:Mission {name: 'ISS-50/51 (Soyuz)'})
+CREATE (Mercury6:Mission {name: 'Mercury 6'})
+CREATE (STS42_Discovery_:Mission {name: 'STS-42 (Discovery)'})
+CREATE (Mercury3:Mission {name: 'Mercury 3'})
+CREATE (Mercury4:Mission {name: 'Mercury 4'})
+CREATE (Mercury9:Mission {name: 'Mercury 9'})
+CREATE (ISS2425_Soyuz_:Mission {name: 'ISS-24/25 (Soyuz)'})
+CREATE (STS89_Endeavor_:Mission {name: 'STS-89 (Endeavor)'})
+CREATE (Mercury7:Mission {name: 'Mercury 7'})
+CREATE (Mercury8:Mission {name: 'Mercury 8'})
+CREATE (STS58_Columbia__STS8689_AtlantisEndeavor_:Mission {name: 'STS-58 (Columbia). STS-86/89 (Atlantis/Endeavor)'})
+CREATE (STS41_Discovery_:Mission {name: 'STS-41 (Discovery)'})
+CREATE (STS31_Discovery_:Mission {name: 'STS-31 (Discovery)'})
+CREATE (ISS3435_Soyuz_:Mission {name: 'ISS-34/35 (Soyuz)'})
+CREATE (STS109_Columbia_:Mission {name: 'STS- 109 (Columbia)'})
+CREATE (STS36_Atlantis_:Mission {name: 'STS-36 (Atlantis)'})
+CREATE (STS78_Columbia_:Mission {name: 'STS-78 (Columbia)'})
+CREATE (ISS2627_Soyuz_:Mission {name: 'ISS-26/27 (Soyuz)'})
+CREATE (STS51_Discovery_:Mission {name: 'STS-51 (Discovery)'})
+CREATE (STS93_Columbia_:Mission {name: 'STS-93 (Columbia)'})
+CREATE (ISS08_Soyuz_:Mission {name: 'ISS-08 (Soyuz)'})
+CREATE (STS2_Columbia_:Mission {name: 'STS-2 (Columbia)'})
+CREATE (STS59_Endeavor_:Mission {name: 'STS-59 (Endeavor)'})
+CREATE (ISS09_Soyuz_:Mission {name: 'ISS-09 (Soyuz)'})
+CREATE (STS8486_Atlantis_:Mission {name: 'STS-84/86 (Atlantis)'})
+CREATE (STS67_Endeavor_:Mission {name: 'STS-67 (Endeavor)'})
+CREATE (STS91_Discovery_:Mission {name: 'STS-91 (Discovery)'})
+CREATE (STS113_Endeavor_:Mission {name: 'STS-113 (Endeavor)'})
+CREATE (STS94_Columbia_:Mission {name: 'STS-94 (Columbia)'})
+CREATE (STS119_Discovery_:Mission {name: 'STS-119 (Discovery)'})
+CREATE (STS61_Endeavor_:Mission {name: 'STS-61 (Endeavor)'})
+CREATE (STS106_Atlantis_:Mission {name: 'STS-106 (Atlantis)'})
+CREATE (STS43_Atlantis_:Mission {name: 'STS-43 (Atlantis)'})
+CREATE (STS128129_DiscoveryAtlantis_:Mission {name: 'STS-128/129 (Discovery/Atlantis)'})
+CREATE (STS30_Atlantis_:Mission {name: 'STS-30 (Atlantis)'})
+CREATE (ISS01STS102_SoyuzDiscovery_:Mission {name: 'ISS-01/STS-102 (Soyuz/Discovery)'})
+CREATE (STS102_Discovery_:Mission {name: 'STS-102 (Discovery)'})
+CREATE (ST37_Atlantis_:Mission {name: 'ST-37 (Atlantis)'})
+CREATE (STS133_Discovery_:Mission {name: 'STS-133 (Discovery)'})
+CREATE (STS135_Atlantis_:Mission {name: 'STS-135 (Atlantis)'})
+CREATE (ISS4748_Soyuz_:Mission {name: 'ISS-47/48 (Soyuz)'})
+CREATE (STS27_Atlantis_:Mission {name: 'STS-27 (Atlantis)'})
+CREATE (STS40_Columbia_:Mission {name: 'STS-40 (Columbia)'})
+CREATE (STS8991_EndeavorDiscovery_:Mission {name: 'STS-89/91 (Endeavor/Discovery)'})
+CREATE (STS4_Columbia_:Mission {name: 'STS-4 (Columbia)'})
+CREATE (ISS3334_Soyuz_:Mission {name: 'ISS-33/34 (Soyuz)'})
+CREATE (STS64_Discovery_:Mission {name: 'STS-64 (Discovery)'})
+CREATE (STS68_Endeavor_:Mission {name: 'STS-68 (Endeavor)'})
+CREATE (STS122_Atlantis_:Mission {name: 'STS-122 (Atlantis)'})
+CREATE (Apollo1:Mission {name: 'Apollo 1'})
+CREATE (STS88_Endeavor_:Mission {name: 'STS-88 (Endeavor)'})
+CREATE (STS54_Endeavor_:Mission {name: 'STS-54 (Endeavor)'})
+CREATE (Apollo9:Mission {name: 'Apollo 9'})
+CREATE (Apollo7:Mission {name: 'Apollo 7'})
+CREATE (Apollo8:Mission {name: 'Apollo 8'})
+CREATE (ISS14_Soyuz_:Mission {name: 'ISS-14 (Soyuz)'})
+CREATE (STS124126_DiscoveryEndeavor_:Mission {name: 'STS-124/126 (Discovery/Endeavor)'})
+CREATE (STS80_Columbia_:Mission {name: 'STS-80 (Columbia)'})
+CREATE (Skylab3:Mission {name: 'Skylab 3'})
+CREATE (Skylab2:Mission {name: 'Skylab 2'})
+CREATE (ISS2829_Soyuz_:Mission {name: 'ISS-28/29 (Soyuz)'})
+CREATE (STS65_Columbia_:Mission {name: 'STS-65 (Columbia)'})
+CREATE (ST61B_Atlantis_:Mission {name: 'ST 61-B (Atlantis)'})
+CREATE (STS115_Discovery_:Mission {name: 'STS-115 (Discovery)'})
+CREATE (STS61B_Atlantis_:Mission {name: 'STS 61-B (Atlantis)'})
+CREATE (STS100_Endeavor_:Mission {name: 'STS-100 (Endeavor)'})
+CREATE (STS128_Discovery_:Mission {name: 'STS-128 (Discovery)'})
+CREATE (Skylab4:Mission {name: 'Skylab 4'})
+CREATE (STS126_Endeavor_:Mission {name: 'STS-126 (Endeavor)'})
+CREATE (STS95_Discovery_:Mission {name: 'STS-95 (Discovery)'})
+CREATE (Gemini9:Mission {name: 'Gemini 9'})
+CREATE (STS39_Discovery_:Mission {name: 'STS-39 (Discovery)'})
+CREATE (ISS4849_Soyuz_:Mission {name: 'ISS-48/49 (Soyuz)'})
+CREATE (STS41C_Challenger_:Mission {name: 'STS 41-C (Challenger)'})
+CREATE (ISS2728_Soyuz_:Mission {name: 'ISS-27/28 (Soyuz)'})
+CREATE (Gemini6:Mission {name: 'Gemini 6'})
+CREATE (Gemini5:Mission {name: 'Gemini 5'})
+CREATE (STS58_Columbia_:Mission {name: 'STS-58 (Columbia)'})
+CREATE (Gemini8:Mission {name: 'Gemini 8'})
+CREATE (Gemini7:Mission {name: 'Gemini 7'})
+CREATE (STS9_Columbia_:Mission {name: 'STS-9 (Columbia)'})
+CREATE (ISS3233_Soyuz_:Mission {name: 'ISS-32/33 (Soyuz)'})
+CREATE (STS73_Columbia_:Mission {name: 'STS-73 (Columbia)'})
+CREATE (STS3_Columbia_:Mission {name: 'STS-3 (Columbia)'})
+CREATE (ST51J_Atlantis_:Mission {name: 'ST 51-J (Atlantis)'})
+CREATE (STS7981_AtlantisAtlantis_:Mission {name: 'STS-79/81 (Atlantis/Atlantis)'})
+CREATE (ST5_Columbia_:Mission {name: 'ST-5 (Columbia)'})
+CREATE (STS47_Endeavor_:Mission {name: 'STS-47 (Endeavor)'})
+CREATE (ISS2930_Soyuz_:Mission {name: 'ISS-29/30 (Soyuz)'})
+CREATE (STS101_Atlantis_:Mission {name: 'STS-101 (Atlantis)'})
+CREATE (STS76_Atlantis_:Mission {name: 'STS-76 (Atlantis)'})
+CREATE (STS32_Columbia_:Mission {name: 'STS-32 (Columbia)'})
+CREATE (STS41G_Challenger_:Mission {name: 'STS 41-G (Challenger)'})
+CREATE (STS48_Discovery_:Mission {name: 'STS-48 (Discovery)'})
+CREATE (STS8184_Atlantis_:Mission {name: 'STS-81/84 (Atlantis)'})
+CREATE (ISS3132_Soyuz_:Mission {name: 'ISS-31/32 (Soyuz)'})
+CREATE (STS124_Discovery_:Mission {name: 'STS-124 (Discovery)'})
+CREATE (STS114_Discovery_:Mission {name: 'STS-114 (Discovery)'})
+CREATE (STS90_Columbia_:Mission {name: 'STS-90 (Columbia)'})
+CREATE (STS120122_DiscoveryAtlantis_:Mission {name: 'STS-120/122 (Discovery/Atlantis)'})
+CREATE (ISS4950_Soyuz_:Mission {name: 'ISS-49/50 (Soyuz)'})
+CREATE (STS110_Atlantis_:Mission {name: 'STS-110 (Atlantis)'})
+CREATE (STS114_Columbia_:Mission {name: 'STS-114 (Columbia)'})
+CREATE (ST27_Atlantis_:Mission {name: 'ST-27 (Atlantis)'})
+CREATE (Apollo16:Mission {name: 'Apollo 16'})
+CREATE (Apollo17:Mission {name: 'Apollo 17'})
+CREATE (STS85_Discovery_:Mission {name: 'STS-85 (Discovery)'})
+CREATE (STS51D_Discovery_:Mission {name: 'STS 51-D (Discovery)'})
+CREATE (STS49_Endeavor_:Mission {name: 'STS-49 (Endeavor)'})
+CREATE (Apollo12:Mission {name: 'Apollo 12'})
+CREATE (STS26_Discovery_:Mission {name: 'STS-26 (Discovery)'})
+CREATE (STS75_Columbia_:Mission {name: 'STS-75 (Columbia)'})
+CREATE (Apollo13:Mission {name: 'Apollo 13'})
+CREATE (Apollo14:Mission {name: 'Apollo 14'})
+CREATE (STS41D_Discovery_:Mission {name: 'STS 41-D (Discovery)'})
+CREATE (Apollo15:Mission {name: 'Apollo 15'})
+CREATE (ISS4445_Soyuz_:Mission {name: 'ISS-44/45 (Soyuz)'})
+CREATE (STS46_Atlantis_:Mission {name: 'STS-46 (Atlantis)'})
+CREATE (ISS3031_Soyuz_:Mission {name: 'ISS-30/31 (Soyuz)'})
+CREATE (STS51C_Discovery_:Mission {name: 'STS 51-C (Discovery)'})
+CREATE (Apollo10:Mission {name: 'Apollo 10'})
+CREATE (Apollo11:Mission {name: 'Apollo 11'})
+CREATE (ST116_Discovery_:Mission {name: 'ST-116 (Discovery)'})
+CREATE (STS71_Atlantis_:Mission {name: 'STS-71 (Atlantis)'})
+CREATE (STS107_Columbia_:Mission {name: 'STS-107 (Columbia)'})
+CREATE (STS105108_DiscoveryEndeavor_:Mission {name: 'STS-105/108 (Discovery/Endeavor)'})
+CREATE (STS70_Discovery_:Mission {name: 'STS-70 (Discovery)'})
+CREATE (STS123124_EndeavorDiscovery_:Mission {name: 'STS-123/124 (Endeavor/Discovery)'})
+CREATE (STS126119_EndeavorDiscovery_:Mission {name: 'STS-126/119 (Endeavor/Discovery)'})
+CREATE (STS51J_Atlantis_:Mission {name: 'STS-51-J (Atlantis)'})
+CREATE (STS61C_Columbia_:Mission {name: 'STS 61-C (Columbia)'})
+CREATE (STS116117_DiscoveryAtlantis_:Mission {name: 'STS-116/117 (Discovery/Atlantis)'})
+CREATE (ISS12_Soyuz_:Mission {name: 'ISS-12 (Soyuz)'})
+CREATE (STS113_EndeavorSoyuz_:Mission {name: 'STS-113 (Endeavor/Soyuz)'})
+CREATE (ISS6_Soyuz_:Mission {name: 'ISS-6 (Soyuz)'})
+CREATE (ISS16_Soyuz_:Mission {name: 'ISS-16 (Soyuz)'})
+CREATE (ApolloSoyuzTestProject:Mission {name: 'Apollo-Soyuz Test Project'})
+CREATE (STS98_Atlantis_:Mission {name: 'STS-98 (Atlantis)'})
+CREATE (STS99_Endeavor_:Mission {name: 'STS-99 (Endeavor)'})
+CREATE (STS5_Columbia_:Mission {name: 'STS-5 (Columbia)'})
+CREATE (ISS4647_Soyuz_:Mission {name: 'ISS-46/47 (Soyuz)'})
+CREATE (STS37_Atlantis_:Mission {name: 'STS-37 (Atlantis)'})
+CREATE (STS111_Endeavor_:Mission {name: 'STS-111 (Endeavor)'})
+CREATE (Gemini10:Mission {name: 'Gemini 10'})
+CREATE (ISS43444546_Soyuz_:Mission {name: 'ISS-43/44/45/46 (Soyuz)'})
+CREATE (Gemini11:Mission {name: 'Gemini 11'})
+CREATE (STS102105_Discovery_:Mission {name: 'STS-102/105 (Discovery)'})
+CREATE (Gemini12:Mission {name: 'Gemini 12'})
+CREATE (STS71_SoyuzAtlantis_:Mission {name: 'STS-71 (Soyuz/Atlantis)'})
+CREATE (STS44_Atlantis_:Mission {name: 'STS-44 (Atlantis)'})
+CREATE (STS60_Discovery_:Mission {name: 'STS-60 (Discovery)'})
+CREATE (STS51F_Challenger_:Mission {name: 'STS 51-F (Challenger)'})
+CREATE (STS66_Atlantis_:Mission {name: 'STS-66 (Atlantis)'})
+CREATE (STS74_Atlantis_:Mission {name: 'STS-74 (Atlantis)'})
+CREATE (STS51L_Challenger_:Mission {name: 'STS 51-L (Challenger)'})
+CREATE (ISS07_Soyuz_:Mission {name: 'ISS-07 (Soyuz)'})
+CREATE (STS55_Columbia_:Mission {name: 'STS-55 (Columbia)'})
+CREATE (ISS4142_Soyuz_:Mission {name: 'ISS-41/42 (Soyuz)'})
+CREATE (STS62_Columbia_:Mission {name: 'STS-62 (Columbia)'})
+CREATE (STS112_Atlantis_:Mission {name: 'STS-112 (Atlantis)'})
+CREATE (STS81_Atlantis_:Mission {name: 'STS-81 (Atlantis)'})
+CREATE (STS97_Endeavor_:Mission {name: 'STS-97 (Endeavor)'})
+CREATE (STS7679_Atlantis_:Mission {name: 'STS-76/79 (Atlantis)'})
+CREATE (STS129_Atlantis_:Mission {name: 'STS-129 (Atlantis)'})
+CREATE (STS1_Columbia_:Mission {name: 'STS-1 (Columbia)'})
+CREATE (STS103_Discovery_:Mission {name: 'STS-103 (Discovery)'})
+CREATE (STS117120_AtlantisDiscovery_:Mission {name: 'STS-117/120 (Atlantis/Discovery)'})
+CREATE (ISS1920_Soyuz_:Mission {name: 'ISS-19/20 (Soyuz)'})
+CREATE (ISS10_Soyuz_:Mission {name: 'ISS-10 (Soyuz)'})
+CREATE (STS108_Endeavor_:Mission {name: 'STS-108 (Endeavor)'})
+CREATE (ISS2223_Soyuz_:Mission {name: 'ISS-22/23 (Soyuz)'})
+CREATE (STS51I_Discovery_:Mission {name: 'STS 51-I (Discovery)'})
+CREATE (ISS13_Soyuz_:Mission {name: 'ISS-13 (Soyuz)'})
+CREATE (STS77_Endeavor_:Mission {name: 'STS-77 (Endeavor)'})
+CREATE (STS79_Atlantis_:Mission {name: 'STS-79 (Atlantis)'})
+CREATE (STS123_Endeavor_:Mission {name: 'STS-123 (Endeavor)'})
+CREATE (STS96_Discovery_:Mission {name: 'STS-96 (Discovery)'})
+CREATE (STS45_Atlantis_:Mission {name: 'STS-45 (Atlantis)'})
+CREATE (STS105_Discovery_:Mission {name: 'STS-105 (Discovery)'})
+CREATE (STS104_Atlantis_:Mission {name: 'STS-104 (Atlantis)'})
+CREATE (STS50_Columbia_:Mission {name: 'STS-50 (Columbia)'})
+CREATE (STS56_Discovery_:Mission {name: 'STS-56 (Discovery)'})
+CREATE (STS116_Discovery_:Mission {name: 'STS-116 (Discovery)'})
+CREATE (STS29_Discovery_:Mission {name: 'STS-29 (Discovery)'})
+CREATE (STS51G_Discovery_:Mission {name: 'STS 51-G (Discovery)'})
+CREATE (STS41B_Challenger_:Mission {name: 'STS 41-B (Challenger)'})
+CREATE (STS98_Discovery_:Mission {name: 'STS-98 (Discovery)'})
+CREATE (STS57_Endeavor_:Mission {name: 'STS-57 (Endeavor)'})
+CREATE (STS86_Atlantis_:Mission {name: 'STS-86 (Atlantis)'})
+CREATE (STS130_Endeavor_:Mission {name: 'STS-130 (Endeavor)'})
+CREATE (ISS18_Soyuz_:Mission {name: 'ISS-18 (Soyuz)'})
+CREATE (STS72_Endeavor_:Mission {name: 'STS-72 (Endeavor)'})
+CREATE (ST129_Atlantis_:Mission {name: 'ST-129 (Atlantis)'})
+CREATE (ISS3940_Soyuz_:Mission {name: 'ISS-39/40 (Soyuz)'})
+CREATE (STS35_Columbia_:Mission {name: 'STS-35 (Columbia)'})
+CREATE (ISS3839_Soyuz_:Mission {name: 'ISS-38/39 (Soyuz)'})
+CREATE (STS83_Columbia_:Mission {name: 'STS-83 (Columbia)'})
+CREATE (STS51B_Challenger_:Mission {name: 'STS 51-B (Challenger)'})
+CREATE (STS38_Atlantis_:Mission {name: 'STS-38 (Atlantis)'})
+CREATE (ISS4243_Soyuz_:Mission {name: 'ISS-42/43 (Soyuz)'})
+CREATE (ISS2122_Soyuz_:Mission {name: 'ISS-21/22 (Soyuz)'})
+
+CREATE (JayClarkBuckey:Astronaut {name: 'Jay Clark Buckey', birthplace: 'New York, NY' , dateOfBirth: '6/6/1956' , gender: 'Male'})
+CREATE (JayClarkBuckey)-[:EDUCATED_AT]->(CornellUniversity),
+(JayClarkBuckey)-[:FLEW_ON]->(STS90_Columbia_),
+(JayClarkBuckey)-[:RECRUITED_IN_CLASS]->(G17)
+
+CREATE (NeilA_Armstrong:Astronaut {name: 'Neil A. Armstrong', birthplace: 'Wapakoneta, OH' , dateOfBirth: '8/5/1930' , gender: 'Male'})
+CREATE (NeilA_Armstrong)-[:EDUCATED_AT]->(PurdueUniversity),
+(NeilA_Armstrong)-[:FLEW_ON]->(Gemini8),
+(NeilA_Armstrong)-[:FLEW_ON]->(Apollo11),
+(NeilA_Armstrong)-[:RECRUITED_IN_CLASS]->(G2)
+
+CREATE (JanetL_Kavandi:Astronaut {name: 'Janet L. Kavandi', birthplace: 'Springfield, MO' , dateOfBirth: '7/17/1959' , gender: 'Female'})
+CREATE (JanetL_Kavandi)-[:EDUCATED_AT]->(MissouriSouthernStateCollege),
+(JanetL_Kavandi)-[:FLEW_ON]->(STS91_Discovery_),
+(JanetL_Kavandi)-[:FLEW_ON]->(STS99_Endeavor_),
+(JanetL_Kavandi)-[:FLEW_ON]->(STS104_Atlantis_),
+(JanetL_Kavandi)-[:RECRUITED_IN_CLASS]->(G15)
+
+CREATE (EdwardG_Gibson:Astronaut {name: 'Edward G. Gibson', birthplace: 'Buffalo, NY' , dateOfBirth: '11/8/1936' , gender: 'Male'})
+CREATE (EdwardG_Gibson)-[:EDUCATED_AT]->(UniversityofRochester),
+(EdwardG_Gibson)-[:FLEW_ON]->(Skylab4),
+(EdwardG_Gibson)-[:RECRUITED_IN_CLASS]->(G4)
+
+CREATE (JamesB_Irwin:Astronaut {name: 'James B. Irwin', birthplace: 'Pittsburgh, PA' , dateOfBirth: '3/17/1930' , gender: 'Male'})
+CREATE (JamesB_Irwin)-[:EDUCATED_AT]->(USNavalAcademy),
+(JamesB_Irwin)-[:FLEW_ON]->(Apollo15),
+(JamesB_Irwin)-[:RECRUITED_IN_CLASS]->(G5)
+
+CREATE (DavidC_Leestma:Astronaut {name: 'David C. Leestma', birthplace: 'Muskegon, MI' , dateOfBirth: '5/6/1949' , gender: 'Male'})
+CREATE (DavidC_Leestma)-[:EDUCATED_AT]->(USNavalAcademy),
+(DavidC_Leestma)-[:FLEW_ON]->(STS41G_Challenger_),
+(DavidC_Leestma)-[:FLEW_ON]->(STS28_Columbia_),
+(DavidC_Leestma)-[:FLEW_ON]->(STS45_Atlantis_),
+(DavidC_Leestma)-[:RECRUITED_IN_CLASS]->(G9)
+
+CREATE (EdwardT_Lu:Astronaut {name: 'Edward T. Lu', birthplace: 'Springfield, MA' , dateOfBirth: '7/1/1963' , gender: 'Male'})
+CREATE (EdwardT_Lu)-[:EDUCATED_AT]->(CornellUniversity),
+(EdwardT_Lu)-[:FLEW_ON]->(STS84_Atlantis_),
+(EdwardT_Lu)-[:FLEW_ON]->(STS106_Atlantis_),
+(EdwardT_Lu)-[:FLEW_ON]->(ISS07_Soyuz_),
+(EdwardT_Lu)-[:RECRUITED_IN_CLASS]->(G15)
+
+CREATE (TamaraE_Jernigan:Astronaut {name: 'Tamara E. Jernigan', birthplace: 'Chattanooga, TN' , dateOfBirth: '5/7/1959' , gender: 'Female'})
+CREATE (TamaraE_Jernigan)-[:EDUCATED_AT]->(StanfordUniversity),
+(TamaraE_Jernigan)-[:FLEW_ON]->(STS40_Columbia_),
+(TamaraE_Jernigan)-[:FLEW_ON]->(STS52_Columbia_),
+(TamaraE_Jernigan)-[:FLEW_ON]->(STS67_Endeavor_),
+(TamaraE_Jernigan)-[:FLEW_ON]->(STS80_Columbia_),
+(TamaraE_Jernigan)-[:FLEW_ON]->(STS98_Discovery_),
+(TamaraE_Jernigan)-[:RECRUITED_IN_CLASS]->(G11)
+
+CREATE (JohnL_SwigertJr_:Astronaut {name: 'John L. Swigert Jr.', birthplace: 'Denver, CO' , dateOfBirth: '8/30/1931' , gender: 'Male'})
+CREATE (JohnL_SwigertJr_)-[:EDUCATED_AT]->(UniversityofColorado),
+(JohnL_SwigertJr_)-[:FLEW_ON]->(Apollo13),
+(JohnL_SwigertJr_)-[:RECRUITED_IN_CLASS]->(G5)
+
+CREATE (SallyK_Ride:Astronaut {name: 'Sally K. Ride', birthplace: 'Los Angeles, CA' , dateOfBirth: '5/26/1951' , gender: 'Female'})
+CREATE (SallyK_Ride)-[:EDUCATED_AT]->(StanfordUniversity),
+(SallyK_Ride)-[:FLEW_ON]->(STS7_Challenger_),
+(SallyK_Ride)-[:FLEW_ON]->(STS41G_Challenger_),
+(SallyK_Ride)-[:RECRUITED_IN_CLASS]->(G8)
+
+CREATE (BarbaraR_Morgan:Astronaut {name: 'Barbara R. Morgan', birthplace: 'Fresno, CA' , dateOfBirth: '11/28/1951' , gender: 'Female'})
+CREATE (BarbaraR_Morgan)-[:EDUCATED_AT]->(StanfordUniversity),
+(BarbaraR_Morgan)-[:FLEW_ON]->(STS118_Endeavor_),
+(BarbaraR_Morgan)-[:RECRUITED_IN_CLASS]->(G17)
+
+CREATE (JamesA_Pawelczyk:Astronaut {name: 'James A. Pawelczyk', birthplace: 'Buffalo, NY' , dateOfBirth: '9/20/1960' , gender: 'Male'})
+CREATE (JamesA_Pawelczyk)-[:EDUCATED_AT]->(UniversityofRochester),
+(JamesA_Pawelczyk)-[:FLEW_ON]->(STS90_Columbia_),
+(JamesA_Pawelczyk)-[:RECRUITED_IN_CLASS]->(G17)
+
+CREATE (CharlesM_DukeJr_:Astronaut {name: 'Charles M. Duke Jr.', birthplace: 'Charlotte, NC' , dateOfBirth: '10/3/1935' , gender: 'Male'})
+CREATE (CharlesM_DukeJr_)-[:EDUCATED_AT]->(USNavalAcademy),
+(CharlesM_DukeJr_)-[:FLEW_ON]->(Apollo16),
+(CharlesM_DukeJr_)-[:RECRUITED_IN_CLASS]->(G5)
+
+CREATE (MarkN_Brown:Astronaut {name: 'Mark N. Brown', birthplace: 'Valparaiso, IN' , dateOfBirth: '11/18/1951' , gender: 'Male'})
+CREATE (MarkN_Brown)-[:EDUCATED_AT]->(PurdueUniversity),
+(MarkN_Brown)-[:FLEW_ON]->(STS28_Columbia_),
+(MarkN_Brown)-[:FLEW_ON]->(STS48_Discovery_),
+(MarkN_Brown)-[:RECRUITED_IN_CLASS]->(G10)
+
+CREATE (ChristopherJ_Ferguson:Astronaut {name: 'Christopher J. Ferguson', birthplace: 'Philadelphia, PA' , dateOfBirth: '9/1/1961' , gender: 'Male'})
+CREATE (ChristopherJ_Ferguson)-[:EDUCATED_AT]->(DrexelUniversity),
+(ChristopherJ_Ferguson)-[:FLEW_ON]->(STS115_Atlantis_),
+(ChristopherJ_Ferguson)-[:FLEW_ON]->(STS126_Endeavor_),
+(ChristopherJ_Ferguson)-[:FLEW_ON]->(STS135_Atlantis_),
+(ChristopherJ_Ferguson)-[:RECRUITED_IN_CLASS]->(G17)
+
+CREATE (GeraldP_Carr:Astronaut {name: 'Gerald P. Carr', birthplace: 'Denver, CO' , dateOfBirth: '8/22/1932' , gender: 'Male'})
+CREATE (GeraldP_Carr)-[:EDUCATED_AT]->(UniversityofSouthernCalifornia),
+(GeraldP_Carr)-[:FLEW_ON]->(Skylab4),
+(GeraldP_Carr)-[:RECRUITED_IN_CLASS]->(G5)
+
+CREATE (CharlesJ_Precourt:Astronaut {name: 'Charles J. Precourt', birthplace: 'Waltham, MA' , dateOfBirth: '6/29/1955' , gender: 'Male'})
+CREATE (CharlesJ_Precourt)-[:EDUCATED_AT]->(USAirForceAcademy),
+(CharlesJ_Precourt)-[:FLEW_ON]->(STS55_Columbia_),
+(CharlesJ_Precourt)-[:FLEW_ON]->(STS71_Atlantis_),
+(CharlesJ_Precourt)-[:FLEW_ON]->(STS84_Atlantis_),
+(CharlesJ_Precourt)-[:FLEW_ON]->(STS91_Discovery_),
+(CharlesJ_Precourt)-[:RECRUITED_IN_CLASS]->(G13)
+
+CREATE (M_ScottCarpenter:Astronaut {name: 'M. Scott Carpenter', birthplace: 'Boulder, CO' , dateOfBirth: '5/1/1925' , gender: 'Male'})
+CREATE (M_ScottCarpenter)-[:EDUCATED_AT]->(UniversityofColorado),
+(M_ScottCarpenter)-[:FLEW_ON]->(Mercury7),
+(M_ScottCarpenter)-[:RECRUITED_IN_CLASS]->(G1)
+
+CREATE (FrancisR_Scobee:Astronaut {name: 'Francis R. Scobee', birthplace: 'Cle Elum, WA' , dateOfBirth: '5/19/1939' , gender: 'Male'})
+CREATE (FrancisR_Scobee)-[:EDUCATED_AT]->(UniversityofArizona),
+(FrancisR_Scobee)-[:FLEW_ON]->(STS41C_Challenger_),
+(FrancisR_Scobee)-[:FLEW_ON]->(STS51L_Challenger_),
+(FrancisR_Scobee)-[:RECRUITED_IN_CLASS]->(G8)
+
+CREATE (HarrisonH_Schmitt:Astronaut {name: 'Harrison H. Schmitt', birthplace: 'Santa Rita, NM' , dateOfBirth: '7/3/1935' , gender: 'Male'})
+CREATE (HarrisonH_Schmitt)-[:EDUCATED_AT]->(CaliforniaInstituteofTechnology),
+(HarrisonH_Schmitt)-[:FLEW_ON]->(Apollo17),
+(HarrisonH_Schmitt)-[:RECRUITED_IN_CLASS]->(G4)
+
+CREATE (EllenOchoa:Astronaut {name: 'Ellen Ochoa', birthplace: 'Los Angeles, CA' , dateOfBirth: '5/10/1958' , gender: 'Female'})
+CREATE (EllenOchoa)-[:EDUCATED_AT]->(SanDiegoStateUniversity),
+(EllenOchoa)-[:FLEW_ON]->(STS56_Discovery_),
+(EllenOchoa)-[:FLEW_ON]->(STS66_Atlantis_),
+(EllenOchoa)-[:FLEW_ON]->(STS96_Discovery_),
+(EllenOchoa)-[:FLEW_ON]->(STS110_Atlantis_),
+(EllenOchoa)-[:RECRUITED_IN_CLASS]->(G13)
+
+CREATE (CharlesConradJr_:Astronaut {name: 'Charles Conrad Jr.', birthplace: 'Philadelphia, PA' , dateOfBirth: '5/2/1930' , gender: 'Male'})
+CREATE (CharlesConradJr_)-[:EDUCATED_AT]->(PrincetonUniversity),
+(CharlesConradJr_)-[:FLEW_ON]->(Gemini5),
+(CharlesConradJr_)-[:FLEW_ON]->(Gemini11),
+(CharlesConradJr_)-[:FLEW_ON]->(Apollo12),
+(CharlesConradJr_)-[:FLEW_ON]->(Skylab2),
+(CharlesConradJr_)-[:RECRUITED_IN_CLASS]->(G2)
+
+CREATE (N_JanDavis:Astronaut {name: 'N. Jan Davis', birthplace: 'Cocoa Beach, FL' , dateOfBirth: '11/1/1953' , gender: 'Female'})
+CREATE (N_JanDavis)-[:EDUCATED_AT]->(GeorgiaInstituteofTechnology),
+(N_JanDavis)-[:FLEW_ON]->(STS47_Endeavor_),
+(N_JanDavis)-[:FLEW_ON]->(STS60_Discovery_),
+(N_JanDavis)-[:FLEW_ON]->(STS85_Discovery_),
+(N_JanDavis)-[:RECRUITED_IN_CLASS]->(G12)
+
+CREATE (VanceD_Brand:Astronaut {name: 'Vance D. Brand', birthplace: 'Longmont, CA' , dateOfBirth: '5/9/1931' , gender: 'Male'})
+CREATE (VanceD_Brand)-[:EDUCATED_AT]->(UniversityofColorado),
+(VanceD_Brand)-[:FLEW_ON]->(ApolloSoyuzTestProject),
+(VanceD_Brand)-[:FLEW_ON]->(STS5_Columbia_),
+(VanceD_Brand)-[:FLEW_ON]->(STS41B_Challenger_),
+(VanceD_Brand)-[:FLEW_ON]->(STS35_Columbia_),
+(VanceD_Brand)-[:RECRUITED_IN_CLASS]->(G5)
+
+CREATE (E_MichaelFincke:Astronaut {name: 'E. Michael Fincke', birthplace: 'Pittsburgh, PA' , dateOfBirth: '3/14/1967' , gender: 'Male'})
+CREATE (E_MichaelFincke)-[:EDUCATED_AT]->(MIT),
+(E_MichaelFincke)-[:FLEW_ON]->(ISS09_Soyuz_),
+(E_MichaelFincke)-[:FLEW_ON]->(ISS18_Soyuz_),
+(E_MichaelFincke)-[:FLEW_ON]->(STS134_Endeavor_),
+(E_MichaelFincke)-[:RECRUITED_IN_CLASS]->(G16)
+
+CREATE (EugeneA_Cernan:Astronaut {name: 'Eugene A. Cernan', birthplace: 'Chicago, IL' , dateOfBirth: '3/14/1934' , gender: 'Male'})
+CREATE (EugeneA_Cernan)-[:EDUCATED_AT]->(PurdueUniversity),
+(EugeneA_Cernan)-[:FLEW_ON]->(Gemini9),
+(EugeneA_Cernan)-[:FLEW_ON]->(Apollo10),
+(EugeneA_Cernan)-[:FLEW_ON]->(Apollo17),
+(EugeneA_Cernan)-[:RECRUITED_IN_CLASS]->(G3)
+
+CREATE (DonaldK_Slayton:Astronaut {name: 'Donald K. Slayton', birthplace: 'Sparta, WI' , dateOfBirth: '3/1/1924' , gender: 'Male'})
+CREATE (DonaldK_Slayton)-[:EDUCATED_AT]->(UniversityofMinnesota),
+(DonaldK_Slayton)-[:FLEW_ON]->(ApolloSoyuzTestProject),
+(DonaldK_Slayton)-[:RECRUITED_IN_CLASS]->(G1)
+
+CREATE (BryanD_OConnor:Astronaut {name: 'Bryan D. OConnor', birthplace: 'Orange, CA' , dateOfBirth: '9/6/1946' , gender: 'Male'})
+CREATE (BryanD_OConnor)-[:EDUCATED_AT]->(USNavalAcademy),
+(BryanD_OConnor)-[:FLEW_ON]->(STS61B_Atlantis_),
+(BryanD_OConnor)-[:FLEW_ON]->(STS40_Columbia_),
+(BryanD_OConnor)-[:RECRUITED_IN_CLASS]->(G9)
+
+CREATE (RichardA_Mastracchio:Astronaut {name: 'Richard A. Mastracchio', birthplace: 'Waterbury, CT' , dateOfBirth: '2/11/1960' , gender: 'Male'})
+CREATE (RichardA_Mastracchio)-[:EDUCATED_AT]->(UniversityofConnecticut),
+(RichardA_Mastracchio)-[:FLEW_ON]->(STS106_Atlantis_),
+(RichardA_Mastracchio)-[:FLEW_ON]->(STS118_Endeavor_),
+(RichardA_Mastracchio)-[:FLEW_ON]->(STS131_Discovery_),
+(RichardA_Mastracchio)-[:FLEW_ON]->(ISS3839_Soyuz_),
+(RichardA_Mastracchio)-[:RECRUITED_IN_CLASS]->(G16)
+
+CREATE (MarkT_VandeHei:Astronaut {name: 'Mark T. Vande Hei', birthplace: 'Falls Church, VA' , dateOfBirth: '11/10/1966' , gender: 'Male'})
+CREATE (MarkT_VandeHei)-[:EDUCATED_AT]->(SaintJohnsUniversity),
+(MarkT_VandeHei)-[:RECRUITED_IN_CLASS]->(G20)
+
+CREATE (BruceE_Melnick:Astronaut {name: 'Bruce E. Melnick', birthplace: 'New York, NY' , dateOfBirth: '12/5/1949' , gender: 'Male'})
+CREATE (BruceE_Melnick)-[:EDUCATED_AT]->(USCoastGuardAcademy),
+(BruceE_Melnick)-[:FLEW_ON]->(STS41_Discovery_),
+(BruceE_Melnick)-[:FLEW_ON]->(STS49_Endeavor_),
+(BruceE_Melnick)-[:RECRUITED_IN_CLASS]->(G12)
+
+CREATE (CharlesE_BradyJr_:Astronaut {name: 'Charles E. Brady Jr.', birthplace: 'Pinehurst, NC' , dateOfBirth: '8/12/1951' , gender: 'Male'})
+CREATE (CharlesE_BradyJr_)-[:EDUCATED_AT]->(UniversityofNorthCarolinaatChapelHill),
+(CharlesE_BradyJr_)-[:FLEW_ON]->(STS78_Columbia_),
+(CharlesE_BradyJr_)-[:RECRUITED_IN_CLASS]->(G14)
+
+CREATE (WilliamF_Readdy:Astronaut {name: 'William F. Readdy', birthplace: 'Quonset Point, RI' , dateOfBirth: '1/24/1952' , gender: 'Male'})
+CREATE (WilliamF_Readdy)-[:EDUCATED_AT]->(USNavalAcademy),
+(WilliamF_Readdy)-[:FLEW_ON]->(STS42_Discovery_),
+(WilliamF_Readdy)-[:FLEW_ON]->(STS51_Discovery_),
+(WilliamF_Readdy)-[:FLEW_ON]->(STS79_Atlantis_),
+(WilliamF_Readdy)-[:RECRUITED_IN_CLASS]->(G12)
+
+CREATE (MichaelP_Anderson:Astronaut {name: 'Michael P. Anderson', birthplace: 'Plattsburgh, NY' , dateOfBirth: '12/25/1959' , gender: 'Male'})
+CREATE (MichaelP_Anderson)-[:EDUCATED_AT]->(UniversityofWashington),
+(MichaelP_Anderson)-[:FLEW_ON]->(STS89_Endeavor_),
+(MichaelP_Anderson)-[:FLEW_ON]->(STS107_Columbia_),
+(MichaelP_Anderson)-[:RECRUITED_IN_CLASS]->(G15)
+
+CREATE (L_BlaineHammondJr_:Astronaut {name: 'L. Blaine Hammond Jr.', birthplace: 'Savannah, GA' , dateOfBirth: '1/16/1952' , gender: 'Male'})
+CREATE (L_BlaineHammondJr_)-[:EDUCATED_AT]->(USAirForceAcademy),
+(L_BlaineHammondJr_)-[:FLEW_ON]->(STS39_Discovery_),
+(L_BlaineHammondJr_)-[:FLEW_ON]->(STS64_Discovery_),
+(L_BlaineHammondJr_)-[:RECRUITED_IN_CLASS]->(G10)
+
+CREATE (MichaelJ_Massimino:Astronaut {name: 'Michael J. Massimino', birthplace: 'Oceanside, NY' , dateOfBirth: '8/19/1962' , gender: 'Male'})
+CREATE (MichaelJ_Massimino)-[:EDUCATED_AT]->(ColumbiaUniversity),
+(MichaelJ_Massimino)-[:FLEW_ON]->(STS109_Columbia_),
+(MichaelJ_Massimino)-[:FLEW_ON]->(STS125_Atlantis_),
+(MichaelJ_Massimino)-[:RECRUITED_IN_CLASS]->(G16)
+
+CREATE (JamesH_Newman:Astronaut {name: 'James H. Newman', birthplace: 'San Diego, CA' , dateOfBirth: '10/16/1956' , gender: 'Male'})
+CREATE (JamesH_Newman)-[:EDUCATED_AT]->(DartmouthCollege),
+(JamesH_Newman)-[:FLEW_ON]->(STS51_Discovery_),
+(JamesH_Newman)-[:FLEW_ON]->(STS69_Endeavor_),
+(JamesH_Newman)-[:FLEW_ON]->(STS88_Endeavor_),
+(JamesH_Newman)-[:FLEW_ON]->(STS109_Columbia_),
+(JamesH_Newman)-[:RECRUITED_IN_CLASS]->(G13)
+
+CREATE (RussellL_Schweickart:Astronaut {name: 'Russell L. Schweickart', birthplace: 'Neptune, NJ' , dateOfBirth: '10/25/1935' , gender: 'Male'})
+CREATE (RussellL_Schweickart)-[:EDUCATED_AT]->(MIT),
+(RussellL_Schweickart)-[:FLEW_ON]->(Apollo9),
+(RussellL_Schweickart)-[:RECRUITED_IN_CLASS]->(G3)
+
+CREATE (AndrewM_Allen:Astronaut {name: 'Andrew M. Allen', birthplace: 'Philadelphia, PA' , dateOfBirth: '8/4/1955' , gender: 'Male'})
+CREATE (AndrewM_Allen)-[:EDUCATED_AT]->(VillanovaUniversity),
+(AndrewM_Allen)-[:FLEW_ON]->(STS46_Atlantis_),
+(AndrewM_Allen)-[:FLEW_ON]->(STS62_Columbia_),
+(AndrewM_Allen)-[:FLEW_ON]->(STS75_Columbia_),
+(AndrewM_Allen)-[:RECRUITED_IN_CLASS]->(G12)
+
+CREATE (L_GordonCooperJr_:Astronaut {name: 'L. Gordon Cooper Jr.', birthplace: 'Shawnee, OK' , dateOfBirth: '3/6/1927' , gender: 'Male'})
+CREATE (L_GordonCooperJr_)-[:EDUCATED_AT]->(AirForceInstituteofTechnology),
+(L_GordonCooperJr_)-[:FLEW_ON]->(Mercury9),
+(L_GordonCooperJr_)-[:FLEW_ON]->(Gemini5),
+(L_GordonCooperJr_)-[:RECRUITED_IN_CLASS]->(G1)
+
+CREATE (KennethS_ReightlerJr_:Astronaut {name: 'Kenneth S. Reightler Jr.', birthplace: 'Patuxent River, MD' , dateOfBirth: '3/24/1951' , gender: 'Male'})
+CREATE (KennethS_ReightlerJr_)-[:EDUCATED_AT]->(USNavalAcademy),
+(KennethS_ReightlerJr_)-[:FLEW_ON]->(STS48_Discovery_),
+(KennethS_ReightlerJr_)-[:FLEW_ON]->(STS60_Discovery_),
+(KennethS_ReightlerJr_)-[:RECRUITED_IN_CLASS]->(G12)
+
+CREATE (JohnL_Phillips:Astronaut {name: 'John L. Phillips', birthplace: 'Ft. Belvoir, VA' , dateOfBirth: '4/15/1951' , gender: 'Male'})
+CREATE (JohnL_Phillips)-[:EDUCATED_AT]->(USNavalAcademy),
+(JohnL_Phillips)-[:FLEW_ON]->(STS100_Endeavor_),
+(JohnL_Phillips)-[:FLEW_ON]->(ISS11_Soyuz_),
+(JohnL_Phillips)-[:FLEW_ON]->(STS119_Discovery_),
+(JohnL_Phillips)-[:RECRUITED_IN_CLASS]->(G16)
+
+CREATE (MarkL_Polansky:Astronaut {name: 'Mark L. Polansky', birthplace: 'Paterson, NJ' , dateOfBirth: '6/2/1956' , gender: 'Male'})
+CREATE (MarkL_Polansky)-[:EDUCATED_AT]->(PurdueUniversity),
+(MarkL_Polansky)-[:FLEW_ON]->(STS98_Atlantis_),
+(MarkL_Polansky)-[:FLEW_ON]->(ST116_Discovery_),
+(MarkL_Polansky)-[:FLEW_ON]->(STS127_Endeavor_),
+(MarkL_Polansky)-[:RECRUITED_IN_CLASS]->(G16)
+
+CREATE (LeeM_Morin:Astronaut {name: 'Lee M. Morin', birthplace: 'Manchester, NH' , dateOfBirth: '9/9/1952' , gender: 'Male'})
+CREATE (LeeM_Morin)-[:EDUCATED_AT]->(UniversityofNewHampshire),
+(LeeM_Morin)-[:FLEW_ON]->(STS110_Atlantis_),
+(LeeM_Morin)-[:RECRUITED_IN_CLASS]->(G16)
+
+CREATE (FredW_Leslie:Astronaut {name: 'Fred W. Leslie', birthplace: 'Ancon, Panama' , dateOfBirth: '12/19/1951' , gender: 'Male'})
+CREATE (FredW_Leslie)-[:EDUCATED_AT]->(UniversityofTexas),
+(FredW_Leslie)-[:FLEW_ON]->(STS73_Columbia_),
+(FredW_Leslie)-[:RECRUITED_IN_CLASS]->(G15)
+
+CREATE (StoryMusgrave:Astronaut {name: 'Story Musgrave', birthplace: 'Boston, MA' , dateOfBirth: '8/19/1935' , gender: 'Male'})
+CREATE (StoryMusgrave)-[:EDUCATED_AT]->(SyracuseUniversity),
+(StoryMusgrave)-[:FLEW_ON]->(STS6_Challenger_),
+(StoryMusgrave)-[:FLEW_ON]->(STS51F_Challenger_),
+(StoryMusgrave)-[:FLEW_ON]->(STS33_Discovery_),
+(StoryMusgrave)-[:FLEW_ON]->(STS44_Atlantis_),
+(StoryMusgrave)-[:FLEW_ON]->(STS61_Endeavor_),
+(StoryMusgrave)-[:FLEW_ON]->(STS80_Columbia_),
+(StoryMusgrave)-[:RECRUITED_IN_CLASS]->(G6)
+
+CREATE (StuartA_Roosa:Astronaut {name: 'Stuart A. Roosa', birthplace: 'Durango, CO' , dateOfBirth: '8/16/1933' , gender: 'Male'})
+CREATE (StuartA_Roosa)-[:EDUCATED_AT]->(UniversityofColorado),
+(StuartA_Roosa)-[:FLEW_ON]->(Apollo14),
+(StuartA_Roosa)-[:RECRUITED_IN_CLASS]->(G5)
+
+CREATE (ElliotM_SeeJr_:Astronaut {name: 'Elliot M. See Jr.', birthplace: 'Dallas, TX' , dateOfBirth: '7/23/1927' , gender: 'Male'})
+CREATE (ElliotM_SeeJr_)-[:EDUCATED_AT]->(USMerchantMarineAcademy),
+(ElliotM_SeeJr_)-[:RECRUITED_IN_CLASS]->(G2)
+
+CREATE (MaeC_Jemison:Astronaut {name: 'Mae C. Jemison', birthplace: 'Decatur, AL' , dateOfBirth: '10/17/1956' , gender: 'Female'})
+CREATE (MaeC_Jemison)-[:EDUCATED_AT]->(StanfordUniversity),
+(MaeC_Jemison)-[:FLEW_ON]->(STS47_Endeavor_),
+(MaeC_Jemison)-[:RECRUITED_IN_CLASS]->(G12)
+
+CREATE (BruceMcCandlessII:Astronaut {name: 'Bruce McCandless II', birthplace: 'Boston, MA' , dateOfBirth: '6/8/1937' , gender: 'Male'})
+CREATE (BruceMcCandlessII)-[:EDUCATED_AT]->(USNavalAcademy),
+(BruceMcCandlessII)-[:FLEW_ON]->(STS41B_Challenger_),
+(BruceMcCandlessII)-[:FLEW_ON]->(STS31_Discovery_),
+(BruceMcCandlessII)-[:RECRUITED_IN_CLASS]->(G5)
+
+CREATE (RonaldJ_Grabe:Astronaut {name: 'Ronald J. Grabe', birthplace: 'New York, NY' , dateOfBirth: '6/13/1945' , gender: 'Male'})
+CREATE (RonaldJ_Grabe)-[:EDUCATED_AT]->(USAirForceAcademy),
+(RonaldJ_Grabe)-[:FLEW_ON]->(STS51J_Atlantis_),
+(RonaldJ_Grabe)-[:FLEW_ON]->(STS30_Atlantis_),
+(RonaldJ_Grabe)-[:FLEW_ON]->(STS42_Discovery_),
+(RonaldJ_Grabe)-[:FLEW_ON]->(STS57_Endeavor_),
+(RonaldJ_Grabe)-[:RECRUITED_IN_CLASS]->(G9)
+
+CREATE (PaulJ_Weitz:Astronaut {name: 'Paul J. Weitz', birthplace: 'Erie, PA' , dateOfBirth: '6/25/1932' , gender: 'Male'})
+CREATE (PaulJ_Weitz)-[:EDUCATED_AT]->(PennsylvaniaStateUniversity),
+(PaulJ_Weitz)-[:FLEW_ON]->(Skylab2),
+(PaulJ_Weitz)-[:FLEW_ON]->(STS6_Challenger_),
+(PaulJ_Weitz)-[:RECRUITED_IN_CLASS]->(G5)
+
+CREATE (MartinJ_Fettman:Astronaut {name: 'Martin J. Fettman', birthplace: 'Brooklyn, NY' , dateOfBirth: '12/31/1956' , gender: 'Male'})
+CREATE (MartinJ_Fettman)-[:EDUCATED_AT]->(CornellUniversity),
+(MartinJ_Fettman)-[:FLEW_ON]->(STS58_Columbia_),
+(MartinJ_Fettman)-[:RECRUITED_IN_CLASS]->(G14)
+
+CREATE (JosephP_Kerwin:Astronaut {name: 'Joseph P. Kerwin', birthplace: 'Oak Park, IL' , dateOfBirth: '2/19/1932' , gender: 'Male'})
+CREATE (JosephP_Kerwin)-[:EDUCATED_AT]->(CollegeoftheHolyCross),
+(JosephP_Kerwin)-[:FLEW_ON]->(Skylab2),
+(JosephP_Kerwin)-[:RECRUITED_IN_CLASS]->(G4)
+
+CREATE (GeorgeD_Zamka:Astronaut {name: 'George D. Zamka', birthplace: 'Jersey City, NJ' , dateOfBirth: '6/29/1962' , gender: 'Male'})
+CREATE (GeorgeD_Zamka)-[:EDUCATED_AT]->(USNavalAcademy),
+(GeorgeD_Zamka)-[:FLEW_ON]->(STS120_Discovery_),
+(GeorgeD_Zamka)-[:FLEW_ON]->(STS130_Endeavor_),
+(GeorgeD_Zamka)-[:RECRUITED_IN_CLASS]->(G17)
+
+CREATE (J_MikeLounge:Astronaut {name: 'J. Mike Lounge', birthplace: 'Denver, CO' , dateOfBirth: '6/28/1946' , gender: 'Male'})
+CREATE (J_MikeLounge)-[:EDUCATED_AT]->(USNavalAcademy),
+(J_MikeLounge)-[:FLEW_ON]->(STS51I_Discovery_),
+(J_MikeLounge)-[:FLEW_ON]->(STS26_Discovery_),
+(J_MikeLounge)-[:FLEW_ON]->(STS35_Columbia_),
+(J_MikeLounge)-[:RECRUITED_IN_CLASS]->(G9)
+
+CREATE (GuionS_BlufordJr_:Astronaut {name: 'Guion S. Bluford Jr.', birthplace: 'Philadelphia, PA' , dateOfBirth: '11/22/1942' , gender: 'Male'})
+CREATE (GuionS_BlufordJr_)-[:EDUCATED_AT]->(PennsylvaniaStateUniversity),
+(GuionS_BlufordJr_)-[:FLEW_ON]->(STS8_Challenger_),
+(GuionS_BlufordJr_)-[:FLEW_ON]->(STS61A_Challenger_),
+(GuionS_BlufordJr_)-[:FLEW_ON]->(STS39_Discovery_),
+(GuionS_BlufordJr_)-[:FLEW_ON]->(STS53_Discovery_),
+(GuionS_BlufordJr_)-[:RECRUITED_IN_CLASS]->(G8)
+
+CREATE (RobertF_Overmyer:Astronaut {name: 'Robert F. Overmyer', birthplace: 'Lorain, OH' , dateOfBirth: '7/14/1936' , gender: 'Male'})
+CREATE (RobertF_Overmyer)-[:EDUCATED_AT]->(BaldwinWallaceCollege),
+(RobertF_Overmyer)-[:FLEW_ON]->(STS5_Columbia_),
+(RobertF_Overmyer)-[:FLEW_ON]->(STS51B_Challenger_),
+(RobertF_Overmyer)-[:RECRUITED_IN_CLASS]->(G7)
+
+CREATE (EllenS_Baker:Astronaut {name: 'Ellen S. Baker', birthplace: 'Fayettesville, NC' , dateOfBirth: '4/27/1953' , gender: 'Female'})
+CREATE (EllenS_Baker)-[:EDUCATED_AT]->(StateUniversityofNewYorkBuffalo),
+(EllenS_Baker)-[:FLEW_ON]->(STS34_Atlantis_),
+(EllenS_Baker)-[:FLEW_ON]->(STS50_Columbia_),
+(EllenS_Baker)-[:FLEW_ON]->(STS71_Atlantis_),
+(EllenS_Baker)-[:RECRUITED_IN_CLASS]->(G10)
+
+CREATE (ThomasP_Stafford:Astronaut {name: 'Thomas P. Stafford', birthplace: 'Weatherford, OK' , dateOfBirth: '9/17/1930' , gender: 'Male'})
+CREATE (ThomasP_Stafford)-[:EDUCATED_AT]->(USNavalAcademy),
+(ThomasP_Stafford)-[:FLEW_ON]->(Gemini6),
+(ThomasP_Stafford)-[:FLEW_ON]->(Gemini9),
+(ThomasP_Stafford)-[:FLEW_ON]->(Apollo10),
+(ThomasP_Stafford)-[:FLEW_ON]->(ApolloSoyuzTestProject),
+(ThomasP_Stafford)-[:RECRUITED_IN_CLASS]->(G2)
+
+CREATE (DouglasG_Hurley:Astronaut {name: 'Douglas G. Hurley', birthplace: 'Endicott, NY' , dateOfBirth: '10/21/1966' , gender: 'Male'})
+CREATE (DouglasG_Hurley)-[:EDUCATED_AT]->(TulaneUniversity),
+(DouglasG_Hurley)-[:FLEW_ON]->(STS127_Endeavor_),
+(DouglasG_Hurley)-[:FLEW_ON]->(STS135_Atlantis_),
+(DouglasG_Hurley)-[:RECRUITED_IN_CLASS]->(G18)
+
+CREATE (AlanL_Bean:Astronaut {name: 'Alan L. Bean', birthplace: 'Wheeler, TX' , dateOfBirth: '3/15/1932' , gender: 'Male'})
+CREATE (AlanL_Bean)-[:EDUCATED_AT]->(UniversityofTexas),
+(AlanL_Bean)-[:FLEW_ON]->(Apollo12),
+(AlanL_Bean)-[:FLEW_ON]->(Skylab3),
+(AlanL_Bean)-[:RECRUITED_IN_CLASS]->(G3)
+
+CREATE (FrankL_CulbertsonJr_:Astronaut {name: 'Frank L. Culbertson Jr.', birthplace: 'Charleston, SC' , dateOfBirth: '5/15/1949' , gender: 'Male'})
+CREATE (FrankL_CulbertsonJr_)-[:EDUCATED_AT]->(USNavalAcademy),
+(FrankL_CulbertsonJr_)-[:FLEW_ON]->(STS38_Atlantis_),
+(FrankL_CulbertsonJr_)-[:FLEW_ON]->(STS51_Discovery_),
+(FrankL_CulbertsonJr_)-[:FLEW_ON]->(STS105108_DiscoveryEndeavor_),
+(FrankL_CulbertsonJr_)-[:RECRUITED_IN_CLASS]->(G10)
+
+CREATE (JamesC_Adamson:Astronaut {name: 'James C. Adamson', birthplace: 'Warsaw, NY' , dateOfBirth: '3/3/1946' , gender: 'Male'})
+CREATE (JamesC_Adamson)-[:EDUCATED_AT]->(USMilitaryAcademy),
+(JamesC_Adamson)-[:FLEW_ON]->(STS28_Columbia_),
+(JamesC_Adamson)-[:FLEW_ON]->(STS43_Atlantis_),
+(JamesC_Adamson)-[:RECRUITED_IN_CLASS]->(G10)
+
+CREATE (NeilW_WoodwardIII:Astronaut {name: 'Neil W. Woodward III', birthplace: 'Chicago, IL' , dateOfBirth: '7/26/1962' , gender: 'Male'})
+CREATE (NeilW_WoodwardIII)-[:EDUCATED_AT]->(MIT),
+(NeilW_WoodwardIII)-[:RECRUITED_IN_CLASS]->(G17)
+
+CREATE (RonaldA_Parise:Astronaut {name: 'Ronald A. Parise', birthplace: 'Warren, OH' , dateOfBirth: '5/24/1951' , gender: 'Male'})
+CREATE (RonaldA_Parise)-[:EDUCATED_AT]->(YoungstownStateUniversity),
+(RonaldA_Parise)-[:FLEW_ON]->(STS35_Columbia_),
+(RonaldA_Parise)-[:FLEW_ON]->(STS67_Endeavor_),
+(RonaldA_Parise)-[:RECRUITED_IN_CLASS]->(G13)
+
+CREATE (AlbertSaccoJr_:Astronaut {name: 'Albert Sacco Jr.', birthplace: 'Boston, MA' , dateOfBirth: '5/3/1949' , gender: 'Male'})
+CREATE (AlbertSaccoJr_)-[:EDUCATED_AT]->(NortheasternUniversity),
+(AlbertSaccoJr_)-[:FLEW_ON]->(STS73_Columbia_),
+(AlbertSaccoJr_)-[:RECRUITED_IN_CLASS]->(G15)
+
+CREATE (SamuelT_Durrance:Astronaut {name: 'Samuel T. Durrance', birthplace: 'Tallahassee, FL' , dateOfBirth: '9/17/1943' , gender: 'Male'})
+CREATE (SamuelT_Durrance)-[:EDUCATED_AT]->(CaliforniaStateUniversity),
+(SamuelT_Durrance)-[:FLEW_ON]->(STS35_Columbia_),
+(SamuelT_Durrance)-[:FLEW_ON]->(STS67_Endeavor_),
+(SamuelT_Durrance)-[:RECRUITED_IN_CLASS]->(G13)
+
+CREATE (ClaytonC_Anderson:Astronaut {name: 'Clayton C. Anderson', birthplace: 'Omaha, NE' , dateOfBirth: '2/23/1959' , gender: 'Male'})
+CREATE (ClaytonC_Anderson)-[:EDUCATED_AT]->(HastingsCollege),
+(ClaytonC_Anderson)-[:FLEW_ON]->(STS117120_AtlantisDiscovery_),
+(ClaytonC_Anderson)-[:FLEW_ON]->(STS131_Discovery_),
+(ClaytonC_Anderson)-[:RECRUITED_IN_CLASS]->(G17)
+
+CREATE (JamesP_Bagian:Astronaut {name: 'James P. Bagian', birthplace: 'Philadelphia, PA' , dateOfBirth: '2/22/1952' , gender: 'Male'})
+CREATE (JamesP_Bagian)-[:EDUCATED_AT]->(DrexelUniversity),
+(JamesP_Bagian)-[:FLEW_ON]->(STS29_Discovery_),
+(JamesP_Bagian)-[:FLEW_ON]->(STS40_Columbia_),
+(JamesP_Bagian)-[:RECRUITED_IN_CLASS]->(G9)
+
+CREATE (RogerB_Chaffee:Astronaut {name: 'Roger B. Chaffee', birthplace: 'Grand Rapids, MI' , dateOfBirth: '2/15/1935' , gender: 'Male'})
+CREATE (RogerB_Chaffee)-[:EDUCATED_AT]->(PurdueUniversity),
+(RogerB_Chaffee)-[:FLEW_ON]->(Apollo1),
+(RogerB_Chaffee)-[:RECRUITED_IN_CLASS]->(G3)
+
+CREATE (CliftonC_WilliamsJr_:Astronaut {name: 'Clifton C. Williams Jr.', birthplace: 'Mobile, AL' , dateOfBirth: '9/26/1932' , gender: 'Male'})
+CREATE (CliftonC_WilliamsJr_)-[:EDUCATED_AT]->(AuburnUniversity),
+(CliftonC_WilliamsJr_)-[:RECRUITED_IN_CLASS]->(G3)
+
+CREATE (KennethT_Ham:Astronaut {name: 'Kenneth T. Ham', birthplace: 'Plainfield, NJ' , dateOfBirth: '12/12/1964' , gender: 'Male'})
+CREATE (KennethT_Ham)-[:EDUCATED_AT]->(USNavalAcademy),
+(KennethT_Ham)-[:FLEW_ON]->(STS124_Discovery_),
+(KennethT_Ham)-[:FLEW_ON]->(STS132_Atlantis_),
+(KennethT_Ham)-[:RECRUITED_IN_CLASS]->(G17)
+
+CREATE (LodewijkvandenBerg:Astronaut {name: 'Lodewijk van den Berg', birthplace: 'Sluiskil, Netherlands' , dateOfBirth: '3/24/1932' , gender: 'Male'})
+CREATE (LodewijkvandenBerg)-[:EDUCATED_AT]->(DelftUniversityofTechnology),
+(LodewijkvandenBerg)-[:FLEW_ON]->(STS51B_Challenger_),
+(LodewijkvandenBerg)-[:RECRUITED_IN_CLASS]->(G11)
+
+CREATE (JohnB_Herrington:Astronaut {name: 'John B. Herrington', birthplace: 'Wetumka, OK' , dateOfBirth: '9/14/1958' , gender: 'Male'})
+CREATE (JohnB_Herrington)-[:EDUCATED_AT]->(UniversityofColorado),
+(JohnB_Herrington)-[:FLEW_ON]->(STS113_Endeavor_),
+(JohnB_Herrington)-[:RECRUITED_IN_CLASS]->(G16)
+
+CREATE (JoanE_Higginbotham:Astronaut {name: 'Joan E. Higginbotham', birthplace: 'Chicago, IL' , dateOfBirth: '8/3/1964' , gender: 'Female'})
+CREATE (JoanE_Higginbotham)-[:EDUCATED_AT]->(SouthernIllinoisUniversityCarbondale),
+(JoanE_Higginbotham)-[:FLEW_ON]->(STS116_Discovery_),
+(JoanE_Higginbotham)-[:RECRUITED_IN_CLASS]->(G16)
+
+CREATE (GregoryH_Johnson:Astronaut {name: 'Gregory H. Johnson', birthplace: 'London, England' , dateOfBirth: '5/12/1962' , gender: 'Male'})
+CREATE (GregoryH_Johnson)-[:EDUCATED_AT]->(USAirForceAcademy),
+(GregoryH_Johnson)-[:FLEW_ON]->(STS123_Endeavor_),
+(GregoryH_Johnson)-[:FLEW_ON]->(STS134_Endeavor_),
+(GregoryH_Johnson)-[:RECRUITED_IN_CLASS]->(G17)
+
+CREATE (DanielC_Brandenstein:Astronaut {name: 'Daniel C. Brandenstein', birthplace: 'Watertown, WI' , dateOfBirth: '1/17/1943' , gender: 'Male'})
+CREATE (DanielC_Brandenstein)-[:EDUCATED_AT]->(UniversityofWisconsin),
+(DanielC_Brandenstein)-[:FLEW_ON]->(STS8_Challenger_),
+(DanielC_Brandenstein)-[:FLEW_ON]->(STS51G_Discovery_),
+(DanielC_Brandenstein)-[:FLEW_ON]->(STS32_Columbia_),
+(DanielC_Brandenstein)-[:FLEW_ON]->(STS49_Endeavor_),
+(DanielC_Brandenstein)-[:RECRUITED_IN_CLASS]->(G8)
+
+CREATE (RobertL_CurbeamJr_:Astronaut {name: 'Robert L. Curbeam Jr.', birthplace: 'Baltimore, MD' , dateOfBirth: '3/5/1962' , gender: 'Male'})
+CREATE (RobertL_CurbeamJr_)-[:EDUCATED_AT]->(USNavalAcademy),
+(RobertL_CurbeamJr_)-[:FLEW_ON]->(STS85_Discovery_),
+(RobertL_CurbeamJr_)-[:FLEW_ON]->(STS98_Atlantis_),
+(RobertL_CurbeamJr_)-[:FLEW_ON]->(STS116_Discovery_),
+(RobertL_CurbeamJr_)-[:RECRUITED_IN_CLASS]->(G15)
+
+CREATE (CatherineG_Coleman:Astronaut {name: 'Catherine G. Coleman', birthplace: 'Charleston, SC' , dateOfBirth: '12/14/1960' , gender: 'Female'})
+CREATE (CatherineG_Coleman)-[:EDUCATED_AT]->(MIT),
+(CatherineG_Coleman)-[:FLEW_ON]->(STS73_Columbia_),
+(CatherineG_Coleman)-[:FLEW_ON]->(STS93_Columbia_),
+(CatherineG_Coleman)-[:FLEW_ON]->(ISS2627_Soyuz_),
+(CatherineG_Coleman)-[:RECRUITED_IN_CLASS]->(G14)
+
+CREATE (FrederickD_Gregory:Astronaut {name: 'Frederick D. Gregory', birthplace: 'Washington, DC' , dateOfBirth: '1/7/1941' , gender: 'Male'})
+CREATE (FrederickD_Gregory)-[:EDUCATED_AT]->(USAirForceAcademy),
+(FrederickD_Gregory)-[:FLEW_ON]->(STS51B_Challenger_),
+(FrederickD_Gregory)-[:FLEW_ON]->(STS33_Discovery_),
+(FrederickD_Gregory)-[:FLEW_ON]->(STS44_Atlantis_),
+(FrederickD_Gregory)-[:RECRUITED_IN_CLASS]->(G8)
+
+CREATE (DorothyM_MetcalfLindenberger:Astronaut {name: 'Dorothy M. Metcalf-Lindenberger', birthplace: 'Colorado Springs, CO' , dateOfBirth: '5/2/1975' , gender: 'Female'})
+CREATE (DorothyM_MetcalfLindenberger)-[:EDUCATED_AT]->(WhitmanCollege),
+(DorothyM_MetcalfLindenberger)-[:FLEW_ON]->(STS131_Discovery_),
+(DorothyM_MetcalfLindenberger)-[:RECRUITED_IN_CLASS]->(G19)
+
+CREATE (LaurelB_Clark:Astronaut {name: 'Laurel B. Clark', birthplace: 'Ames, IA' , dateOfBirth: '3/10/1961' , gender: 'Female'})
+CREATE (LaurelB_Clark)-[:EDUCATED_AT]->(UniversityofWisconsinMadison),
+(LaurelB_Clark)-[:FLEW_ON]->(STS107_Columbia_),
+(LaurelB_Clark)-[:RECRUITED_IN_CLASS]->(G16)
+
+CREATE (MichaelA_Baker:Astronaut {name: 'Michael A. Baker', birthplace: 'Memphis, TN' , dateOfBirth: '10/27/1953' , gender: 'Male'})
+CREATE (MichaelA_Baker)-[:EDUCATED_AT]->(UniversityofTexas),
+(MichaelA_Baker)-[:FLEW_ON]->(STS43_Atlantis_),
+(MichaelA_Baker)-[:FLEW_ON]->(STS52_Columbia_),
+(MichaelA_Baker)-[:FLEW_ON]->(STS68_Endeavor_),
+(MichaelA_Baker)-[:FLEW_ON]->(STS81_Atlantis_),
+(MichaelA_Baker)-[:RECRUITED_IN_CLASS]->(G11)
+
+CREATE (RobertL_Crippen:Astronaut {name: 'Robert L. Crippen', birthplace: 'Beaumont, TX' , dateOfBirth: '9/11/1937' , gender: 'Male'})
+CREATE (RobertL_Crippen)-[:EDUCATED_AT]->(UniversityofTexas),
+(RobertL_Crippen)-[:FLEW_ON]->(STS1_Columbia_),
+(RobertL_Crippen)-[:FLEW_ON]->(STS7_Challenger_),
+(RobertL_Crippen)-[:FLEW_ON]->(STS41C_Challenger_),
+(RobertL_Crippen)-[:FLEW_ON]->(STS41G_Challenger_),
+(RobertL_Crippen)-[:RECRUITED_IN_CLASS]->(G7)
+
+CREATE (TerrenceW_Wilcutt:Astronaut {name: 'Terrence W. Wilcutt', birthplace: 'Russellville, KY' , dateOfBirth: '10/31/1949' , gender: 'Male'})
+CREATE (TerrenceW_Wilcutt)-[:EDUCATED_AT]->(WesternKentuckyUniversity),
+(TerrenceW_Wilcutt)-[:FLEW_ON]->(STS68_Endeavor_),
+(TerrenceW_Wilcutt)-[:FLEW_ON]->(STS79_Atlantis_),
+(TerrenceW_Wilcutt)-[:FLEW_ON]->(STS89_Endeavor_),
+(TerrenceW_Wilcutt)-[:FLEW_ON]->(STS106_Atlantis_),
+(TerrenceW_Wilcutt)-[:RECRUITED_IN_CLASS]->(G13)
+
+CREATE (GregoryE_Chamitoff:Astronaut {name: 'Gregory E. Chamitoff', birthplace: 'Montreal, Canada' , dateOfBirth: '8/6/1962' , gender: 'Male'})
+CREATE (GregoryE_Chamitoff)-[:EDUCATED_AT]->(CaliforniaPolytechnicStateUniversity),
+(GregoryE_Chamitoff)-[:FLEW_ON]->(STS124126_DiscoveryEndeavor_),
+(GregoryE_Chamitoff)-[:FLEW_ON]->(STS134_Endeavor_),
+(GregoryE_Chamitoff)-[:RECRUITED_IN_CLASS]->(G17)
+
+CREATE (NicoleP_Stott:Astronaut {name: 'Nicole P. Stott', birthplace: 'Albany, NY' , dateOfBirth: '11/19/1962' , gender: 'Female'})
+CREATE (NicoleP_Stott)-[:EDUCATED_AT]->(EmbryRiddleAeronauticalUniversity),
+(NicoleP_Stott)-[:FLEW_ON]->(STS128129_DiscoveryAtlantis_),
+(NicoleP_Stott)-[:FLEW_ON]->(STS133_Discovery_),
+(NicoleP_Stott)-[:RECRUITED_IN_CLASS]->(G18)
+
+CREATE (GregoryT_Linteris:Astronaut {name: 'Gregory T. Linteris', birthplace: 'Demarest, NJ' , dateOfBirth: '10/4/1957' , gender: 'Male'})
+CREATE (GregoryT_Linteris)-[:EDUCATED_AT]->(PrincetonUniversity),
+(GregoryT_Linteris)-[:FLEW_ON]->(STS83_Columbia_),
+(GregoryT_Linteris)-[:FLEW_ON]->(STS94_Columbia_),
+(GregoryT_Linteris)-[:RECRUITED_IN_CLASS]->(G17)
+
+CREATE (DonaldL_Holmquest:Astronaut {name: 'Donald L. Holmquest', birthplace: 'Dallas, TX' , dateOfBirth: '4/7/1939' , gender: 'Male'})
+CREATE (DonaldL_Holmquest)-[:EDUCATED_AT]->(SouthernMethodistUniversity),
+(DonaldL_Holmquest)-[:RECRUITED_IN_CLASS]->(G6)
+
+CREATE (RonaldM_Sega:Astronaut {name: 'Ronald M. Sega', birthplace: 'Cleveland, OH' , dateOfBirth: '12/4/1952' , gender: 'Male'})
+CREATE (RonaldM_Sega)-[:EDUCATED_AT]->(USAirForceAcademy),
+(RonaldM_Sega)-[:FLEW_ON]->(STS60_Discovery_),
+(RonaldM_Sega)-[:FLEW_ON]->(STS76_Atlantis_),
+(RonaldM_Sega)-[:RECRUITED_IN_CLASS]->(G13)
+
+CREATE (OwenK_Garriott:Astronaut {name: 'Owen K. Garriott', birthplace: 'Enid, OK' , dateOfBirth: '11/22/1930' , gender: 'Male'})
+CREATE (OwenK_Garriott)-[:EDUCATED_AT]->(UniversityofOklahoma),
+(OwenK_Garriott)-[:FLEW_ON]->(Skylab3),
+(OwenK_Garriott)-[:FLEW_ON]->(STS9_Columbia_),
+(OwenK_Garriott)-[:RECRUITED_IN_CLASS]->(G4)
+
+CREATE (MichaelJ_Smith:Astronaut {name: 'Michael J. Smith', birthplace: 'Beaufort, NC' , dateOfBirth: '4/30/1945' , gender: 'Male'})
+CREATE (MichaelJ_Smith)-[:EDUCATED_AT]->(USNavalAcademy),
+(MichaelJ_Smith)-[:FLEW_ON]->(STS51L_Challenger_),
+(MichaelJ_Smith)-[:RECRUITED_IN_CLASS]->(G9)
+
+CREATE (JeffreyA_Hoffman:Astronaut {name: 'Jeffrey A. Hoffman', birthplace: 'Brooklyn, NY' , dateOfBirth: '11/2/1944' , gender: 'Male'})
+CREATE (JeffreyA_Hoffman)-[:EDUCATED_AT]->(AmherstCollege),
+(JeffreyA_Hoffman)-[:FLEW_ON]->(STS51D_Discovery_),
+(JeffreyA_Hoffman)-[:FLEW_ON]->(STS35_Columbia_),
+(JeffreyA_Hoffman)-[:FLEW_ON]->(STS46_Atlantis_),
+(JeffreyA_Hoffman)-[:FLEW_ON]->(STS61_Endeavor_),
+(JeffreyA_Hoffman)-[:FLEW_ON]->(STS75_Columbia_),
+(JeffreyA_Hoffman)-[:RECRUITED_IN_CLASS]->(G8)
+
+CREATE (PeggyA_Whitson:Astronaut {name: 'Peggy A. Whitson', birthplace: 'Mt. Ayr, IA' , dateOfBirth: '2/9/1960' , gender: 'Female'})
+CREATE (PeggyA_Whitson)-[:EDUCATED_AT]->(IowaWesleyanCollege),
+(PeggyA_Whitson)-[:FLEW_ON]->(STS111113_Endeavor_),
+(PeggyA_Whitson)-[:FLEW_ON]->(ISS16_Soyuz_),
+(PeggyA_Whitson)-[:FLEW_ON]->(ISS5051_Soyuz_),
+(PeggyA_Whitson)-[:RECRUITED_IN_CLASS]->(G16)
+
+CREATE (PatriciaHilliardRobertson:Astronaut {name: 'Patricia Hilliard Robertson', birthplace: 'Indiana, PA' , dateOfBirth: '3/12/1963' , gender: 'Female'})
+CREATE (PatriciaHilliardRobertson)-[:EDUCATED_AT]->(IndianaUniversityofPennsylvania),
+(PatriciaHilliardRobertson)-[:RECRUITED_IN_CLASS]->(G17)
+
+CREATE (DavidC_Hilmers:Astronaut {name: 'David C. Hilmers', birthplace: 'Clinton, IA' , dateOfBirth: '1/28/1950' , gender: 'Male'})
+CREATE (DavidC_Hilmers)-[:EDUCATED_AT]->(CornellUniversity),
+(DavidC_Hilmers)-[:FLEW_ON]->(ST51J_Atlantis_),
+(DavidC_Hilmers)-[:FLEW_ON]->(STS26_Discovery_),
+(DavidC_Hilmers)-[:FLEW_ON]->(STS36_Atlantis_),
+(DavidC_Hilmers)-[:FLEW_ON]->(STS42_Discovery_),
+(DavidC_Hilmers)-[:RECRUITED_IN_CLASS]->(G9)
+
+CREATE (JamesD_vanHoften:Astronaut {name: 'James D. van Hoften', birthplace: 'Fresno, CA' , dateOfBirth: '6/11/1944' , gender: 'Male'})
+CREATE (JamesD_vanHoften)-[:EDUCATED_AT]->(UniversityofCaliforniaBerkeley),
+(JamesD_vanHoften)-[:FLEW_ON]->(STS41C_Challenger_),
+(JamesD_vanHoften)-[:FLEW_ON]->(STS51I_Discovery_),
+(JamesD_vanHoften)-[:RECRUITED_IN_CLASS]->(G8)
+
+CREATE (JohnM_Fabian:Astronaut {name: 'John M. Fabian', birthplace: 'Goosecreek, TX' , dateOfBirth: '1/28/1939' , gender: 'Male'})
+CREATE (JohnM_Fabian)-[:EDUCATED_AT]->(WashingtonStateUniversity),
+(JohnM_Fabian)-[:FLEW_ON]->(STS7_Challenger_),
+(JohnM_Fabian)-[:FLEW_ON]->(STS51G_Discovery_),
+(JohnM_Fabian)-[:RECRUITED_IN_CLASS]->(G8)
+
+CREATE (GregoryC_Johnson:Astronaut {name: 'Gregory C. Johnson', birthplace: 'Seattle, WA' , dateOfBirth: '7/30/1954' , gender: 'Male'})
+CREATE (GregoryC_Johnson)-[:EDUCATED_AT]->(UniversityofWashington),
+(GregoryC_Johnson)-[:FLEW_ON]->(STS125_Atlantis_),
+(GregoryC_Johnson)-[:RECRUITED_IN_CLASS]->(G17)
+
+CREATE (BernardA_HarrisJr_:Astronaut {name: 'Bernard A. Harris Jr.', birthplace: 'Temple, TX' , dateOfBirth: '6/26/1956' , gender: 'Male'})
+CREATE (BernardA_HarrisJr_)-[:EDUCATED_AT]->(UniversityofHouston),
+(BernardA_HarrisJr_)-[:FLEW_ON]->(STS55_Columbia_),
+(BernardA_HarrisJr_)-[:FLEW_ON]->(STS63_Discovery_),
+(BernardA_HarrisJr_)-[:RECRUITED_IN_CLASS]->(G13)
+
+CREATE (LelandD_Melvin:Astronaut {name: 'Leland D. Melvin', birthplace: 'Lynchburg, VA' , dateOfBirth: '2/15/1964' , gender: 'Male'})
+CREATE (LelandD_Melvin)-[:EDUCATED_AT]->(UniversityofRichmond),
+(LelandD_Melvin)-[:FLEW_ON]->(STS122_Atlantis_),
+(LelandD_Melvin)-[:FLEW_ON]->(STS129_Atlantis_),
+(LelandD_Melvin)-[:RECRUITED_IN_CLASS]->(G17)
+
+CREATE (DuaneG_Carey:Astronaut {name: 'Duane G. Carey', birthplace: 'St. Paul, MN' , dateOfBirth: '4/30/1957' , gender: 'Male'})
+CREATE (DuaneG_Carey)-[:EDUCATED_AT]->(UniversityofMinnesotaMinneapolis),
+(DuaneG_Carey)-[:FLEW_ON]->(STS109_Columbia_),
+(DuaneG_Carey)-[:RECRUITED_IN_CLASS]->(G16)
+
+CREATE (MichaelE_Fossum:Astronaut {name: 'Michael E. Fossum', birthplace: 'Sioux Falls, SD' , dateOfBirth: '12/19/1957' , gender: 'Male'})
+CREATE (MichaelE_Fossum)-[:EDUCATED_AT]->(TexasAMUniversity),
+(MichaelE_Fossum)-[:FLEW_ON]->(STS121_Discovery_),
+(MichaelE_Fossum)-[:FLEW_ON]->(STS124_Discovery_),
+(MichaelE_Fossum)-[:FLEW_ON]->(ISS2829_Soyuz_),
+(MichaelE_Fossum)-[:RECRUITED_IN_CLASS]->(G17)
+
+CREATE (CarlosI_Noriega:Astronaut {name: 'Carlos I. Noriega', birthplace: 'Lima, Peru' , dateOfBirth: '10/8/1959' , gender: 'Male'})
+CREATE (CarlosI_Noriega)-[:EDUCATED_AT]->(UniversityofSouthernCalifornia),
+(CarlosI_Noriega)-[:FLEW_ON]->(STS84_Atlantis_),
+(CarlosI_Noriega)-[:FLEW_ON]->(STS97_Endeavor_),
+(CarlosI_Noriega)-[:RECRUITED_IN_CLASS]->(G15)
+
+CREATE (GregoryB_Jarvis:Astronaut {name: 'Gregory B. Jarvis', birthplace: 'Detroit, MI' , dateOfBirth: '8/24/1944' , gender: 'Male'})
+CREATE (GregoryB_Jarvis)-[:EDUCATED_AT]->(StateUniversityofNewYorkatBuffalo),
+(GregoryB_Jarvis)-[:FLEW_ON]->(STS51L_Challenger_),
+(GregoryB_Jarvis)-[:RECRUITED_IN_CLASS]->(G11)
+
+CREATE (WilliamS_McArthurJr_:Astronaut {name: 'William S. McArthur Jr.', birthplace: 'Laurinburg, NC' , dateOfBirth: '7/26/1951' , gender: 'Male'})
+CREATE (WilliamS_McArthurJr_)-[:EDUCATED_AT]->(USMilitaryAcademy),
+(WilliamS_McArthurJr_)-[:FLEW_ON]->(STS58_Columbia_),
+(WilliamS_McArthurJr_)-[:FLEW_ON]->(STS74_Atlantis_),
+(WilliamS_McArthurJr_)-[:FLEW_ON]->(STS92_Discovery_),
+(WilliamS_McArthurJr_)-[:FLEW_ON]->(ISS12_Soyuz_),
+(WilliamS_McArthurJr_)-[:RECRUITED_IN_CLASS]->(G3)
+
+CREATE (ThomasJ_Hennen:Astronaut {name: 'Thomas J. Hennen', birthplace: 'Albany, GA' , dateOfBirth: '8/17/1952' , gender: 'Male'})
+CREATE (ThomasJ_Hennen)-[:EDUCATED_AT]->(),
+(ThomasJ_Hennen)-[:FLEW_ON]->(STS44_Atlantis_),
+(ThomasJ_Hennen)-[:RECRUITED_IN_CLASS]->(G13)
+
+CREATE (KathrynP_Hire:Astronaut {name: 'Kathryn P. Hire', birthplace: 'Mobile, AL' , dateOfBirth: '8/26/1959' , gender: 'Female'})
+CREATE (KathrynP_Hire)-[:EDUCATED_AT]->(USNavalAcademy),
+(KathrynP_Hire)-[:FLEW_ON]->(STS90_Columbia_),
+(KathrynP_Hire)-[:FLEW_ON]->(STS130_Endeavor_),
+(KathrynP_Hire)-[:RECRUITED_IN_CLASS]->(G15)
+
+CREATE (BonnieJ_Dunbar:Astronaut {name: 'Bonnie J. Dunbar', birthplace: 'Sunnyside, WA' , dateOfBirth: '3/3/1949' , gender: 'Female'})
+CREATE (BonnieJ_Dunbar)-[:EDUCATED_AT]->(UniversityofWashington),
+(BonnieJ_Dunbar)-[:FLEW_ON]->(STS61A_Challenger_),
+(BonnieJ_Dunbar)-[:FLEW_ON]->(STS32_Columbia_),
+(BonnieJ_Dunbar)-[:FLEW_ON]->(STS50_Columbia_),
+(BonnieJ_Dunbar)-[:FLEW_ON]->(STS71_Atlantis_),
+(BonnieJ_Dunbar)-[:FLEW_ON]->(STS89_Endeavor_),
+(BonnieJ_Dunbar)-[:RECRUITED_IN_CLASS]->(G9)
+
+CREATE (EdwardH_WhiteII:Astronaut {name: 'Edward H. White II', birthplace: 'San Antonio, TX' , dateOfBirth: '11/14/1930' , gender: 'Male'})
+CREATE (EdwardH_WhiteII)-[:EDUCATED_AT]->(USMilitaryAcademy),
+(EdwardH_WhiteII)-[:FLEW_ON]->(Gemini4),
+(EdwardH_WhiteII)-[:FLEW_ON]->(Apollo1),
+(EdwardH_WhiteII)-[:RECRUITED_IN_CLASS]->(G2)
+
+CREATE (FrankBorman:Astronaut {name: 'Frank Borman', birthplace: 'Gary, IN' , dateOfBirth: '3/14/1928' , gender: 'Male'})
+CREATE (FrankBorman)-[:EDUCATED_AT]->(USMilitaryAcademy),
+(FrankBorman)-[:FLEW_ON]->(Gemini7),
+(FrankBorman)-[:FLEW_ON]->(Apollo8),
+(FrankBorman)-[:RECRUITED_IN_CLASS]->(G2)
+
+CREATE (WilliamE_Thornton:Astronaut {name: 'William E. Thornton', birthplace: 'Faison, NC' , dateOfBirth: '4/14/1929' , gender: 'Male'})
+CREATE (WilliamE_Thornton)-[:EDUCATED_AT]->(UniversityofNorthCarolina),
+(WilliamE_Thornton)-[:FLEW_ON]->(STS8_Challenger_),
+(WilliamE_Thornton)-[:FLEW_ON]->(STS51B_Challenger_),
+(WilliamE_Thornton)-[:RECRUITED_IN_CLASS]->(G6)
+
+CREATE (MaryE_Weber:Astronaut {name: 'Mary E. Weber', birthplace: 'Cleveland, OH' , dateOfBirth: '8/24/1962' , gender: 'Female'})
+CREATE (MaryE_Weber)-[:EDUCATED_AT]->(PurdueUniversity),
+(MaryE_Weber)-[:FLEW_ON]->(STS70_Discovery_),
+(MaryE_Weber)-[:FLEW_ON]->(STS101_Atlantis_),
+(MaryE_Weber)-[:RECRUITED_IN_CLASS]->(G14)
+
+CREATE (EdwardG_GivensJr_:Astronaut {name: 'Edward G. Givens Jr.', birthplace: 'Quanah, TX' , dateOfBirth: '1/5/1930' , gender: 'Male'})
+CREATE (EdwardG_GivensJr_)-[:EDUCATED_AT]->(USNavalAcademy),
+(EdwardG_GivensJr_)-[:RECRUITED_IN_CLASS]->(G5)
+
+CREATE (LorenW_Acton:Astronaut {name: 'Loren W. Acton', birthplace: 'Lewiston, MT' , dateOfBirth: '3/7/1936' , gender: 'Male'})
+CREATE (LorenW_Acton)-[:EDUCATED_AT]->(MontanaStateUniversity),
+(LorenW_Acton)-[:FLEW_ON]->(STS51F_Challenger_),
+(LorenW_Acton)-[:RECRUITED_IN_CLASS]->(G10)
+
+CREATE (AlvinB_DrewJr_:Astronaut {name: 'Alvin B. Drew Jr.', birthplace: 'Washington, DC' , dateOfBirth: '11/5/1962' , gender: 'Male'})
+CREATE (AlvinB_DrewJr_)-[:EDUCATED_AT]->(USAirForceAcademy),
+(AlvinB_DrewJr_)-[:FLEW_ON]->(STS118_Endeavor_),
+(AlvinB_DrewJr_)-[:FLEW_ON]->(STS133_Discovery_),
+(AlvinB_DrewJr_)-[:RECRUITED_IN_CLASS]->(G18)
+
+CREATE (SerenaM_Aunon:Astronaut {name: 'Serena M. Aunon', birthplace: 'Indianapolis, IN' , dateOfBirth: '4/9/1976' , gender: 'Female'})
+CREATE (SerenaM_Aunon)-[:EDUCATED_AT]->(GeorgeWashingtonUniversity),
+(SerenaM_Aunon)-[:RECRUITED_IN_CLASS]->(G20)
+
+CREATE (ScottJ_Horowitz:Astronaut {name: 'Scott J. Horowitz', birthplace: 'Philadelphia, PA' , dateOfBirth: '3/24/1957' , gender: 'Male'})
+CREATE (ScottJ_Horowitz)-[:EDUCATED_AT]->(CaliforniaStateUniversityNorthridge),
+(ScottJ_Horowitz)-[:FLEW_ON]->(STS75_Columbia_),
+(ScottJ_Horowitz)-[:FLEW_ON]->(STS82_Discovery_),
+(ScottJ_Horowitz)-[:FLEW_ON]->(STS101_Atlantis_),
+(ScottJ_Horowitz)-[:FLEW_ON]->(STS105_Discovery_),
+(ScottJ_Horowitz)-[:RECRUITED_IN_CLASS]->(G14)
+
+CREATE (LeroyChiao:Astronaut {name: 'Leroy Chiao', birthplace: 'Milwaukee, WI' , dateOfBirth: '8/28/1960' , gender: 'Male'})
+CREATE (LeroyChiao)-[:EDUCATED_AT]->(UniversityofCaliforniaBerkeley),
+(LeroyChiao)-[:FLEW_ON]->(STS65_Columbia_),
+(LeroyChiao)-[:FLEW_ON]->(STS72_Endeavor_),
+(LeroyChiao)-[:FLEW_ON]->(STS92_Discovery_),
+(LeroyChiao)-[:FLEW_ON]->(ISS10_Soyuz_),
+(LeroyChiao)-[:RECRUITED_IN_CLASS]->(G13)
+
+CREATE (WilliamA_Pailes:Astronaut {name: 'William A. Pailes', birthplace: 'Hackensack, NJ' , dateOfBirth: '6/26/1952' , gender: 'Male'})
+CREATE (WilliamA_Pailes)-[:EDUCATED_AT]->(USAirForceAcademy),
+(WilliamA_Pailes)-[:FLEW_ON]->(STS51J_Atlantis_),
+(WilliamA_Pailes)-[:RECRUITED_IN_CLASS]->(G9)
+
+CREATE (ManleyLanierCarterJr_:Astronaut {name: 'Manley Lanier Carter Jr.', birthplace: 'Macon, GA' , dateOfBirth: '8/15/1947' , gender: 'Male'})
+CREATE (ManleyLanierCarterJr_)-[:EDUCATED_AT]->(EmoryUniversity),
+(ManleyLanierCarterJr_)-[:FLEW_ON]->(STS33_Discovery_),
+(ManleyLanierCarterJr_)-[:RECRUITED_IN_CLASS]->(G10)
+
+CREATE (JohnA_Llewellyn:Astronaut {name: 'John A. Llewellyn', birthplace: 'Cardiff, Wales' , dateOfBirth: '4/22/1933' , gender: 'Male'})
+CREATE (JohnA_Llewellyn)-[:EDUCATED_AT]->(UniversityCollegeatCardiff),
+(JohnA_Llewellyn)-[:RECRUITED_IN_CLASS]->(G6)
+
+CREATE (MichaelJ_Bloomfield:Astronaut {name: 'Michael J. Bloomfield', birthplace: 'Flint, MI' , dateOfBirth: '3/16/1959' , gender: 'Male'})
+CREATE (MichaelJ_Bloomfield)-[:EDUCATED_AT]->(USAirForceAcademy),
+(MichaelJ_Bloomfield)-[:FLEW_ON]->(STS86_Atlantis_),
+(MichaelJ_Bloomfield)-[:FLEW_ON]->(STS97_Endeavor_),
+(MichaelJ_Bloomfield)-[:FLEW_ON]->(STS110_Atlantis_),
+(MichaelJ_Bloomfield)-[:RECRUITED_IN_CLASS]->(G15)
+
+CREATE (GuyS_Gardner:Astronaut {name: 'Guy S. Gardner', birthplace: 'Alta Vista, VA' , dateOfBirth: '1/6/1948' , gender: 'Male'})
+CREATE (GuyS_Gardner)-[:EDUCATED_AT]->(USAirForceAcademy),
+(GuyS_Gardner)-[:FLEW_ON]->(STS27_Atlantis_),
+(GuyS_Gardner)-[:FLEW_ON]->(STS35_Columbia_),
+(GuyS_Gardner)-[:RECRUITED_IN_CLASS]->(G9)
+
+CREATE (AnnaL_Fisher:Astronaut {name: 'Anna L. Fisher', birthplace: 'New York, NY' , dateOfBirth: '8/24/1949' , gender: 'Female'})
+CREATE (AnnaL_Fisher)-[:EDUCATED_AT]->(UniversityofCaliforniaLosAngeles),
+(AnnaL_Fisher)-[:FLEW_ON]->(STS51A_Discovery_),
+(AnnaL_Fisher)-[:RECRUITED_IN_CLASS]->(G8)
+
+CREATE (SandraH_Magnus:Astronaut {name: 'Sandra H. Magnus', birthplace: 'Belleville, IL' , dateOfBirth: '10/30/1964' , gender: 'Female'})
+CREATE (SandraH_Magnus)-[:EDUCATED_AT]->(UniversityofMissouriRolla),
+(SandraH_Magnus)-[:FLEW_ON]->(STS112_Atlantis_),
+(SandraH_Magnus)-[:FLEW_ON]->(STS126119_EndeavorDiscovery_),
+(SandraH_Magnus)-[:FLEW_ON]->(STS135_Atlantis_),
+(SandraH_Magnus)-[:RECRUITED_IN_CLASS]->(G16)
+
+CREATE (StephenD_Thorne:Astronaut {name: 'Stephen D. Thorne', birthplace: 'Frankfurt, West Germany' , dateOfBirth: '2/11/1953' , gender: 'Male'})
+CREATE (StephenD_Thorne)-[:EDUCATED_AT]->(USNavalAcademy),
+(StephenD_Thorne)-[:RECRUITED_IN_CLASS]->(G11)
+
+CREATE (JonA_McBride:Astronaut {name: 'Jon A. McBride', birthplace: 'Charleston, WV' , dateOfBirth: '8/14/1943' , gender: 'Male'})
+CREATE (JonA_McBride)-[:EDUCATED_AT]->(USNavalPostgraduateSchool),
+(JonA_McBride)-[:FLEW_ON]->(STS41G_Challenger_),
+(JonA_McBride)-[:RECRUITED_IN_CLASS]->(G8)
+
+CREATE (AlanB_ShepardJr_:Astronaut {name: 'Alan B. Shepard Jr.', birthplace: 'East Derry, NH' , dateOfBirth: '11/18/1923' , gender: 'Male'})
+CREATE (AlanB_ShepardJr_)-[:EDUCATED_AT]->(USNavalAcademy),
+(AlanB_ShepardJr_)-[:FLEW_ON]->(Mercury3),
+(AlanB_ShepardJr_)-[:FLEW_ON]->(Apollo14),
+(AlanB_ShepardJr_)-[:RECRUITED_IN_CLASS]->(G1)
+
+CREATE (DavidA_Wolf:Astronaut {name: 'David A. Wolf', birthplace: 'Indianapolis, IN' , dateOfBirth: '8/23/1956' , gender: 'Male'})
+CREATE (DavidA_Wolf)-[:EDUCATED_AT]->(PurdueUniversity),
+(DavidA_Wolf)-[:FLEW_ON]->(STS58_Columbia__STS8689_AtlantisEndeavor_),
+(DavidA_Wolf)-[:FLEW_ON]->(STS112_Atlantis_),
+(DavidA_Wolf)-[:FLEW_ON]->(STS127_Endeavor_),
+(DavidA_Wolf)-[:RECRUITED_IN_CLASS]->(G13)
+
+CREATE (EileenM_Collins:Astronaut {name: 'Eileen M. Collins', birthplace: 'Elmira, NY' , dateOfBirth: '11/19/1959' , gender: 'Female'})
+CREATE (EileenM_Collins)-[:EDUCATED_AT]->(SyracuseUniversity),
+(EileenM_Collins)-[:FLEW_ON]->(STS63_Discovery_),
+(EileenM_Collins)-[:FLEW_ON]->(STS84_Atlantis_),
+(EileenM_Collins)-[:FLEW_ON]->(STS114_Columbia_),
+(EileenM_Collins)-[:FLEW_ON]->(STS93_Discovery_),
+(EileenM_Collins)-[:RECRUITED_IN_CLASS]->(G13)
+
+CREATE (DouglasH_Wheelock:Astronaut {name: 'Douglas H. Wheelock', birthplace: 'Binghamton, NY' , dateOfBirth: '5/5/1960' , gender: 'Male'})
+CREATE (DouglasH_Wheelock)-[:EDUCATED_AT]->(USMilitaryAcademy),
+(DouglasH_Wheelock)-[:FLEW_ON]->(STS120_Discovery_),
+(DouglasH_Wheelock)-[:FLEW_ON]->(ISS2425_Soyuz_),
+(DouglasH_Wheelock)-[:RECRUITED_IN_CLASS]->(G17)
+
+CREATE (ScottD_Altman:Astronaut {name: 'Scott D. Altman', birthplace: 'Lincoln, IL' , dateOfBirth: '8/15/1959' , gender: 'Male'})
+CREATE (ScottD_Altman)-[:EDUCATED_AT]->(UniversityofIllinois),
+(ScottD_Altman)-[:FLEW_ON]->(STS90_Columbia_),
+(ScottD_Altman)-[:FLEW_ON]->(STS106_Atlantis_),
+(ScottD_Altman)-[:FLEW_ON]->(STS109_Columbia_),
+(ScottD_Altman)-[:FLEW_ON]->(STS125_Atlantis_),
+(ScottD_Altman)-[:RECRUITED_IN_CLASS]->(G15)
+
+CREATE (StevenL_Smith:Astronaut {name: 'Steven L. Smith', birthplace: 'Phoenix, AZ' , dateOfBirth: '12/30/1958' , gender: 'Male'})
+CREATE (StevenL_Smith)-[:EDUCATED_AT]->(StanfordUniversity),
+(StevenL_Smith)-[:FLEW_ON]->(STS68_Endeavor_),
+(StevenL_Smith)-[:FLEW_ON]->(STS82_Discovery_),
+(StevenL_Smith)-[:FLEW_ON]->(STS103_Discovery_),
+(StevenL_Smith)-[:FLEW_ON]->(STS110_Atlantis_),
+(StevenL_Smith)-[:RECRUITED_IN_CLASS]->(G14)
+
+CREATE (SherwoodC_Spring:Astronaut {name: 'Sherwood C. Spring', birthplace: 'Hartford, CT' , dateOfBirth: '9/23/1944' , gender: 'Male'})
+CREATE (SherwoodC_Spring)-[:EDUCATED_AT]->(USMilitaryAcademy),
+(SherwoodC_Spring)-[:FLEW_ON]->(STS61B_Atlantis_),
+(SherwoodC_Spring)-[:RECRUITED_IN_CLASS]->(G9)
+
+CREATE (JohnS_Bull:Astronaut {name: 'John S. Bull', birthplace: 'Memphis, TN' , dateOfBirth: '9/25/1934' , gender: 'Male'})
+CREATE (JohnS_Bull)-[:EDUCATED_AT]->(RiceUniversity),
+(JohnS_Bull)-[:RECRUITED_IN_CLASS]->(G5)
+
+CREATE (MichaelL_Coats:Astronaut {name: 'Michael L. Coats', birthplace: 'Sacramento, CA' , dateOfBirth: '1/16/1946' , gender: 'Male'})
+CREATE (MichaelL_Coats)-[:EDUCATED_AT]->(USNavalAcademy),
+(MichaelL_Coats)-[:FLEW_ON]->(STS41D_Discovery_),
+(MichaelL_Coats)-[:FLEW_ON]->(STS29_Discovery_),
+(MichaelL_Coats)-[:FLEW_ON]->(STS39_Discovery_),
+(MichaelL_Coats)-[:RECRUITED_IN_CLASS]->(G8)
+
+CREATE (TerryJ_Hart:Astronaut {name: 'Terry J. Hart', birthplace: 'Pittsburgh, PA' , dateOfBirth: '10/27/1946' , gender: 'Male'})
+CREATE (TerryJ_Hart)-[:EDUCATED_AT]->(LehighUniversity),
+(TerryJ_Hart)-[:FLEW_ON]->(STS41C_Challenger_),
+(TerryJ_Hart)-[:RECRUITED_IN_CLASS]->(G8)
+
+CREATE (StanleyG_Love:Astronaut {name: 'Stanley G. Love', birthplace: 'San Diego, CA' , dateOfBirth: '6/8/1965' , gender: 'Male'})
+CREATE (StanleyG_Love)-[:EDUCATED_AT]->(HarveyMuddCollege),
+(StanleyG_Love)-[:FLEW_ON]->(STS122_Atlantis_),
+(StanleyG_Love)-[:RECRUITED_IN_CLASS]->(G17)
+
+CREATE (MarkC_Lee:Astronaut {name: 'Mark C. Lee', birthplace: 'Viroqua, WI' , dateOfBirth: '8/14/1952' , gender: 'Male'})
+CREATE (MarkC_Lee)-[:EDUCATED_AT]->(USAirForceAcademy),
+(MarkC_Lee)-[:FLEW_ON]->(STS30_Atlantis_),
+(MarkC_Lee)-[:FLEW_ON]->(STS47_Endeavor_),
+(MarkC_Lee)-[:FLEW_ON]->(STS64_Discovery_),
+(MarkC_Lee)-[:FLEW_ON]->(STS82_Discovery_),
+(MarkC_Lee)-[:RECRUITED_IN_CLASS]->(G10)
+
+CREATE (G_ReidWiseman:Astronaut {name: 'G. Reid Wiseman', birthplace: 'Baltimore, MD' , dateOfBirth: '11/11/1975' , gender: 'Male'})
+CREATE (G_ReidWiseman)-[:EDUCATED_AT]->(RensselaerPolytechnicInstitute),
+(G_ReidWiseman)-[:FLEW_ON]->(ISS4041_Soyuz_),
+(G_ReidWiseman)-[:RECRUITED_IN_CLASS]->(G20)
+
+CREATE (WinstonE_Scott:Astronaut {name: 'Winston E. Scott', birthplace: 'Miami, FL' , dateOfBirth: '8/6/1950' , gender: 'Male'})
+CREATE (WinstonE_Scott)-[:EDUCATED_AT]->(FloridaStateUniversity),
+(WinstonE_Scott)-[:FLEW_ON]->(STS72_Endeavor_),
+(WinstonE_Scott)-[:FLEW_ON]->(STS87_Columbia_),
+(WinstonE_Scott)-[:RECRUITED_IN_CLASS]->(G14)
+
+CREATE (RichardA_Searfoss:Astronaut {name: 'Richard A. Searfoss', birthplace: 'Mount Clemens, MI' , dateOfBirth: '6/5/1956' , gender: 'Male'})
+CREATE (RichardA_Searfoss)-[:EDUCATED_AT]->(USAirForceAcademy),
+(RichardA_Searfoss)-[:FLEW_ON]->(STS58_Columbia_),
+(RichardA_Searfoss)-[:FLEW_ON]->(STS76_Atlantis_),
+(RichardA_Searfoss)-[:FLEW_ON]->(STS90_Columbia_),
+(RichardA_Searfoss)-[:RECRUITED_IN_CLASS]->(G13)
+
+CREATE (MichaelCollins:Astronaut {name: 'Michael Collins', birthplace: 'Rome, Italy' , dateOfBirth: '10/31/1930' , gender: 'Male'})
+CREATE (MichaelCollins)-[:EDUCATED_AT]->(USMilitaryAcademy),
+(MichaelCollins)-[:FLEW_ON]->(Gemini10),
+(MichaelCollins)-[:FLEW_ON]->(Apollo11),
+(MichaelCollins)-[:RECRUITED_IN_CLASS]->(G3)
+
+CREATE (PatrickG_Forrester:Astronaut {name: 'Patrick G. Forrester', birthplace: 'El Paso, TX' , dateOfBirth: '3/31/1957' , gender: 'Male'})
+CREATE (PatrickG_Forrester)-[:EDUCATED_AT]->(USMilitaryAcademy),
+(PatrickG_Forrester)-[:FLEW_ON]->(STS105_Discovery_),
+(PatrickG_Forrester)-[:FLEW_ON]->(STS117_Atlantis_),
+(PatrickG_Forrester)-[:FLEW_ON]->(STS128_Discovery_),
+(PatrickG_Forrester)-[:RECRUITED_IN_CLASS]->(G16)
+
+CREATE (KennethD_Cockrell:Astronaut {name: 'Kenneth D. Cockrell', birthplace: 'Austin, TX' , dateOfBirth: '4/9/1950' , gender: 'Male'})
+CREATE (KennethD_Cockrell)-[:EDUCATED_AT]->(UniversityofTexas),
+(KennethD_Cockrell)-[:FLEW_ON]->(STS56_Discovery_),
+(KennethD_Cockrell)-[:FLEW_ON]->(STS69_Endeavor_),
+(KennethD_Cockrell)-[:FLEW_ON]->(STS80_Columbia_),
+(KennethD_Cockrell)-[:FLEW_ON]->(STS98_Atlantis_),
+(KennethD_Cockrell)-[:FLEW_ON]->(STS111_Endeavor_),
+(KennethD_Cockrell)-[:RECRUITED_IN_CLASS]->(G13)
+
+CREATE (JamesS_Voss:Astronaut {name: 'James S. Voss', birthplace: 'Cordova, AL' , dateOfBirth: '3/3/1949' , gender: 'Male'})
+CREATE (JamesS_Voss)-[:EDUCATED_AT]->(AuburnUniversity),
+(JamesS_Voss)-[:FLEW_ON]->(STS44_Atlantis_),
+(JamesS_Voss)-[:FLEW_ON]->(STS53_Discovery_),
+(JamesS_Voss)-[:FLEW_ON]->(STS69_Endeavor_),
+(JamesS_Voss)-[:FLEW_ON]->(STS101_Atlantis_),
+(JamesS_Voss)-[:FLEW_ON]->(STS102105_Discovery_),
+(JamesS_Voss)-[:RECRUITED_IN_CLASS]->(G12)
+
+CREATE (KevinR_Kregel:Astronaut {name: 'Kevin R. Kregel', birthplace: 'New York, NY' , dateOfBirth: '9/16/1956' , gender: 'Male'})
+CREATE (KevinR_Kregel)-[:EDUCATED_AT]->(USAirForceAcademy),
+(KevinR_Kregel)-[:FLEW_ON]->(STS70_Discovery_),
+(KevinR_Kregel)-[:FLEW_ON]->(STS78_Columbia_),
+(KevinR_Kregel)-[:FLEW_ON]->(STS87_Columbia_),
+(KevinR_Kregel)-[:FLEW_ON]->(STS99_Endeavor_),
+(KevinR_Kregel)-[:RECRUITED_IN_CLASS]->(G14)
+
+CREATE (LorenJ_Shriver:Astronaut {name: 'Loren J. Shriver', birthplace: 'Jefferson, IA' , dateOfBirth: '9/23/1944' , gender: 'Male'})
+CREATE (LorenJ_Shriver)-[:EDUCATED_AT]->(USAirForceAcademy),
+(LorenJ_Shriver)-[:FLEW_ON]->(STS51C_Discovery_),
+(LorenJ_Shriver)-[:FLEW_ON]->(STS31_Discovery_),
+(LorenJ_Shriver)-[:FLEW_ON]->(STS46_Atlantis_),
+(LorenJ_Shriver)-[:RECRUITED_IN_CLASS]->(G8)
+
+CREATE (S_ChristaMcAuliffe:Astronaut {name: 'S. Christa McAuliffe', birthplace: 'Boston, MA' , dateOfBirth: '9/2/1948' , gender: 'Female'})
+CREATE (S_ChristaMcAuliffe)-[:EDUCATED_AT]->(FraminghamStateCollege),
+(S_ChristaMcAuliffe)-[:FLEW_ON]->(STS51L_Challenger_),
+(S_ChristaMcAuliffe)-[:RECRUITED_IN_CLASS]->(G11)
+
+CREATE (BarryE_Wilmore:Astronaut {name: 'Barry E. Wilmore', birthplace: 'Murfreesboro, TN' , dateOfBirth: '12/29/1962' , gender: 'Male'})
+CREATE (BarryE_Wilmore)-[:EDUCATED_AT]->(TennesseeTechnologicalUniversity),
+(BarryE_Wilmore)-[:FLEW_ON]->(STS129_Atlantis_),
+(BarryE_Wilmore)-[:FLEW_ON]->(ISS4142_Soyuz_),
+(BarryE_Wilmore)-[:RECRUITED_IN_CLASS]->(G18)
+
+CREATE (JamesD_Wetherbee:Astronaut {name: 'James D. Wetherbee', birthplace: 'Flushing, NY' , dateOfBirth: '11/27/1952' , gender: 'Male'})
+CREATE (JamesD_Wetherbee)-[:EDUCATED_AT]->(UniversityofNotreDame),
+(JamesD_Wetherbee)-[:FLEW_ON]->(STS32_Columbia_),
+(JamesD_Wetherbee)-[:FLEW_ON]->(STS52_Columbia_),
+(JamesD_Wetherbee)-[:FLEW_ON]->(STS63_Discovery_),
+(JamesD_Wetherbee)-[:FLEW_ON]->(STS86_Atlantis_),
+(JamesD_Wetherbee)-[:FLEW_ON]->(STS102_Discovery_),
+(JamesD_Wetherbee)-[:FLEW_ON]->(STS113_Endeavor_),
+(JamesD_Wetherbee)-[:RECRUITED_IN_CLASS]->(G10)
+
+CREATE (RonaldE_McNair:Astronaut {name: 'Ronald E. McNair', birthplace: 'Lake City, SC' , dateOfBirth: '10/21/1950' , gender: 'Male'})
+CREATE (RonaldE_McNair)-[:EDUCATED_AT]->(NorthCarolinaATStateCollege),
+(RonaldE_McNair)-[:FLEW_ON]->(STS41B_Challenger_),
+(RonaldE_McNair)-[:FLEW_ON]->(STS51L_Challenger_),
+(RonaldE_McNair)-[:RECRUITED_IN_CLASS]->(G8)
+
+CREATE (JerryM_Linenger:Astronaut {name: 'Jerry M. Linenger', birthplace: 'Mount Clemens, MI' , dateOfBirth: '1/16/1955' , gender: 'Male'})
+CREATE (JerryM_Linenger)-[:EDUCATED_AT]->(USNavalAcademy),
+(JerryM_Linenger)-[:FLEW_ON]->(STS64_Discovery_),
+(JerryM_Linenger)-[:FLEW_ON]->(STS8184_Atlantis_),
+(JerryM_Linenger)-[:RECRUITED_IN_CLASS]->(G14)
+
+CREATE (ByronK_Lichtenberg:Astronaut {name: 'Byron K. Lichtenberg', birthplace: 'Stroudsburg, PA' , dateOfBirth: '2/19/1948' , gender: 'Male'})
+CREATE (ByronK_Lichtenberg)-[:EDUCATED_AT]->(BrownUniversity),
+(ByronK_Lichtenberg)-[:FLEW_ON]->(STS9_Columbia_),
+(ByronK_Lichtenberg)-[:FLEW_ON]->(STS45_Atlantis_),
+(ByronK_Lichtenberg)-[:RECRUITED_IN_CLASS]->(G10)
+
+CREATE (DonnF_Eisele:Astronaut {name: 'Donn F. Eisele', birthplace: 'Columbus, OH' , dateOfBirth: '5/23/1930' , gender: 'Male'})
+CREATE (DonnF_Eisele)-[:EDUCATED_AT]->(USNavalAcademy),
+(DonnF_Eisele)-[:FLEW_ON]->(Apollo7),
+(DonnF_Eisele)-[:RECRUITED_IN_CLASS]->(G3)
+
+CREATE (DanielC_Burbank:Astronaut {name: 'Daniel C. Burbank', birthplace: 'Machester, CT' , dateOfBirth: '7/27/1961' , gender: 'Male'})
+CREATE (DanielC_Burbank)-[:EDUCATED_AT]->(USCoastGuardAcademy),
+(DanielC_Burbank)-[:FLEW_ON]->(STS106_Atlantis_),
+(DanielC_Burbank)-[:FLEW_ON]->(STS115_Atlantis_),
+(DanielC_Burbank)-[:FLEW_ON]->(ISS2930_Soyuz_),
+(DanielC_Burbank)-[:RECRUITED_IN_CLASS]->(G16)
+
+CREATE (TheodoreC_Freeman:Astronaut {name: 'Theodore C. Freeman', birthplace: 'Haversford, PA' , dateOfBirth: '2/18/1930' , gender: 'Male'})
+CREATE (TheodoreC_Freeman)-[:EDUCATED_AT]->(USNavalAcademy),
+(TheodoreC_Freeman)-[:RECRUITED_IN_CLASS]->(G3)
+
+CREATE (JosephR_Tanner:Astronaut {name: 'Joseph R. Tanner', birthplace: 'Danville, IL' , dateOfBirth: '1/21/1950' , gender: 'Male'})
+CREATE (JosephR_Tanner)-[:EDUCATED_AT]->(UniversityofIllinois),
+(JosephR_Tanner)-[:FLEW_ON]->(STS66_Atlantis_),
+(JosephR_Tanner)-[:FLEW_ON]->(STS82_Discovery_),
+(JosephR_Tanner)-[:FLEW_ON]->(STS97_Endeavor_),
+(JosephR_Tanner)-[:FLEW_ON]->(STS115_Discovery_),
+(JosephR_Tanner)-[:RECRUITED_IN_CLASS]->(G14)
+
+CREATE (RobertL_Behnken:Astronaut {name: 'Robert L. Behnken', birthplace: 'Creve Couer, MO' , dateOfBirth: '7/28/1970' , gender: 'Male'})
+CREATE (RobertL_Behnken)-[:EDUCATED_AT]->(WashingtonUniversity),
+(RobertL_Behnken)-[:FLEW_ON]->(STS123_Endeavor_),
+(RobertL_Behnken)-[:FLEW_ON]->(STS130_Endeavor_),
+(RobertL_Behnken)-[:RECRUITED_IN_CLASS]->(G18)
+
+CREATE (KennethD_Cameron:Astronaut {name: 'Kenneth D. Cameron', birthplace: 'Cleveland, OH' , dateOfBirth: '11/29/1949' , gender: 'Male'})
+CREATE (KennethD_Cameron)-[:EDUCATED_AT]->(MIT),
+(KennethD_Cameron)-[:FLEW_ON]->(STS37_Atlantis_),
+(KennethD_Cameron)-[:FLEW_ON]->(STS56_Discovery_),
+(KennethD_Cameron)-[:FLEW_ON]->(STS74_Atlantis_),
+(KennethD_Cameron)-[:RECRUITED_IN_CLASS]->(G10)
+
+CREATE (WilliamR_Pogue:Astronaut {name: 'William R. Pogue', birthplace: 'Okemah, OK' , dateOfBirth: '1/23/1930' , gender: 'Male'})
+CREATE (WilliamR_Pogue)-[:EDUCATED_AT]->(OklahomaBaptistUniversity),
+(WilliamR_Pogue)-[:FLEW_ON]->(Skylab4),
+(WilliamR_Pogue)-[:RECRUITED_IN_CLASS]->(G5)
+
+CREATE (BrianDuffy:Astronaut {name: 'Brian Duffy', birthplace: 'Boston, MA' , dateOfBirth: '6/20/1953' , gender: 'Male'})
+CREATE (BrianDuffy)-[:EDUCATED_AT]->(USAirForceAcademy),
+(BrianDuffy)-[:FLEW_ON]->(STS45_Atlantis_),
+(BrianDuffy)-[:FLEW_ON]->(STS57_Endeavor_),
+(BrianDuffy)-[:FLEW_ON]->(STS72_Endeavor_),
+(BrianDuffy)-[:FLEW_ON]->(STS92_Discovery_),
+(BrianDuffy)-[:RECRUITED_IN_CLASS]->(G11)
+
+CREATE (BrewsterH_ShawJr_:Astronaut {name: 'Brewster H. Shaw Jr.', birthplace: 'Cass City, MI' , dateOfBirth: '5/16/1945' , gender: 'Male'})
+CREATE (BrewsterH_ShawJr_)-[:EDUCATED_AT]->(UniversityofWisconsin),
+(BrewsterH_ShawJr_)-[:FLEW_ON]->(STS9_Columbia_),
+(BrewsterH_ShawJr_)-[:FLEW_ON]->(STS61B_Atlantis_),
+(BrewsterH_ShawJr_)-[:FLEW_ON]->(STS28_Columbia_),
+(BrewsterH_ShawJr_)-[:RECRUITED_IN_CLASS]->(G8)
+
+CREATE (LeeJ_Archambault:Astronaut {name: 'Lee J. Archambault', birthplace: 'Oak Park, IL' , dateOfBirth: '8/25/1960' , gender: 'Male'})
+CREATE (LeeJ_Archambault)-[:EDUCATED_AT]->(UniversityofIllinoisUrbana),
+(LeeJ_Archambault)-[:FLEW_ON]->(STS117_Atlantis_),
+(LeeJ_Archambault)-[:FLEW_ON]->(STS119_Discovery_),
+(LeeJ_Archambault)-[:RECRUITED_IN_CLASS]->(G17)
+
+CREATE (MichaelJ_McCulley:Astronaut {name: 'Michael J. McCulley', birthplace: 'San Diego, CA' , dateOfBirth: '8/4/1943' , gender: 'Male'})
+CREATE (MichaelJ_McCulley)-[:EDUCATED_AT]->(PurdueUniversity),
+(MichaelJ_McCulley)-[:FLEW_ON]->(STS34_Atlantis_),
+(MichaelJ_McCulley)-[:RECRUITED_IN_CLASS]->(G10)
+
+CREATE (JohnE_Blaha:Astronaut {name: 'John E. Blaha', birthplace: 'San Antonio, TX' , dateOfBirth: '8/26/1942' , gender: 'Male'})
+CREATE (JohnE_Blaha)-[:EDUCATED_AT]->(USAirForceAcademy),
+(JohnE_Blaha)-[:FLEW_ON]->(STS29_Discovery_),
+(JohnE_Blaha)-[:FLEW_ON]->(STS33_Discovery_),
+(JohnE_Blaha)-[:FLEW_ON]->(STS43_Atlantis_),
+(JohnE_Blaha)-[:FLEW_ON]->(STS58_Columbia_),
+(JohnE_Blaha)-[:FLEW_ON]->(STS7981_AtlantisAtlantis_),
+(JohnE_Blaha)-[:RECRUITED_IN_CLASS]->(G9)
+
+CREATE (RobertA_Parker:Astronaut {name: 'Robert A. Parker', birthplace: 'New York, NY' , dateOfBirth: '12/14/1936' , gender: 'Male'})
+CREATE (RobertA_Parker)-[:EDUCATED_AT]->(AmherstCollege),
+(RobertA_Parker)-[:FLEW_ON]->(STS9_Columbia_),
+(RobertA_Parker)-[:FLEW_ON]->(STS35_Columbia_),
+(RobertA_Parker)-[:RECRUITED_IN_CLASS]->(G6)
+
+CREATE (WilliamG_Gregory:Astronaut {name: 'William G. Gregory', birthplace: 'Lockport, NY' , dateOfBirth: '5/14/1957' , gender: 'Male'})
+CREATE (WilliamG_Gregory)-[:EDUCATED_AT]->(USAirForceAcademy),
+(WilliamG_Gregory)-[:FLEW_ON]->(STS67_Endeavor_),
+(WilliamG_Gregory)-[:RECRUITED_IN_CLASS]->(G13)
+
+CREATE (GarrettE_Reisman:Astronaut {name: 'Garrett E. Reisman', birthplace: 'Morristown, NJ' , dateOfBirth: '2/10/1968' , gender: 'Male'})
+CREATE (GarrettE_Reisman)-[:EDUCATED_AT]->(UniversityofPennsylvania),
+(GarrettE_Reisman)-[:FLEW_ON]->(STS123124_EndeavorDiscovery_),
+(GarrettE_Reisman)-[:FLEW_ON]->(STS132_Atlantis_),
+(GarrettE_Reisman)-[:RECRUITED_IN_CLASS]->(G17)
+
+CREATE (TerryW_VirtsJr_:Astronaut {name: 'Terry W. Virts Jr.', birthplace: 'Baltimore, MD' , dateOfBirth: '12/1/1967' , gender: 'Male'})
+CREATE (TerryW_VirtsJr_)-[:EDUCATED_AT]->(USAirForceAcademy),
+(TerryW_VirtsJr_)-[:FLEW_ON]->(STS130_Endeavor_),
+(TerryW_VirtsJr_)-[:FLEW_ON]->(ISS4243_Soyuz_),
+(TerryW_VirtsJr_)-[:RECRUITED_IN_CLASS]->(G18)
+
+CREATE (JamesF_ReillyII:Astronaut {name: 'James F. Reilly II', birthplace: 'Mountain Home Air Force Base, ID' , dateOfBirth: '3/18/1954' , gender: 'Male'})
+CREATE (JamesF_ReillyII)-[:EDUCATED_AT]->(UniversityofTexasDallas),
+(JamesF_ReillyII)-[:FLEW_ON]->(STS89_Endeavor_),
+(JamesF_ReillyII)-[:FLEW_ON]->(STS104_Atlantis_),
+(JamesF_ReillyII)-[:FLEW_ON]->(STS117_Atlantis_),
+(JamesF_ReillyII)-[:RECRUITED_IN_CLASS]->(G15)
+
+CREATE (FranklinR_ChangDiaz:Astronaut {name: 'Franklin R. Chang-Diaz', birthplace: 'San Jose, Costa Rica' , dateOfBirth: '4/5/1950' , gender: 'Male'})
+CREATE (FranklinR_ChangDiaz)-[:EDUCATED_AT]->(UniversityofConnecticut),
+(FranklinR_ChangDiaz)-[:FLEW_ON]->(STS61C_Columbia_),
+(FranklinR_ChangDiaz)-[:FLEW_ON]->(STS34_Atlantis_),
+(FranklinR_ChangDiaz)-[:FLEW_ON]->(STS46_Atlantis_),
+(FranklinR_ChangDiaz)-[:FLEW_ON]->(STS60_Discovery_),
+(FranklinR_ChangDiaz)-[:FLEW_ON]->(STS75_Columbia_),
+(FranklinR_ChangDiaz)-[:FLEW_ON]->(STS91_Discovery_),
+(FranklinR_ChangDiaz)-[:FLEW_ON]->(STS111_Endeavor_),
+(FranklinR_ChangDiaz)-[:RECRUITED_IN_CLASS]->(G9)
+
+CREATE (LawrenceJ_Delucas:Astronaut {name: 'Lawrence J. Delucas', birthplace: 'Syracuse, NY' , dateOfBirth: '7/11/1950' , gender: 'Male'})
+CREATE (LawrenceJ_Delucas)-[:EDUCATED_AT]->(UniversityofAlabamaatBirmingham),
+(LawrenceJ_Delucas)-[:FLEW_ON]->(STS50_Columbia_),
+(LawrenceJ_Delucas)-[:RECRUITED_IN_CLASS]->(G14)
+
+CREATE (StephenS_Oswald:Astronaut {name: 'Stephen S. Oswald', birthplace: 'Seattle, WA' , dateOfBirth: '6/30/1951' , gender: 'Male'})
+CREATE (StephenS_Oswald)-[:EDUCATED_AT]->(USNavalAcademy),
+(StephenS_Oswald)-[:FLEW_ON]->(STS42_Discovery_),
+(StephenS_Oswald)-[:FLEW_ON]->(STS56_Discovery_),
+(StephenS_Oswald)-[:FLEW_ON]->(STS67_Endeavor_),
+(StephenS_Oswald)-[:RECRUITED_IN_CLASS]->(G11)
+
+CREATE (NancyJ_Currie:Astronaut {name: 'Nancy J. Currie', birthplace: 'Wilmington, DE' , dateOfBirth: '12/29/1958' , gender: 'Female'})
+CREATE (NancyJ_Currie)-[:EDUCATED_AT]->(OhioStateUniversity),
+(NancyJ_Currie)-[:FLEW_ON]->(STS57_Endeavor_),
+(NancyJ_Currie)-[:FLEW_ON]->(STS70_Discovery_),
+(NancyJ_Currie)-[:FLEW_ON]->(STS88_Endeavor_),
+(NancyJ_Currie)-[:FLEW_ON]->(STS109_Columbia_),
+(NancyJ_Currie)-[:RECRUITED_IN_CLASS]->(G13)
+
+CREATE (RonaldJ_GaranJr_:Astronaut {name: 'Ronald J. Garan Jr.', birthplace: 'Yonkers, NY' , dateOfBirth: '10/20/1961' , gender: 'Male'})
+CREATE (RonaldJ_GaranJr_)-[:EDUCATED_AT]->(StateUniversityofNewYork),
+(RonaldJ_GaranJr_)-[:FLEW_ON]->(STS124_Discovery_),
+(RonaldJ_GaranJr_)-[:FLEW_ON]->(ISS2728_Soyuz_),
+(RonaldJ_GaranJr_)-[:RECRUITED_IN_CLASS]->(G18)
+
+CREATE (AnthonyW_England:Astronaut {name: 'Anthony W. England', birthplace: 'Indianapolis, IN' , dateOfBirth: '5/15/1942' , gender: 'Male'})
+CREATE (AnthonyW_England)-[:EDUCATED_AT]->(MIT),
+(AnthonyW_England)-[:FLEW_ON]->(STS51F_Challenger_),
+(AnthonyW_England)-[:RECRUITED_IN_CLASS]->(G6)
+
+CREATE (JackR_Lousma:Astronaut {name: 'Jack R. Lousma', birthplace: 'Grand Rapids, MI' , dateOfBirth: '2/29/1936' , gender: 'Male'})
+CREATE (JackR_Lousma)-[:EDUCATED_AT]->(UniversityofMichigan),
+(JackR_Lousma)-[:FLEW_ON]->(Skylab3),
+(JackR_Lousma)-[:FLEW_ON]->(STS3_Columbia_),
+(JackR_Lousma)-[:RECRUITED_IN_CLASS]->(G5)
+
+CREATE (JosephM_Acaba:Astronaut {name: 'Joseph M. Acaba', birthplace: 'Inglewood, CA' , dateOfBirth: '5/17/1967' , gender: 'Male'})
+CREATE (JosephM_Acaba)-[:EDUCATED_AT]->(UniversityofCaliforniaSantaBarbara),
+(JosephM_Acaba)-[:FLEW_ON]->(STS119_Discovery_),
+(JosephM_Acaba)-[:FLEW_ON]->(ISS3132_Soyuz_),
+(JosephM_Acaba)-[:RECRUITED_IN_CLASS]->(G19)
+
+CREATE (ChristopherJ_Loria:Astronaut {name: 'Christopher J. Loria', birthplace: 'Belmont, MA' , dateOfBirth: '7/9/1960' , gender: 'Male'})
+CREATE (ChristopherJ_Loria)-[:EDUCATED_AT]->(USNavalAcademy),
+(ChristopherJ_Loria)-[:RECRUITED_IN_CLASS]->(G16)
+
+CREATE (KarenL_Nyberg:Astronaut {name: 'Karen L. Nyberg', birthplace: 'Parker’s Prairie, MN' , dateOfBirth: '10/7/1969' , gender: 'Female'})
+CREATE (KarenL_Nyberg)-[:EDUCATED_AT]->(UniversityofNorthDakota),
+(KarenL_Nyberg)-[:FLEW_ON]->(STS124_Discovery_),
+(KarenL_Nyberg)-[:FLEW_ON]->(ISS3637_Soyuz_),
+(KarenL_Nyberg)-[:RECRUITED_IN_CLASS]->(G18)
+
+CREATE (DonaldR_McMonagle:Astronaut {name: 'Donald R. McMonagle', birthplace: 'Flint, MI' , dateOfBirth: '5/14/1952' , gender: 'Male'})
+CREATE (DonaldR_McMonagle)-[:EDUCATED_AT]->(USAirForceAcademy),
+(DonaldR_McMonagle)-[:FLEW_ON]->(STS39_Discovery_),
+(DonaldR_McMonagle)-[:FLEW_ON]->(STS54_Endeavor_),
+(DonaldR_McMonagle)-[:FLEW_ON]->(STS66_Atlantis_),
+(DonaldR_McMonagle)-[:RECRUITED_IN_CLASS]->(G12)
+
+CREATE (SusanL_Kilrain_Still_:Astronaut {name: 'Susan L. Kilrain (Still)', birthplace: 'Augusta, GA' , dateOfBirth: '10/24/1961' , gender: 'Female'})
+CREATE (SusanL_Kilrain_Still_)-[:EDUCATED_AT]->(EmbryRiddleUniversity),
+(SusanL_Kilrain_Still_)-[:FLEW_ON]->(STS83_Columbia_),
+(SusanL_Kilrain_Still_)-[:FLEW_ON]->(STS94_Columbia_),
+(SusanL_Kilrain_Still_)-[:RECRUITED_IN_CLASS]->(G15)
+
+CREATE (DaleA_Gardner:Astronaut {name: 'Dale A. Gardner', birthplace: 'Fairmont, MN' , dateOfBirth: '11/8/1948' , gender: 'Male'})
+CREATE (DaleA_Gardner)-[:EDUCATED_AT]->(UniversityofIllinois),
+(DaleA_Gardner)-[:FLEW_ON]->(STS8_Challenger_),
+(DaleA_Gardner)-[:FLEW_ON]->(STS51A_Discovery_),
+(DaleA_Gardner)-[:RECRUITED_IN_CLASS]->(G8)
+
+CREATE (RexJ_Walheim:Astronaut {name: 'Rex J. Walheim', birthplace: 'Redwood, CA' , dateOfBirth: '10/10/1962' , gender: 'Male'})
+CREATE (RexJ_Walheim)-[:EDUCATED_AT]->(UniversityofCaliforniaBerkeley),
+(RexJ_Walheim)-[:FLEW_ON]->(STS110_Atlantis_),
+(RexJ_Walheim)-[:FLEW_ON]->(STS122_Atlantis_),
+(RexJ_Walheim)-[:FLEW_ON]->(STS135_Atlantis_),
+(RexJ_Walheim)-[:RECRUITED_IN_CLASS]->(G16)
+
+CREATE (RichardJ_Hieb:Astronaut {name: 'Richard J. Hieb', birthplace: 'Jamestown, ND' , dateOfBirth: '9/21/1955' , gender: 'Male'})
+CREATE (RichardJ_Hieb)-[:EDUCATED_AT]->(NorthwestNazareneCollege),
+(RichardJ_Hieb)-[:FLEW_ON]->(STS39_Discovery_),
+(RichardJ_Hieb)-[:FLEW_ON]->(STS49_Endeavor_),
+(RichardJ_Hieb)-[:FLEW_ON]->(STS65_Columbia_),
+(RichardJ_Hieb)-[:RECRUITED_IN_CLASS]->(G11)
+
+CREATE (F_AndrewGaffney:Astronaut {name: 'F. Andrew Gaffney', birthplace: 'Carlsbad, NM' , dateOfBirth: '6/9/1946' , gender: 'Male'})
+CREATE (F_AndrewGaffney)-[:EDUCATED_AT]->(UniversityofCaliforniaBerkeley),
+(F_AndrewGaffney)-[:FLEW_ON]->(STS40_Columbia_),
+(F_AndrewGaffney)-[:RECRUITED_IN_CLASS]->(G15)
+
+CREATE (DuaneE_Graveline:Astronaut {name: 'Duane E. Graveline', birthplace: 'Newport, VT' , dateOfBirth: '3/2/1931' , gender: 'Male'})
+CREATE (DuaneE_Graveline)-[:EDUCATED_AT]->(UniversityofVermont),
+(DuaneE_Graveline)-[:RECRUITED_IN_CLASS]->(G4)
+
+CREATE (JamesP_DuttonJr_:Astronaut {name: 'James P. Dutton Jr.', birthplace: 'Eugene, OR' , dateOfBirth: '11/20/1968' , gender: 'Male'})
+CREATE (JamesP_DuttonJr_)-[:EDUCATED_AT]->(USAirForceAcademy),
+(JamesP_DuttonJr_)-[:FLEW_ON]->(STS131_Discovery_),
+(JamesP_DuttonJr_)-[:RECRUITED_IN_CLASS]->(G19)
+
+CREATE (LisaM_Nowak:Astronaut {name: 'Lisa M. Nowak', birthplace: 'Washington, DC' , dateOfBirth: '5/10/1963' , gender: 'Female'})
+CREATE (LisaM_Nowak)-[:EDUCATED_AT]->(USNavalAcademy),
+(LisaM_Nowak)-[:FLEW_ON]->(STS121_Discovery_),
+(LisaM_Nowak)-[:RECRUITED_IN_CLASS]->(G16)
+
+CREATE (JeffreyN_Williams:Astronaut {name: 'Jeffrey N. Williams', birthplace: 'Superior, WI' , dateOfBirth: '1/18/1958' , gender: 'Male'})
+CREATE (JeffreyN_Williams)-[:EDUCATED_AT]->(USMilitaryAcademy),
+(JeffreyN_Williams)-[:FLEW_ON]->(STS101_Atlantis_),
+(JeffreyN_Williams)-[:FLEW_ON]->(ISS13_Soyuz_),
+(JeffreyN_Williams)-[:FLEW_ON]->(ISS2122_Soyuz_),
+(JeffreyN_Williams)-[:FLEW_ON]->(ISS4748_Soyuz_),
+(JeffreyN_Williams)-[:RECRUITED_IN_CLASS]->(G16)
+
+CREATE (S_DavidGriggs:Astronaut {name: 'S. David Griggs', birthplace: 'Portland, OR' , dateOfBirth: '9/7/1939' , gender: 'Male'})
+CREATE (S_DavidGriggs)-[:EDUCATED_AT]->(USNavalAcademy),
+(S_DavidGriggs)-[:FLEW_ON]->(STS51D_Discovery_),
+(S_DavidGriggs)-[:RECRUITED_IN_CLASS]->(G8)
+
+CREATE (DanielM_Tani:Astronaut {name: 'Daniel M. Tani', birthplace: 'Ridley Park, PA' , dateOfBirth: '2/1/1961' , gender: 'Male'})
+CREATE (DanielM_Tani)-[:EDUCATED_AT]->(MIT),
+(DanielM_Tani)-[:FLEW_ON]->(STS108_Endeavor_),
+(DanielM_Tani)-[:FLEW_ON]->(STS120122_DiscoveryAtlantis_),
+(DanielM_Tani)-[:RECRUITED_IN_CLASS]->(G16)
+
+CREATE (WalterCunningham:Astronaut {name: 'Walter Cunningham', birthplace: 'Creston, IA' , dateOfBirth: '3/16/1932' , gender: 'Male'})
+CREATE (WalterCunningham)-[:EDUCATED_AT]->(UniversityofCaliforniaLosAngeles),
+(WalterCunningham)-[:FLEW_ON]->(Apollo7),
+(WalterCunningham)-[:RECRUITED_IN_CLASS]->(G3)
+
+CREATE (ScottD_Tingle:Astronaut {name: 'Scott D. Tingle', birthplace: 'Attleboro, MA' , dateOfBirth: '7/19/1965' , gender: 'Male'})
+CREATE (ScottD_Tingle)-[:EDUCATED_AT]->(SoutheasternMassachusettsUniversity),
+(ScottD_Tingle)-[:RECRUITED_IN_CLASS]->(G20)
+
+CREATE (RobertCenker:Astronaut {name: 'Robert Cenker', birthplace: 'Uniontown, PA' , dateOfBirth: '11/5/1948' , gender: 'Male'})
+CREATE (RobertCenker)-[:EDUCATED_AT]->(PennsylvaniaStateUniversity),
+(RobertCenker)-[:FLEW_ON]->(STS61C_Columbia_),
+(RobertCenker)-[:RECRUITED_IN_CLASS]->(G11)
+
+CREATE (JeffreyS_Ashby:Astronaut {name: 'Jeffrey S. Ashby', birthplace: 'Dallas, TX' , dateOfBirth: '6/1/1954' , gender: 'Male'})
+CREATE (JeffreyS_Ashby)-[:EDUCATED_AT]->(UniversityofIdaho),
+(JeffreyS_Ashby)-[:FLEW_ON]->(STS93_Columbia_),
+(JeffreyS_Ashby)-[:FLEW_ON]->(STS100_Endeavor_),
+(JeffreyS_Ashby)-[:FLEW_ON]->(STS112_Atlantis_),
+(JeffreyS_Ashby)-[:RECRUITED_IN_CLASS]->(G15)
+
+CREATE (RichardN_Richards:Astronaut {name: 'Richard N. Richards', birthplace: 'Key West, FL' , dateOfBirth: '8/24/1946' , gender: 'Male'})
+CREATE (RichardN_Richards)-[:EDUCATED_AT]->(UniversityofMissouri),
+(RichardN_Richards)-[:FLEW_ON]->(STS28_Columbia_),
+(RichardN_Richards)-[:FLEW_ON]->(STS41_Discovery_),
+(RichardN_Richards)-[:FLEW_ON]->(STS50_Columbia_),
+(RichardN_Richards)-[:FLEW_ON]->(STS64_Discovery_),
+(RichardN_Richards)-[:RECRUITED_IN_CLASS]->(G9)
+
+CREATE (BillNelson:Astronaut {name: 'Bill Nelson', birthplace: 'Miami, FL' , dateOfBirth: '9/29/1942' , gender: 'Male'})
+CREATE (BillNelson)-[:EDUCATED_AT]->(YaleUniversity),
+(BillNelson)-[:FLEW_ON]->(STS61C_Columbia_),
+(BillNelson)-[:RECRUITED_IN_CLASS]->(G11)
+
+CREATE (RichardM_Mullane:Astronaut {name: 'Richard M. Mullane', birthplace: 'Wichita Falls, TX' , dateOfBirth: '9/10/1945' , gender: 'Male'})
+CREATE (RichardM_Mullane)-[:EDUCATED_AT]->(USMilitaryAcademy),
+(RichardM_Mullane)-[:FLEW_ON]->(STS41D_Discovery_),
+(RichardM_Mullane)-[:FLEW_ON]->(STS27_Atlantis_),
+(RichardM_Mullane)-[:FLEW_ON]->(STS36_Atlantis_),
+(RichardM_Mullane)-[:RECRUITED_IN_CLASS]->(G8)
+
+CREATE (PeterJ_K_Wisoff:Astronaut {name: 'Peter J. K. Wisoff', birthplace: 'Norfolk, VA' , dateOfBirth: '8/16/1958' , gender: 'Male'})
+CREATE (PeterJ_K_Wisoff)-[:EDUCATED_AT]->(UniversityofVirginia),
+(PeterJ_K_Wisoff)-[:FLEW_ON]->(STS57_Endeavor_),
+(PeterJ_K_Wisoff)-[:FLEW_ON]->(STS68_Endeavor_),
+(PeterJ_K_Wisoff)-[:FLEW_ON]->(STS81_Atlantis_),
+(PeterJ_K_Wisoff)-[:FLEW_ON]->(STS92_Discovery_),
+(PeterJ_K_Wisoff)-[:RECRUITED_IN_CLASS]->(G13)
+
+CREATE (CharlesO_Hobaugh:Astronaut {name: 'Charles O. Hobaugh', birthplace: 'Bar Harbor, ME' , dateOfBirth: '11/5/1961' , gender: 'Male'})
+CREATE (CharlesO_Hobaugh)-[:EDUCATED_AT]->(USNavalAcademy),
+(CharlesO_Hobaugh)-[:FLEW_ON]->(STS104_Atlantis_),
+(CharlesO_Hobaugh)-[:FLEW_ON]->(STS118_Endeavor_),
+(CharlesO_Hobaugh)-[:FLEW_ON]->(ST129_Atlantis_),
+(CharlesO_Hobaugh)-[:RECRUITED_IN_CLASS]->(G16)
+
+CREATE (RandolphJ_Bresnik:Astronaut {name: 'Randolph J. Bresnik', birthplace: 'Fort Knox, KY' , dateOfBirth: '9/11/1967' , gender: 'Male'})
+CREATE (RandolphJ_Bresnik)-[:EDUCATED_AT]->(TheCitadel),
+(RandolphJ_Bresnik)-[:FLEW_ON]->(STS129_Atlantis_),
+(RandolphJ_Bresnik)-[:RECRUITED_IN_CLASS]->(G19)
+
+CREATE (JackD_Fischer:Astronaut {name: 'Jack D. Fischer', birthplace: 'Louisville, CO' , dateOfBirth: '1/23/1974' , gender: 'Male'})
+CREATE (JackD_Fischer)-[:EDUCATED_AT]->(USAirForceAcademy),
+(JackD_Fischer)-[:RECRUITED_IN_CLASS]->(G20)
+
+CREATE (PaulS_Lockhart:Astronaut {name: 'Paul S. Lockhart', birthplace: 'Amarillo, TX' , dateOfBirth: '4/28/1956' , gender: 'Male'})
+CREATE (PaulS_Lockhart)-[:EDUCATED_AT]->(TexasTechUniversity),
+(PaulS_Lockhart)-[:FLEW_ON]->(STS111_Endeavor_),
+(PaulS_Lockhart)-[:FLEW_ON]->(STS113_Endeavor_),
+(PaulS_Lockhart)-[:RECRUITED_IN_CLASS]->(G16)
+
+CREATE (HenryW_HartsfieldJr_:Astronaut {name: 'Henry W. Hartsfield Jr.', birthplace: 'Birmingham, AL' , dateOfBirth: '11/21/1933' , gender: 'Male'})
+CREATE (HenryW_HartsfieldJr_)-[:EDUCATED_AT]->(AuburnUniversity),
+(HenryW_HartsfieldJr_)-[:FLEW_ON]->(STS4_Columbia_),
+(HenryW_HartsfieldJr_)-[:FLEW_ON]->(STS41D_Discovery_),
+(HenryW_HartsfieldJr_)-[:FLEW_ON]->(STS61A_Challenger_),
+(HenryW_HartsfieldJr_)-[:RECRUITED_IN_CLASS]->(G7)
+
+CREATE (BrianT_OLeary:Astronaut {name: 'Brian T. OLeary', birthplace: 'Boston, MA' , dateOfBirth: '1/27/1940' , gender: 'Male'})
+CREATE (BrianT_OLeary)-[:EDUCATED_AT]->(WilliamsCollege),
+(BrianT_OLeary)-[:RECRUITED_IN_CLASS]->(G6)
+
+CREATE (JamesA_LovellJr_:Astronaut {name: 'James A. Lovell Jr.', birthplace: 'Cleveland, OH' , dateOfBirth: '3/25/1928' , gender: 'Male'})
+CREATE (JamesA_LovellJr_)-[:EDUCATED_AT]->(USNavalAcademy),
+(JamesA_LovellJr_)-[:FLEW_ON]->(Gemini7),
+(JamesA_LovellJr_)-[:FLEW_ON]->(Gemini12),
+(JamesA_LovellJr_)-[:FLEW_ON]->(Apollo8),
+(JamesA_LovellJr_)-[:FLEW_ON]->(Apollo13),
+(JamesA_LovellJr_)-[:RECRUITED_IN_CLASS]->(G2)
+
+CREATE (FrederickH_Hauck:Astronaut {name: 'Frederick H. Hauck', birthplace: 'Long Beach, CA' , dateOfBirth: '4/11/1941' , gender: 'Male'})
+CREATE (FrederickH_Hauck)-[:EDUCATED_AT]->(TuftsUniversity),
+(FrederickH_Hauck)-[:FLEW_ON]->(STS7_Challenger_),
+(FrederickH_Hauck)-[:FLEW_ON]->(STS51A_Discovery_),
+(FrederickH_Hauck)-[:FLEW_ON]->(STS26_Discovery_),
+(FrederickH_Hauck)-[:RECRUITED_IN_CLASS]->(G8)
+
+CREATE (MichaelE_LopezAlegria:Astronaut {name: 'Michael E. Lopez-Alegria', birthplace: 'Madrid, Spain' , dateOfBirth: '5/30/1958' , gender: 'Male'})
+CREATE (MichaelE_LopezAlegria)-[:EDUCATED_AT]->(USNavalAcademy),
+(MichaelE_LopezAlegria)-[:FLEW_ON]->(STS73_Columbia_),
+(MichaelE_LopezAlegria)-[:FLEW_ON]->(STS92_Discovery_),
+(MichaelE_LopezAlegria)-[:FLEW_ON]->(STS113_Endeavor_),
+(MichaelE_LopezAlegria)-[:FLEW_ON]->(ISS14_Soyuz_),
+(MichaelE_LopezAlegria)-[:RECRUITED_IN_CLASS]->(G14)
+
+CREATE (C_GordonFullerton:Astronaut {name: 'C. Gordon Fullerton', birthplace: 'Rochester, NY' , dateOfBirth: '10/11/1936' , gender: 'Male'})
+CREATE (C_GordonFullerton)-[:EDUCATED_AT]->(CaliforniaInstituteofTechnology),
+(C_GordonFullerton)-[:FLEW_ON]->(STS3_Columbia_),
+(C_GordonFullerton)-[:FLEW_ON]->(STS51F_Challenger_),
+(C_GordonFullerton)-[:RECRUITED_IN_CLASS]->(G7)
+
+CREATE (JohnH_GlennJr_:Astronaut {name: 'John H. Glenn Jr.', birthplace: 'Cambridge, OH' , dateOfBirth: '7/18/1921' , gender: 'Male'})
+CREATE (JohnH_GlennJr_)-[:EDUCATED_AT]->(MuskingumCollege),
+(JohnH_GlennJr_)-[:FLEW_ON]->(Mercury6),
+(JohnH_GlennJr_)-[:FLEW_ON]->(STS95_Discovery_),
+(JohnH_GlennJr_)-[:RECRUITED_IN_CLASS]->(G1)
+
+CREATE (WendyB_Lawrence:Astronaut {name: 'Wendy B. Lawrence', birthplace: 'Jacksonville, FL' , dateOfBirth: '7/2/1959' , gender: 'Female'})
+CREATE (WendyB_Lawrence)-[:EDUCATED_AT]->(USNavalAcademy),
+(WendyB_Lawrence)-[:FLEW_ON]->(STS67_Endeavor_),
+(WendyB_Lawrence)-[:FLEW_ON]->(STS86_Atlantis_),
+(WendyB_Lawrence)-[:FLEW_ON]->(STS91_Discovery_),
+(WendyB_Lawrence)-[:FLEW_ON]->(STS114_Discovery_),
+(WendyB_Lawrence)-[:RECRUITED_IN_CLASS]->(G14)
+
+CREATE (StevenR_Swanson:Astronaut {name: 'Steven R. Swanson', birthplace: 'Syracuse, NY' , dateOfBirth: '12/3/1960' , gender: 'Male'})
+CREATE (StevenR_Swanson)-[:EDUCATED_AT]->(UniversityofColorado),
+(StevenR_Swanson)-[:FLEW_ON]->(STS117_Atlantis_),
+(StevenR_Swanson)-[:FLEW_ON]->(STS119_Discovery_),
+(StevenR_Swanson)-[:FLEW_ON]->(ISS3940_Soyuz_),
+(StevenR_Swanson)-[:RECRUITED_IN_CLASS]->(G17)
+
+CREATE (KarlG_Henize:Astronaut {name: 'Karl G. Henize', birthplace: 'Cincinnati, OH' , dateOfBirth: '10/17/1926' , gender: 'Male'})
+CREATE (KarlG_Henize)-[:EDUCATED_AT]->(UniversityofVirginia),
+(KarlG_Henize)-[:FLEW_ON]->(STS51F_Challenger_),
+(KarlG_Henize)-[:RECRUITED_IN_CLASS]->(G6)
+
+CREATE (JamesD_HalsellJr_:Astronaut {name: 'James D. Halsell Jr.', birthplace: 'Monroe, LA' , dateOfBirth: '9/29/1956' , gender: 'Male'})
+CREATE (JamesD_HalsellJr_)-[:EDUCATED_AT]->(USAirForceAcademy),
+(JamesD_HalsellJr_)-[:FLEW_ON]->(STS65_Columbia_),
+(JamesD_HalsellJr_)-[:FLEW_ON]->(STS74_Atlantis_),
+(JamesD_HalsellJr_)-[:FLEW_ON]->(STS83_Columbia_),
+(JamesD_HalsellJr_)-[:FLEW_ON]->(STS94_Columbia_),
+(JamesD_HalsellJr_)-[:FLEW_ON]->(STS101_Atlantis_),
+(JamesD_HalsellJr_)-[:RECRUITED_IN_CLASS]->(G13)
+
+CREATE (RichardR_ArnoldII:Astronaut {name: 'Richard R. Arnold II', birthplace: 'Cheverly, MD' , dateOfBirth: '11/26/1963' , gender: 'Male'})
+CREATE (RichardR_ArnoldII)-[:EDUCATED_AT]->(FrostburgStateUniversity),
+(RichardR_ArnoldII)-[:FLEW_ON]->(STS119_Discovery_),
+(RichardR_ArnoldII)-[:RECRUITED_IN_CLASS]->(G19)
+
+CREATE (DonaldR_Pettit:Astronaut {name: 'Donald R. Pettit', birthplace: 'Silverton, OR' , dateOfBirth: '4/20/1955' , gender: 'Male'})
+CREATE (DonaldR_Pettit)-[:EDUCATED_AT]->(OregonStateUniversity),
+(DonaldR_Pettit)-[:FLEW_ON]->(ISS6_Soyuz_),
+(DonaldR_Pettit)-[:FLEW_ON]->(STS126_Endeavor_),
+(DonaldR_Pettit)-[:FLEW_ON]->(ISS3031_Soyuz_),
+(DonaldR_Pettit)-[:RECRUITED_IN_CLASS]->(G16)
+
+CREATE (TaylorG_Wang:Astronaut {name: 'Taylor G. Wang', birthplace: 'Jiangxi, China' , dateOfBirth: '6/16/1940' , gender: 'Male'})
+CREATE (TaylorG_Wang)-[:EDUCATED_AT]->(UniversityofCaliforniaatLosAngeles),
+(TaylorG_Wang)-[:FLEW_ON]->(STS51B_Challenger_),
+(TaylorG_Wang)-[:RECRUITED_IN_CLASS]->(G11)
+
+CREATE (KathleenRubins:Astronaut {name: 'Kathleen Rubins', birthplace: 'Farmington, CT' , dateOfBirth: '10/14/1978' , gender: 'Female'})
+CREATE (KathleenRubins)-[:EDUCATED_AT]->(UniversityofCaliforniaSanDiego),
+(KathleenRubins)-[:FLEW_ON]->(ISS4849_Soyuz_),
+(KathleenRubins)-[:RECRUITED_IN_CLASS]->(G20)
+
+CREATE (KevinP_Chilton:Astronaut {name: 'Kevin P. Chilton', birthplace: 'Los Angeles, CA' , dateOfBirth: '3/11/1954' , gender: 'Male'})
+CREATE (KevinP_Chilton)-[:EDUCATED_AT]->(USAirForceAcademy),
+(KevinP_Chilton)-[:FLEW_ON]->(STS49_Endeavor_),
+(KevinP_Chilton)-[:FLEW_ON]->(STS59_Endeavor_),
+(KevinP_Chilton)-[:FLEW_ON]->(STS76_Atlantis_),
+(KevinP_Chilton)-[:RECRUITED_IN_CLASS]->(G12)
+
+CREATE (CharlesD_Walker:Astronaut {name: 'Charles D. Walker', birthplace: 'Bedford, IN' , dateOfBirth: '8/29/1948' , gender: 'Male'})
+CREATE (CharlesD_Walker)-[:EDUCATED_AT]->(PurdueUniversity),
+(CharlesD_Walker)-[:FLEW_ON]->(STS41D_Discovery_),
+(CharlesD_Walker)-[:FLEW_ON]->(STS51D_Discovery_),
+(CharlesD_Walker)-[:FLEW_ON]->(STS61B_Atlantis_),
+(CharlesD_Walker)-[:RECRUITED_IN_CLASS]->(G10)
+
+CREATE (JohnH_Casper:Astronaut {name: 'John H. Casper', birthplace: 'Greenville, SC' , dateOfBirth: '7/9/1943' , gender: 'Male'})
+CREATE (JohnH_Casper)-[:EDUCATED_AT]->(USAirForceAcademy),
+(JohnH_Casper)-[:FLEW_ON]->(STS36_Atlantis_),
+(JohnH_Casper)-[:FLEW_ON]->(STS54_Endeavor_),
+(JohnH_Casper)-[:FLEW_ON]->(STS62_Columbia_),
+(JohnH_Casper)-[:FLEW_ON]->(STS77_Endeavor_),
+(JohnH_Casper)-[:RECRUITED_IN_CLASS]->(G10)
+
+CREATE (DonaldE_Williams:Astronaut {name: 'Donald E. Williams', birthplace: 'Lafayette, IN' , dateOfBirth: '2/13/1958' , gender: 'Male'})
+CREATE (DonaldE_Williams)-[:EDUCATED_AT]->(PurdueUniversity),
+(DonaldE_Williams)-[:FLEW_ON]->(STS51D_Discovery_),
+(DonaldE_Williams)-[:FLEW_ON]->(STS34_Atlantis_),
+(DonaldE_Williams)-[:RECRUITED_IN_CLASS]->(G8)
+
+CREATE (JamesM_Kelly:Astronaut {name: 'James M. Kelly', birthplace: 'Burlington, IA' , dateOfBirth: '5/14/1964' , gender: 'Male'})
+CREATE (JamesM_Kelly)-[:EDUCATED_AT]->(USAirForceAcademy),
+(JamesM_Kelly)-[:FLEW_ON]->(STS102_Discovery_),
+(JamesM_Kelly)-[:FLEW_ON]->(STS114_Discovery_),
+(JamesM_Kelly)-[:RECRUITED_IN_CLASS]->(G16)
+
+CREATE (MichaelL_Gernhardt:Astronaut {name: 'Michael L. Gernhardt', birthplace: 'Mansfield, OH' , dateOfBirth: '5/4/1956' , gender: 'Male'})
+CREATE (MichaelL_Gernhardt)-[:EDUCATED_AT]->(VanderbiltUniversity),
+(MichaelL_Gernhardt)-[:FLEW_ON]->(STS69_Endeavor_),
+(MichaelL_Gernhardt)-[:FLEW_ON]->(STS83_Columbia_),
+(MichaelL_Gernhardt)-[:FLEW_ON]->(STS94_Columbia_),
+(MichaelL_Gernhardt)-[:FLEW_ON]->(STS104_Atlantis_),
+(MichaelL_Gernhardt)-[:RECRUITED_IN_CLASS]->(G14)
+
+CREATE (RobertL_Stewart:Astronaut {name: 'Robert L. Stewart', birthplace: 'Washington, DC' , dateOfBirth: '8/13/1942' , gender: 'Male'})
+CREATE (RobertL_Stewart)-[:EDUCATED_AT]->(UniversityofSouthernMississippi),
+(RobertL_Stewart)-[:FLEW_ON]->(STS41B_Challenger_),
+(RobertL_Stewart)-[:FLEW_ON]->(STS51J_Atlantis_),
+(RobertL_Stewart)-[:RECRUITED_IN_CLASS]->(G8)
+
+CREATE (DonaldA_Thomas:Astronaut {name: 'Donald A. Thomas', birthplace: 'Cleveland, OH' , dateOfBirth: '5/6/1955' , gender: 'Male'})
+CREATE (DonaldA_Thomas)-[:EDUCATED_AT]->(CaseWesternReserveUniversity),
+(DonaldA_Thomas)-[:FLEW_ON]->(STS65_Columbia_),
+(DonaldA_Thomas)-[:FLEW_ON]->(STS70_Discovery_),
+(DonaldA_Thomas)-[:FLEW_ON]->(STS83_Columbia_),
+(DonaldA_Thomas)-[:FLEW_ON]->(STS94_Columbia_),
+(DonaldA_Thomas)-[:RECRUITED_IN_CLASS]->(G13)
+
+CREATE (FernandoCaldeiro:Astronaut {name: 'Fernando Caldeiro', birthplace: 'Buenos Aires, Argentina' , dateOfBirth: '6/12/1958' , gender: 'Male'})
+CREATE (FernandoCaldeiro)-[:EDUCATED_AT]->(UniversityofArizona),
+(FernandoCaldeiro)-[:RECRUITED_IN_CLASS]->(G16)
+
+CREATE (RobertC_Springer:Astronaut {name: 'Robert C. Springer', birthplace: 'St. Louis, MO' , dateOfBirth: '5/21/1942' , gender: 'Male'})
+CREATE (RobertC_Springer)-[:EDUCATED_AT]->(USNavalAcademy),
+(RobertC_Springer)-[:FLEW_ON]->(STS29_Discovery_),
+(RobertC_Springer)-[:FLEW_ON]->(STS38_Atlantis_),
+(RobertC_Springer)-[:RECRUITED_IN_CLASS]->(G9)
+
+CREATE (TracyE_Caldwell_Dyson_:Astronaut {name: 'Tracy E. Caldwell (Dyson)', birthplace: 'Arcadia, CA' , dateOfBirth: '8/14/1969' , gender: 'Female'})
+CREATE (TracyE_Caldwell_Dyson_)-[:EDUCATED_AT]->(CaliforniaStateUniversityFullerton),
+(TracyE_Caldwell_Dyson_)-[:FLEW_ON]->(STS118_Endeavor_),
+(TracyE_Caldwell_Dyson_)-[:FLEW_ON]->(ISS2324_Soyuz_),
+(TracyE_Caldwell_Dyson_)-[:RECRUITED_IN_CLASS]->(G17)
+
+CREATE (TimothyJ_Creamer:Astronaut {name: 'Timothy J. Creamer', birthplace: 'Ft. Huachuca, AZ' , dateOfBirth: '11/15/1959' , gender: 'Male'})
+CREATE (TimothyJ_Creamer)-[:EDUCATED_AT]->(LoyolaCollege),
+(TimothyJ_Creamer)-[:FLEW_ON]->(ISS2223_Soyuz_),
+(TimothyJ_Creamer)-[:RECRUITED_IN_CLASS]->(G17)
+
+CREATE (PhilipK_Chapman:Astronaut {name: 'Philip K. Chapman', birthplace: 'Melbourne, Australia' , dateOfBirth: '3/5/1935' , gender: 'Male'})
+CREATE (PhilipK_Chapman)-[:EDUCATED_AT]->(UniversityofSydney),
+(PhilipK_Chapman)-[:RECRUITED_IN_CLASS]->(G6)
+
+CREATE (WilliamM_Shepherd:Astronaut {name: 'William M. Shepherd', birthplace: 'Oak Ridge, TN' , dateOfBirth: '7/26/1949' , gender: 'Male'})
+CREATE (WilliamM_Shepherd)-[:EDUCATED_AT]->(USNavalAcademy),
+(WilliamM_Shepherd)-[:FLEW_ON]->(STS37_Atlantis_),
+(WilliamM_Shepherd)-[:FLEW_ON]->(STS41_Discovery_),
+(WilliamM_Shepherd)-[:FLEW_ON]->(STS52_Columbia_),
+(WilliamM_Shepherd)-[:FLEW_ON]->(ISS01STS102_SoyuzDiscovery_),
+(WilliamM_Shepherd)-[:RECRUITED_IN_CLASS]->(G10)
+
+CREATE (DavidM_Brown:Astronaut {name: 'David M. Brown', birthplace: 'Arlington, VA' , dateOfBirth: '4/16/1956' , gender: 'Male'})
+CREATE (DavidM_Brown)-[:EDUCATED_AT]->(CollegeofWilliamMary),
+(DavidM_Brown)-[:FLEW_ON]->(STS107_Columbia_),
+(DavidM_Brown)-[:RECRUITED_IN_CLASS]->(G16)
+
+CREATE (K_MeganMcArthur:Astronaut {name: 'K. Megan McArthur', birthplace: 'Honolulu, HI' , dateOfBirth: '8/30/1971' , gender: 'Female'})
+CREATE (K_MeganMcArthur)-[:EDUCATED_AT]->(UniversityofCaliforniaLosAngeles),
+(K_MeganMcArthur)-[:FLEW_ON]->(STS125_Atlantis_),
+(K_MeganMcArthur)-[:RECRUITED_IN_CLASS]->(G18)
+
+CREATE (DonaldH_Peterson:Astronaut {name: 'Donald H. Peterson', birthplace: 'Winona, MS' , dateOfBirth: '10/22/1933' , gender: 'Male'})
+CREATE (DonaldH_Peterson)-[:EDUCATED_AT]->(USMilitaryAcademy),
+(DonaldH_Peterson)-[:FLEW_ON]->(STS6_Challenger_),
+(DonaldH_Peterson)-[:RECRUITED_IN_CLASS]->(G7)
+
+CREATE (MaryL_Cleave:Astronaut {name: 'Mary L. Cleave', birthplace: 'Southampton, NY' , dateOfBirth: '2/5/1947' , gender: 'Female'})
+CREATE (MaryL_Cleave)-[:EDUCATED_AT]->(ColoradoStateUniversity),
+(MaryL_Cleave)-[:FLEW_ON]->(STS61B_Atlantis_),
+(MaryL_Cleave)-[:FLEW_ON]->(STS30_Atlantis_),
+(MaryL_Cleave)-[:RECRUITED_IN_CLASS]->(G9)
+
+CREATE (CarlJ_Meade:Astronaut {name: 'Carl J. Meade', birthplace: 'Chanute Air Force Base, IL' , dateOfBirth: '11/16/1950' , gender: 'Male'})
+CREATE (CarlJ_Meade)-[:EDUCATED_AT]->(UniversityofTexas),
+(CarlJ_Meade)-[:FLEW_ON]->(STS38_Atlantis_),
+(CarlJ_Meade)-[:FLEW_ON]->(STS50_Columbia_),
+(CarlJ_Meade)-[:FLEW_ON]->(STS64_Discovery_),
+(CarlJ_Meade)-[:RECRUITED_IN_CLASS]->(G11)
+
+CREATE (KennethD_Bowersox:Astronaut {name: 'Kenneth D. Bowersox', birthplace: 'Portsmouth, VA' , dateOfBirth: '11/14/1956' , gender: 'Male'})
+CREATE (KennethD_Bowersox)-[:EDUCATED_AT]->(USNavalAcademy),
+(KennethD_Bowersox)-[:FLEW_ON]->(STS50_Columbia_),
+(KennethD_Bowersox)-[:FLEW_ON]->(STS61_Endeavor_),
+(KennethD_Bowersox)-[:FLEW_ON]->(STS73_Columbia_),
+(KennethD_Bowersox)-[:FLEW_ON]->(STS82_Discovery_),
+(KennethD_Bowersox)-[:FLEW_ON]->(STS113_EndeavorSoyuz_),
+(KennethD_Bowersox)-[:RECRUITED_IN_CLASS]->(G12)
+
+CREATE (RichardO_Covey:Astronaut {name: 'Richard O. Covey', birthplace: 'Fayetteville, AR' , dateOfBirth: '8/1/1946' , gender: 'Male'})
+CREATE (RichardO_Covey)-[:EDUCATED_AT]->(USAirForceAcademy),
+(RichardO_Covey)-[:FLEW_ON]->(STS51l_Discovery_),
+(RichardO_Covey)-[:FLEW_ON]->(STS26_Discovery_),
+(RichardO_Covey)-[:FLEW_ON]->(STS38_Atlantis_),
+(RichardO_Covey)-[:FLEW_ON]->(STS61_Endeavor_),
+(RichardO_Covey)-[:RECRUITED_IN_CLASS]->(G8)
+
+CREATE (CarlE_Walz:Astronaut {name: 'Carl E. Walz', birthplace: 'Cleveland, OH' , dateOfBirth: '9/6/1955' , gender: 'Male'})
+CREATE (CarlE_Walz)-[:EDUCATED_AT]->(KentStateUniversity),
+(CarlE_Walz)-[:FLEW_ON]->(STS51_Discovery_),
+(CarlE_Walz)-[:FLEW_ON]->(STS65_Columbia_),
+(CarlE_Walz)-[:FLEW_ON]->(STS79_Atlantis_),
+(CarlE_Walz)-[:FLEW_ON]->(STS108111_Endeavor_),
+(CarlE_Walz)-[:RECRUITED_IN_CLASS]->(G13)
+
+CREATE (StevenW_Lindsey:Astronaut {name: 'Steven W. Lindsey', birthplace: 'Arcadia, CA' , dateOfBirth: '8/24/1960' , gender: 'Male'})
+CREATE (StevenW_Lindsey)-[:EDUCATED_AT]->(USAirForceAcademy),
+(StevenW_Lindsey)-[:FLEW_ON]->(STS87_Columbia_),
+(StevenW_Lindsey)-[:FLEW_ON]->(STS95_Discovery_),
+(StevenW_Lindsey)-[:FLEW_ON]->(STS104_Atlantis_),
+(StevenW_Lindsey)-[:FLEW_ON]->(STS121_Discovery_),
+(StevenW_Lindsey)-[:FLEW_ON]->(STS133_Discovery_),
+(StevenW_Lindsey)-[:RECRUITED_IN_CLASS]->(G15)
+
+CREATE (RobertL_SatcherJr_:Astronaut {name: 'Robert L. Satcher Jr.', birthplace: 'Hampton, VA' , dateOfBirth: '9/22/1965' , gender: 'Male'})
+CREATE (RobertL_SatcherJr_)-[:EDUCATED_AT]->(MIT),
+(RobertL_SatcherJr_)-[:FLEW_ON]->(STS129_Atlantis_),
+(RobertL_SatcherJr_)-[:RECRUITED_IN_CLASS]->(G19)
+
+CREATE (VirgilI_Grissom:Astronaut {name: 'Virgil I. Grissom', birthplace: 'Mitchell, IN' , dateOfBirth: '4/3/1926' , gender: 'Male'})
+CREATE (VirgilI_Grissom)-[:EDUCATED_AT]->(PurdueUniversity),
+(VirgilI_Grissom)-[:FLEW_ON]->(Mercury4),
+(VirgilI_Grissom)-[:FLEW_ON]->(Gemini3),
+(VirgilI_Grissom)-[:FLEW_ON]->(Apollo1),
+(VirgilI_Grissom)-[:RECRUITED_IN_CLASS]->(G1)
+
+CREATE (JaniceE_Voss:Astronaut {name: 'Janice E. Voss', birthplace: 'South Bend, IN' , dateOfBirth: '10/8/1956' , gender: 'Female'})
+CREATE (JaniceE_Voss)-[:EDUCATED_AT]->(PurdueUniversity),
+(JaniceE_Voss)-[:FLEW_ON]->(STS57_Endeavor_),
+(JaniceE_Voss)-[:FLEW_ON]->(STS63_Discovery_),
+(JaniceE_Voss)-[:FLEW_ON]->(STS83_Columbia_),
+(JaniceE_Voss)-[:FLEW_ON]->(STS94_Columbia_),
+(JaniceE_Voss)-[:FLEW_ON]->(STS99_Endeavor_),
+(JaniceE_Voss)-[:RECRUITED_IN_CLASS]->(G13)
+
+CREATE (KentV_Rominger:Astronaut {name: 'Kent V. Rominger', birthplace: 'Del Norte, CO' , dateOfBirth: '8/7/1956' , gender: 'Male'})
+CREATE (KentV_Rominger)-[:EDUCATED_AT]->(ColoradoStateUniversity),
+(KentV_Rominger)-[:FLEW_ON]->(STS73_Columbia_),
+(KentV_Rominger)-[:FLEW_ON]->(STS80_Columbia_),
+(KentV_Rominger)-[:FLEW_ON]->(STS85_Discovery_),
+(KentV_Rominger)-[:FLEW_ON]->(STS96_Discovery_),
+(KentV_Rominger)-[:FLEW_ON]->(STS100_Endeavor_),
+(KentV_Rominger)-[:RECRUITED_IN_CLASS]->(G14)
+
+CREATE (MillieHughesFulford:Astronaut {name: 'Millie Hughes-Fulford', birthplace: 'Mineral Wells, TX' , dateOfBirth: '12/21/1945' , gender: 'Female'})
+CREATE (MillieHughesFulford)-[:EDUCATED_AT]->(TarletonStateUniversity),
+(MillieHughesFulford)-[:FLEW_ON]->(STS40_Columbia_),
+(MillieHughesFulford)-[:RECRUITED_IN_CLASS]->(G13)
+
+CREATE (RobertD_Cabana:Astronaut {name: 'Robert D. Cabana', birthplace: 'Minneapolis, MN' , dateOfBirth: '1/23/1949' , gender: 'Male'})
+CREATE (RobertD_Cabana)-[:EDUCATED_AT]->(USNavalAcademy),
+(RobertD_Cabana)-[:FLEW_ON]->(STS41_Discovery_),
+(RobertD_Cabana)-[:FLEW_ON]->(STS53_Discovery_),
+(RobertD_Cabana)-[:FLEW_ON]->(STS65_Columbia_),
+(RobertD_Cabana)-[:FLEW_ON]->(STS88_Endeavor_),
+(RobertD_Cabana)-[:RECRUITED_IN_CLASS]->(G11)
+
+CREATE (JohnO_Creighton:Astronaut {name: 'John O. Creighton', birthplace: 'Orange, TX' , dateOfBirth: '4/28/1943' , gender: 'Male'})
+CREATE (JohnO_Creighton)-[:EDUCATED_AT]->(USNavalAcademy),
+(JohnO_Creighton)-[:FLEW_ON]->(STS51G_Discovery_),
+(JohnO_Creighton)-[:FLEW_ON]->(STS36_Atlantis_),
+(JohnO_Creighton)-[:FLEW_ON]->(STS48_Discovery_),
+(JohnO_Creighton)-[:RECRUITED_IN_CLASS]->(G8)
+
+CREATE (DavidM_Walker:Astronaut {name: 'David M. Walker', birthplace: 'Columbus, GA' , dateOfBirth: '5/20/1944' , gender: 'Male'})
+CREATE (DavidM_Walker)-[:EDUCATED_AT]->(USNavalAcademy),
+(DavidM_Walker)-[:FLEW_ON]->(STS51A_Discovery_),
+(DavidM_Walker)-[:FLEW_ON]->(STS30_Atlantis_),
+(DavidM_Walker)-[:FLEW_ON]->(STS53_Discovery_),
+(DavidM_Walker)-[:FLEW_ON]->(STS69_Endeavor_),
+(DavidM_Walker)-[:RECRUITED_IN_CLASS]->(G8)
+
+CREATE (SidneyM_Gutierrez:Astronaut {name: 'Sidney M. Gutierrez', birthplace: 'Albuquerque, NM' , dateOfBirth: '6/27/1951' , gender: 'Male'})
+CREATE (SidneyM_Gutierrez)-[:EDUCATED_AT]->(USAirForceAcademy),
+(SidneyM_Gutierrez)-[:FLEW_ON]->(STS40_Columbia_),
+(SidneyM_Gutierrez)-[:FLEW_ON]->(STS59_Endeavor_),
+(SidneyM_Gutierrez)-[:RECRUITED_IN_CLASS]->(G10)
+
+CREATE (RichardF_GordonJr_:Astronaut {name: 'Richard F. Gordon Jr.', birthplace: 'Seattle, WA' , dateOfBirth: '10/5/1929' , gender: 'Male'})
+CREATE (RichardF_GordonJr_)-[:EDUCATED_AT]->(UniversityofWashington),
+(RichardF_GordonJr_)-[:FLEW_ON]->(Gemini11),
+(RichardF_GordonJr_)-[:FLEW_ON]->(Apollo12),
+(RichardF_GordonJr_)-[:RECRUITED_IN_CLASS]->(G3)
+
+CREATE (EllisonS_Onizuka:Astronaut {name: 'Ellison S. Onizuka', birthplace: 'Kealakekua, HI' , dateOfBirth: '6/24/1946' , gender: 'Male'})
+CREATE (EllisonS_Onizuka)-[:EDUCATED_AT]->(UniversityofColorado),
+(EllisonS_Onizuka)-[:FLEW_ON]->(STS51C_Discovery_),
+(EllisonS_Onizuka)-[:FLEW_ON]->(STS51L_Challenger_),
+(EllisonS_Onizuka)-[:RECRUITED_IN_CLASS]->(G8)
+
+CREATE (PaulD_ScullyPower:Astronaut {name: 'Paul D. Scully-Power', birthplace: 'Sydney, Australia' , dateOfBirth: '5/28/1944' , gender: 'Male'})
+CREATE (PaulD_ScullyPower)-[:EDUCATED_AT]->(UniversityofSydney),
+(PaulD_ScullyPower)-[:FLEW_ON]->(STS41G_Challenger_),
+(PaulD_ScullyPower)-[:RECRUITED_IN_CLASS]->(G10)
+
+CREATE (KarolJ_Bobko:Astronaut {name: 'Karol J. Bobko', birthplace: 'New York, NY' , dateOfBirth: '12/23/1937' , gender: 'Male'})
+CREATE (KarolJ_Bobko)-[:EDUCATED_AT]->(USAirForceAcademy),
+(KarolJ_Bobko)-[:FLEW_ON]->(STS6_Challenger_),
+(KarolJ_Bobko)-[:FLEW_ON]->(STS51D_Discovery_),
+(KarolJ_Bobko)-[:FLEW_ON]->(STS51J_Atlantis_),
+(KarolJ_Bobko)-[:RECRUITED_IN_CLASS]->(G7)
+
+CREATE (StephenG_Bowen:Astronaut {name: 'Stephen G. Bowen', birthplace: 'Cohasset, MA' , dateOfBirth: '2/13/1964' , gender: 'Male'})
+CREATE (StephenG_Bowen)-[:EDUCATED_AT]->(USNavalAcademy),
+(StephenG_Bowen)-[:FLEW_ON]->(STS126_Endeavor_),
+(StephenG_Bowen)-[:FLEW_ON]->(STS132_Atlantis_),
+(StephenG_Bowen)-[:FLEW_ON]->(STS133_Discovery_),
+(StephenG_Bowen)-[:RECRUITED_IN_CLASS]->(G18)
+
+CREATE (SusanJ_Helms:Astronaut {name: 'Susan J. Helms', birthplace: 'Charlotte, NC' , dateOfBirth: '2/26/1958' , gender: 'Female'})
+CREATE (SusanJ_Helms)-[:EDUCATED_AT]->(USAirForceAcademy),
+(SusanJ_Helms)-[:FLEW_ON]->(STS54_Endeavor_),
+(SusanJ_Helms)-[:FLEW_ON]->(STS64_Discovery_),
+(SusanJ_Helms)-[:FLEW_ON]->(STS78_Columbia_),
+(SusanJ_Helms)-[:FLEW_ON]->(STS101_Atlantis_),
+(SusanJ_Helms)-[:FLEW_ON]->(STS102105_Discovery_),
+(SusanJ_Helms)-[:RECRUITED_IN_CLASS]->(G13)
+
+CREATE (JamesF_Buchli:Astronaut {name: 'James F. Buchli', birthplace: 'New Rockford, ND' , dateOfBirth: '6/20/1945' , gender: 'Male'})
+CREATE (JamesF_Buchli)-[:EDUCATED_AT]->(USNavalAcademy),
+(JamesF_Buchli)-[:FLEW_ON]->(STS51C_Discovery_),
+(JamesF_Buchli)-[:FLEW_ON]->(STS61A_Challenger_),
+(JamesF_Buchli)-[:FLEW_ON]->(STS29_Discovery_),
+(JamesF_Buchli)-[:FLEW_ON]->(STS48_Discovery),
+(JamesF_Buchli)-[:RECRUITED_IN_CLASS]->(G8)
+
+CREATE (FrederickW_Sturckow:Astronaut {name: 'Frederick W. Sturckow', birthplace: 'La Mesa, CA' , dateOfBirth: '8/11/1961' , gender: 'Male'})
+CREATE (FrederickW_Sturckow)-[:EDUCATED_AT]->(CaliforniaPolytechnicStateUniversity),
+(FrederickW_Sturckow)-[:FLEW_ON]->(STS88_Endeavor_),
+(FrederickW_Sturckow)-[:FLEW_ON]->(STS105_Discovery_),
+(FrederickW_Sturckow)-[:FLEW_ON]->(STS117_Atlantis_),
+(FrederickW_Sturckow)-[:FLEW_ON]->(STS128_Discovery_),
+(FrederickW_Sturckow)-[:RECRUITED_IN_CLASS]->(G15)
+
+CREATE (JudithA_Resnik:Astronaut {name: 'Judith A. Resnik', birthplace: 'Akron, OH' , dateOfBirth: '4/5/1949' , gender: 'Female'})
+CREATE (JudithA_Resnik)-[:EDUCATED_AT]->(CarnegieMellonUniversity),
+(JudithA_Resnik)-[:FLEW_ON]->(STS41D_Discovery_),
+(JudithA_Resnik)-[:FLEW_ON]->(STS51L_Challenger_),
+(JudithA_Resnik)-[:RECRUITED_IN_CLASS]->(G8)
+
+CREATE (WilliamC_McCool:Astronaut {name: 'William C. McCool', birthplace: 'San Diego, CA' , dateOfBirth: '9/23/1961' , gender: 'Male'})
+CREATE (WilliamC_McCool)-[:EDUCATED_AT]->(USNavalAcademy),
+(WilliamC_McCool)-[:FLEW_ON]->(STS107_Columbia_),
+(WilliamC_McCool)-[:RECRUITED_IN_CLASS]->(G16)
+
+CREATE (DominicL_Gorie:Astronaut {name: 'Dominic L. Gorie', birthplace: 'Lake Charles, LA' , dateOfBirth: '5/2/1957' , gender: 'Male'})
+CREATE (DominicL_Gorie)-[:EDUCATED_AT]->(USNavalAcademy),
+(DominicL_Gorie)-[:FLEW_ON]->(STS91_Discovery_),
+(DominicL_Gorie)-[:FLEW_ON]->(STS99_Endeavor_),
+(DominicL_Gorie)-[:FLEW_ON]->(STS123_Endeavor_),
+(DominicL_Gorie)-[:FLEW_ON]->(STS108_Endeavor_),
+(DominicL_Gorie)-[:RECRUITED_IN_CLASS]->(G15)
+
+CREATE (TimothyL_Kopra:Astronaut {name: 'Timothy L. Kopra', birthplace: 'Austin, TX' , dateOfBirth: '4/9/1963' , gender: 'Male'})
+CREATE (TimothyL_Kopra)-[:EDUCATED_AT]->(USMilitaryAcademy),
+(TimothyL_Kopra)-[:FLEW_ON]->(STS127128_EndeavorDiscovery_),
+(TimothyL_Kopra)-[:FLEW_ON]->(ISS4647_Soyuz_),
+(TimothyL_Kopra)-[:RECRUITED_IN_CLASS]->(G18)
+
+CREATE (JoseM_Hernandez:Astronaut {name: 'Jose M. Hernandez', birthplace: 'French Camp, CA' , dateOfBirth: '8/7/1962' , gender: 'Male'})
+CREATE (JoseM_Hernandez)-[:EDUCATED_AT]->(UniversityofthePacific),
+(JoseM_Hernandez)-[:FLEW_ON]->(STS128_Discovery_),
+(JoseM_Hernandez)-[:RECRUITED_IN_CLASS]->(G19)
+
+CREATE (AlfredM_Worden:Astronaut {name: 'Alfred M. Worden', birthplace: 'Jackson, MI' , dateOfBirth: '2/7/1932' , gender: 'Male'})
+CREATE (AlfredM_Worden)-[:EDUCATED_AT]->(USMilitaryAcademy),
+(AlfredM_Worden)-[:FLEW_ON]->(Apollo15),
+(AlfredM_Worden)-[:RECRUITED_IN_CLASS]->(G5)
+
+CREATE (MichaelJ_Foreman:Astronaut {name: 'Michael J. Foreman', birthplace: 'Columbus, OH' , dateOfBirth: '3/29/1957' , gender: 'Male'})
+CREATE (MichaelJ_Foreman)-[:EDUCATED_AT]->(USNavalAcademy),
+(MichaelJ_Foreman)-[:FLEW_ON]->(STS123_Endeavor_),
+(MichaelJ_Foreman)-[:FLEW_ON]->(STS129_Atlantis_),
+(MichaelJ_Foreman)-[:RECRUITED_IN_CLASS]->(G17)
+
+CREATE (CharlesD_Gemar:Astronaut {name: 'Charles D. Gemar', birthplace: 'Yanktown, SD' , dateOfBirth: '8/4/1955' , gender: 'Male'})
+CREATE (CharlesD_Gemar)-[:EDUCATED_AT]->(USMilitaryAcademy),
+(CharlesD_Gemar)-[:FLEW_ON]->(STS38_Atlantis_),
+(CharlesD_Gemar)-[:FLEW_ON]->(STS48_Discovery_),
+(CharlesD_Gemar)-[:FLEW_ON]->(STS62_Columbia_),
+(CharlesD_Gemar)-[:RECRUITED_IN_CLASS]->(G11)
+
+CREATE (CharlesJ_Camarda:Astronaut {name: 'Charles J. Camarda', birthplace: 'Queens, NY' , dateOfBirth: '5/8/1952' , gender: 'Male'})
+CREATE (CharlesJ_Camarda)-[:EDUCATED_AT]->(PolytechnicInstituteofBrooklyn),
+(CharlesJ_Camarda)-[:FLEW_ON]->(STS114_Discovery_),
+(CharlesJ_Camarda)-[:RECRUITED_IN_CLASS]->(G16)
+
+CREATE (JohnM_Grunsfeld:Astronaut {name: 'John M. Grunsfeld', birthplace: 'Chicago, IL' , dateOfBirth: '10/10/1958' , gender: 'Male'})
+CREATE (JohnM_Grunsfeld)-[:EDUCATED_AT]->(MIT),
+(JohnM_Grunsfeld)-[:FLEW_ON]->(STS67_Endeavor_),
+(JohnM_Grunsfeld)-[:FLEW_ON]->(STS81_Atlantis_),
+(JohnM_Grunsfeld)-[:FLEW_ON]->(STS103_Discovery_),
+(JohnM_Grunsfeld)-[:FLEW_ON]->(STS125_Atlantis_),
+(JohnM_Grunsfeld)-[:FLEW_ON]->(STS109_Columbia_),
+(JohnM_Grunsfeld)-[:RECRUITED_IN_CLASS]->(G14)
+
+CREATE (JosephP_Allen:Astronaut {name: 'Joseph P. Allen', birthplace: 'Crawsfordsville, IN' , dateOfBirth: '6/27/1937' , gender: 'Male'})
+CREATE (JosephP_Allen)-[:EDUCATED_AT]->(DePauwUniversity),
+(JosephP_Allen)-[:FLEW_ON]->(ST5_Columbia_),
+(JosephP_Allen)-[:FLEW_ON]->(STS51A_Discovery_),
+(JosephP_Allen)-[:RECRUITED_IN_CLASS]->(G6)
+
+CREATE (JoeF_EdwardsJr_:Astronaut {name: 'Joe F. Edwards Jr.', birthplace: 'Richmond, VA' , dateOfBirth: '2/3/1958' , gender: 'Male'})
+CREATE (JoeF_EdwardsJr_)-[:EDUCATED_AT]->(USNavalAcademy),
+(JoeF_EdwardsJr_)-[:FLEW_ON]->(STS89_Endeavor_),
+(JoeF_EdwardsJr_)-[:RECRUITED_IN_CLASS]->(G15)
+
+CREATE (ShannonW_Lucid:Astronaut {name: 'Shannon W. Lucid', birthplace: 'Shanghai, China' , dateOfBirth: '1/14/1943' , gender: 'Female'})
+CREATE (ShannonW_Lucid)-[:EDUCATED_AT]->(UniversityofOklahoma),
+(ShannonW_Lucid)-[:FLEW_ON]->(STS51G_Discovery_),
+(ShannonW_Lucid)-[:FLEW_ON]->(STS34_Atlantis_),
+(ShannonW_Lucid)-[:FLEW_ON]->(STS43_Atlantis_),
+(ShannonW_Lucid)-[:FLEW_ON]->(STS58_Columbia_),
+(ShannonW_Lucid)-[:FLEW_ON]->(STS7679_Atlantis_),
+(ShannonW_Lucid)-[:RECRUITED_IN_CLASS]->(G8)
+
+CREATE (MichaelR_Barratt:Astronaut {name: 'Michael R. Barratt', birthplace: 'Vancouver, WA' , dateOfBirth: '4/16/1959' , gender: 'Male'})
+CREATE (MichaelR_Barratt)-[:EDUCATED_AT]->(UniversityofWashington),
+(MichaelR_Barratt)-[:FLEW_ON]->(ISS1920_Soyuz_),
+(MichaelR_Barratt)-[:FLEW_ON]->(STS133_Discovery_),
+(MichaelR_Barratt)-[:RECRUITED_IN_CLASS]->(G18)
+
+CREATE (JohnW_Young:Astronaut {name: 'John W. Young', birthplace: 'San Francisco, CA' , dateOfBirth: '9/24/1930' , gender: 'Male'})
+CREATE (JohnW_Young)-[:EDUCATED_AT]->(GeorgiaInstituteofTechnology),
+(JohnW_Young)-[:FLEW_ON]->(Gemini3),
+(JohnW_Young)-[:FLEW_ON]->(Gemini10),
+(JohnW_Young)-[:FLEW_ON]->(Apollo10),
+(JohnW_Young)-[:FLEW_ON]->(Apollo16),
+(JohnW_Young)-[:FLEW_ON]->(STS1_Columbia_),
+(JohnW_Young)-[:FLEW_ON]->(STS9_Columbia_),
+(JohnW_Young)-[:RECRUITED_IN_CLASS]->(G2)
+
+CREATE (TerenceT_Henricks:Astronaut {name: 'Terence T. Henricks', birthplace: 'Bryan, OH' , dateOfBirth: '7/5/1952' , gender: 'Male'})
+CREATE (TerenceT_Henricks)-[:EDUCATED_AT]->(USAirForceAcademy),
+(TerenceT_Henricks)-[:FLEW_ON]->(STS44_Atlantis_),
+(TerenceT_Henricks)-[:FLEW_ON]->(STS55_Columbia_),
+(TerenceT_Henricks)-[:FLEW_ON]->(STS70_Discovery_),
+(TerenceT_Henricks)-[:FLEW_ON]->(STS78_Columbia_),
+(TerenceT_Henricks)-[:RECRUITED_IN_CLASS]->(G11)
+
+CREATE (MarioRuncoJr_:Astronaut {name: 'Mario Runco Jr.', birthplace: 'Bronx, NY' , dateOfBirth: '1/26/1952' , gender: 'Male'})
+CREATE (MarioRuncoJr_)-[:EDUCATED_AT]->(CityCollegeofNewYork),
+(MarioRuncoJr_)-[:FLEW_ON]->(STS44_Atlantis_),
+(MarioRuncoJr_)-[:FLEW_ON]->(STS54_Endeavor_),
+(MarioRuncoJr_)-[:FLEW_ON]->(STS77_Endeavor_),
+(MarioRuncoJr_)-[:RECRUITED_IN_CLASS]->(G12)
+
+CREATE (G_DavidLow:Astronaut {name: 'G. David Low', birthplace: 'Cleveland, OH' , dateOfBirth: '2/19/1956' , gender: 'Male'})
+CREATE (G_DavidLow)-[:EDUCATED_AT]->(WashingtonLeeUniversity),
+(G_DavidLow)-[:FLEW_ON]->(STS32_Columbia_),
+(G_DavidLow)-[:FLEW_ON]->(STS43_Atlantis_),
+(G_DavidLow)-[:FLEW_ON]->(STS57_Endeavor_),
+(G_DavidLow)-[:RECRUITED_IN_CLASS]->(G10)
+
+CREATE (WilliamA_Anders:Astronaut {name: 'William A. Anders', birthplace: 'Hong Kong' , dateOfBirth: '10/17/1933' , gender: 'Male'})
+CREATE (WilliamA_Anders)-[:EDUCATED_AT]->(USNavalAcademy),
+(WilliamA_Anders)-[:FLEW_ON]->(Apollo8),
+(WilliamA_Anders)-[:RECRUITED_IN_CLASS]->(G3)
+
+CREATE (C_MichaelFoale:Astronaut {name: 'C. Michael Foale', birthplace: 'Louth, England' , dateOfBirth: '1/6/1957' , gender: 'Male'})
+CREATE (C_MichaelFoale)-[:EDUCATED_AT]->(CambridgeUniversity),
+(C_MichaelFoale)-[:FLEW_ON]->(STS45_Atlantis_),
+(C_MichaelFoale)-[:FLEW_ON]->(STS56_Discovery_),
+(C_MichaelFoale)-[:FLEW_ON]->(STS63_Discovery_),
+(C_MichaelFoale)-[:FLEW_ON]->(STS8486_Atlantis_),
+(C_MichaelFoale)-[:FLEW_ON]->(STS103_Discovery_),
+(C_MichaelFoale)-[:FLEW_ON]->(ISS08_Soyuz_),
+(C_MichaelFoale)-[:RECRUITED_IN_CLASS]->(G12)
+
+CREATE (PamelaA_Melroy:Astronaut {name: 'Pamela A. Melroy', birthplace: 'Palo Alto, CA' , dateOfBirth: '9/17/1961' , gender: 'Female'})
+CREATE (PamelaA_Melroy)-[:EDUCATED_AT]->(WellesleyCollege),
+(PamelaA_Melroy)-[:FLEW_ON]->(STS92_Discovery_),
+(PamelaA_Melroy)-[:FLEW_ON]->(STS112_Atlantis_),
+(PamelaA_Melroy)-[:FLEW_ON]->(STS120_Discovery_),
+(PamelaA_Melroy)-[:RECRUITED_IN_CLASS]->(G15)
+
+CREATE (ThomasD_Jones:Astronaut {name: 'Thomas D. Jones', birthplace: 'Baltimore, MD' , dateOfBirth: '1/22/1955' , gender: 'Male'})
+CREATE (ThomasD_Jones)-[:EDUCATED_AT]->(USAirForceAcademy),
+(ThomasD_Jones)-[:FLEW_ON]->(STS59_Endeavor_),
+(ThomasD_Jones)-[:FLEW_ON]->(STS68_Endeavor_),
+(ThomasD_Jones)-[:FLEW_ON]->(STS80_Columbia_),
+(ThomasD_Jones)-[:FLEW_ON]->(STS98_Atlantis_),
+(ThomasD_Jones)-[:RECRUITED_IN_CLASS]->(G13)
+
+CREATE (WalterM_SchirraJr_:Astronaut {name: 'Walter M. Schirra Jr.', birthplace: 'Hackensack, NJ' , dateOfBirth: '3/12/1923' , gender: 'Male'})
+CREATE (WalterM_SchirraJr_)-[:EDUCATED_AT]->(USNavalAcademy),
+(WalterM_SchirraJr_)-[:FLEW_ON]->(Mercury8),
+(WalterM_SchirraJr_)-[:FLEW_ON]->(Gemini6),
+(WalterM_SchirraJr_)-[:FLEW_ON]->(Apollo7),
+(WalterM_SchirraJr_)-[:RECRUITED_IN_CLASS]->(G1)
+
+CREATE (JeromeAptIII:Astronaut {name: 'Jerome Apt III', birthplace: 'Springfield, MA' , dateOfBirth: '4/18/1949' , gender: 'Male'})
+CREATE (JeromeAptIII)-[:EDUCATED_AT]->(HarvardUniversity),
+(JeromeAptIII)-[:FLEW_ON]->(STS37_Atlantis_),
+(JeromeAptIII)-[:FLEW_ON]->(STS47_Endeavor_),
+(JeromeAptIII)-[:FLEW_ON]->(STS59_Endeavor_),
+(JeromeAptIII)-[:FLEW_ON]->(STS79_Atlantis_),
+(JeromeAptIII)-[:RECRUITED_IN_CLASS]->(G11)
+
+CREATE (RonaldE_EvansJr_:Astronaut {name: 'Ronald E. Evans Jr.', birthplace: 'St. Francis, KS' , dateOfBirth: '11/10/1933' , gender: 'Male'})
+CREATE (RonaldE_EvansJr_)-[:EDUCATED_AT]->(UniversityofKansas),
+(RonaldE_EvansJr_)-[:FLEW_ON]->(Apollo17),
+(RonaldE_EvansJr_)-[:RECRUITED_IN_CLASS]->(G5)
+
+CREATE (EricA_Boe:Astronaut {name: 'Eric A. Boe', birthplace: 'Miami, FL' , dateOfBirth: '10/1/1964' , gender: 'Male'})
+CREATE (EricA_Boe)-[:EDUCATED_AT]->(USAirForceAcademy),
+(EricA_Boe)-[:FLEW_ON]->(STS126_Endeavor_),
+(EricA_Boe)-[:FLEW_ON]->(STS133_Discovery_),
+(EricA_Boe)-[:RECRUITED_IN_CLASS]->(G18)
+
+CREATE (RogerK_Crouch:Astronaut {name: 'Roger K. Crouch', birthplace: 'Jamestown, TN' , dateOfBirth: '9/12/1940' , gender: 'Male'})
+CREATE (RogerK_Crouch)-[:EDUCATED_AT]->(TennesseePolytechnicInstitute),
+(RogerK_Crouch)-[:FLEW_ON]->(STS83_Columbia_),
+(RogerK_Crouch)-[:FLEW_ON]->(STS94_Columbia_),
+(RogerK_Crouch)-[:RECRUITED_IN_CLASS]->(G17)
+
+CREATE (RichardM_Linnehan:Astronaut {name: 'Richard M. Linnehan', birthplace: 'Lowell, MA' , dateOfBirth: '9/19/1957' , gender: 'Male'})
+CREATE (RichardM_Linnehan)-[:EDUCATED_AT]->(UniversityofNewHampshire),
+(RichardM_Linnehan)-[:FLEW_ON]->(STS78_Columbia_),
+(RichardM_Linnehan)-[:FLEW_ON]->(STS90_Columbia_),
+(RichardM_Linnehan)-[:FLEW_ON]->(STS109_Columbia_),
+(RichardM_Linnehan)-[:FLEW_ON]->(STS123_Endeavor_),
+(RichardM_Linnehan)-[:RECRUITED_IN_CLASS]->(G14)
+
+CREATE (MichaelT_Good:Astronaut {name: 'Michael T. Good', birthplace: 'Parma, OH' , dateOfBirth: '10/13/1962' , gender: 'Male'})
+CREATE (MichaelT_Good)-[:EDUCATED_AT]->(UniversityofNotreDame),
+(MichaelT_Good)-[:FLEW_ON]->(STS125_Atlantis_),
+(MichaelT_Good)-[:FLEW_ON]->(STS132_Atlantis_),
+(MichaelT_Good)-[:RECRUITED_IN_CLASS]->(G18)
+
+CREATE (StevenA_Hawley:Astronaut {name: 'Steven A. Hawley', birthplace: 'Ottawa, KS' , dateOfBirth: '12/12/1951' , gender: 'Male'})
+CREATE (StevenA_Hawley)-[:EDUCATED_AT]->(UniversityofKansas),
+(StevenA_Hawley)-[:FLEW_ON]->(STS41D_Discovery_),
+(StevenA_Hawley)-[:FLEW_ON]->(STS61C_Columbia_),
+(StevenA_Hawley)-[:FLEW_ON]->(STS31_Discovery_),
+(StevenA_Hawley)-[:FLEW_ON]->(STS82_Discovery_),
+(StevenA_Hawley)-[:FLEW_ON]->(STS93_Columbia_),
+(StevenA_Hawley)-[:RECRUITED_IN_CLASS]->(G8)
+
+CREATE (MarshaS_Ivins:Astronaut {name: 'Marsha S. Ivins', birthplace: 'Baltimore, MD' , dateOfBirth: '4/15/1951' , gender: 'Female'})
+CREATE (MarshaS_Ivins)-[:EDUCATED_AT]->(UniversityofColorado),
+(MarshaS_Ivins)-[:FLEW_ON]->(STS32_Columbia_),
+(MarshaS_Ivins)-[:FLEW_ON]->(STS46_Atlantis_),
+(MarshaS_Ivins)-[:FLEW_ON]->(STS62_Columbia_),
+(MarshaS_Ivins)-[:FLEW_ON]->(STS81_Atlantis_),
+(MarshaS_Ivins)-[:FLEW_ON]->(STS98_Atlantis_),
+(MarshaS_Ivins)-[:RECRUITED_IN_CLASS]->(G10)
+
+CREATE (ScottJ_Kelly:Astronaut {name: 'Scott J. Kelly', birthplace: 'Orange, NJ' , dateOfBirth: '2/21/1964' , gender: 'Male'})
+CREATE (ScottJ_Kelly)-[:EDUCATED_AT]->(StateUniversityofNewYorkMaritimeCollege),
+(ScottJ_Kelly)-[:FLEW_ON]->(STS103_Discovery_),
+(ScottJ_Kelly)-[:FLEW_ON]->(STS118_Endeavor_),
+(ScottJ_Kelly)-[:FLEW_ON]->(ISS2526_Soyuz_),
+(ScottJ_Kelly)-[:FLEW_ON]->(ISS43444546_Soyuz_),
+(ScottJ_Kelly)-[:RECRUITED_IN_CLASS]->(G16)
+
+CREATE (RobertShaneKimbrough:Astronaut {name: 'Robert Shane Kimbrough', birthplace: 'Killeen, TX' , dateOfBirth: '6/4/1967' , gender: 'Male'})
+CREATE (RobertShaneKimbrough)-[:EDUCATED_AT]->(USMilitaryAcademy),
+(RobertShaneKimbrough)-[:FLEW_ON]->(STS126_Endeavor_),
+(RobertShaneKimbrough)-[:FLEW_ON]->(ISS4950_Soyuz_),
+(RobertShaneKimbrough)-[:RECRUITED_IN_CLASS]->(G19)
+
+CREATE (ShannonWalker:Astronaut {name: 'Shannon Walker', birthplace: 'Houston, TX' , dateOfBirth: '6/4/1965' , gender: 'Female'})
+CREATE (ShannonWalker)-[:EDUCATED_AT]->(RiceUniversity),
+(ShannonWalker)-[:FLEW_ON]->(ISS2425_Soyuz_),
+(ShannonWalker)-[:RECRUITED_IN_CLASS]->(G19)
+
+CREATE (MichaelS_Hopkins:Astronaut {name: 'Michael S. Hopkins', birthplace: 'Lebanon, MO' , dateOfBirth: '12/28/1968' , gender: 'Male'})
+CREATE (MichaelS_Hopkins)-[:EDUCATED_AT]->(UniversityofIllinois),
+(MichaelS_Hopkins)-[:FLEW_ON]->(ISS3738_Soyuz_),
+(MichaelS_Hopkins)-[:RECRUITED_IN_CLASS]->(G20)
+
+CREATE (CurtisL_BrownJr_:Astronaut {name: 'Curtis L. Brown Jr.', birthplace: 'Elizabethtown, NC' , dateOfBirth: '3/11/1956' , gender: 'Male'})
+CREATE (CurtisL_BrownJr_)-[:EDUCATED_AT]->(USAirForceAcademy),
+(CurtisL_BrownJr_)-[:FLEW_ON]->(STS47_Endeavor_),
+(CurtisL_BrownJr_)-[:FLEW_ON]->(STS66_Atlantis_),
+(CurtisL_BrownJr_)-[:FLEW_ON]->(STS77_Endeavor_),
+(CurtisL_BrownJr_)-[:FLEW_ON]->(STS85_Discovery_),
+(CurtisL_BrownJr_)-[:FLEW_ON]->(STS95_Discovery_),
+(CurtisL_BrownJr_)-[:FLEW_ON]->(STS103_Discovery_),
+(CurtisL_BrownJr_)-[:RECRUITED_IN_CLASS]->(G12)
+
+CREATE (MarkE_Kelly:Astronaut {name: 'Mark E. Kelly', birthplace: 'Orange, NJ' , dateOfBirth: '2/21/1964' , gender: 'Male'})
+CREATE (MarkE_Kelly)-[:EDUCATED_AT]->(USMerchantMarineAcademy),
+(MarkE_Kelly)-[:FLEW_ON]->(STS108_Endeavor_),
+(MarkE_Kelly)-[:FLEW_ON]->(STS121_Discovery_),
+(MarkE_Kelly)-[:FLEW_ON]->(STS124_Discovery_),
+(MarkE_Kelly)-[:FLEW_ON]->(STS134_Endeavor_),
+(MarkE_Kelly)-[:RECRUITED_IN_CLASS]->(G16)
+
+CREATE (WilliamF_Fisher:Astronaut {name: 'William F. Fisher', birthplace: 'Dallas, TX' , dateOfBirth: '4/1/1946' , gender: 'Male'})
+CREATE (WilliamF_Fisher)-[:EDUCATED_AT]->(StanfordUniversity),
+(WilliamF_Fisher)-[:FLEW_ON]->(STS51I_Discovery_),
+(WilliamF_Fisher)-[:RECRUITED_IN_CLASS]->(G9)
+
+CREATE (StephanieD_Wilson:Astronaut {name: 'Stephanie D. Wilson', birthplace: 'Boston, MA' , dateOfBirth: '9/27/1966' , gender: 'Female'})
+CREATE (StephanieD_Wilson)-[:EDUCATED_AT]->(HarvardUniversity),
+(StephanieD_Wilson)-[:FLEW_ON]->(STS121_Discovery_),
+(StephanieD_Wilson)-[:FLEW_ON]->(STS120_Discovery_),
+(StephanieD_Wilson)-[:FLEW_ON]->(STS131_Discovery_),
+(StephanieD_Wilson)-[:RECRUITED_IN_CLASS]->(G16)
+
+CREATE (RickD_Husband:Astronaut {name: 'Rick D. Husband', birthplace: 'Amarillo, TX' , dateOfBirth: '7/12/1957' , gender: 'Male'})
+CREATE (RickD_Husband)-[:EDUCATED_AT]->(TexasTechUniversity),
+(RickD_Husband)-[:FLEW_ON]->(STS96_Discovery_),
+(RickD_Husband)-[:FLEW_ON]->(STS107_Columbia_),
+(RickD_Husband)-[:RECRUITED_IN_CLASS]->(G15)
+
+CREATE (LindaM_Godwin:Astronaut {name: 'Linda M. Godwin', birthplace: 'Cape Girardeau, MO' , dateOfBirth: '7/2/1952' , gender: 'Female'})
+CREATE (LindaM_Godwin)-[:EDUCATED_AT]->(SoutheastMissouriState),
+(LindaM_Godwin)-[:FLEW_ON]->(STS37_Atlantis_),
+(LindaM_Godwin)-[:FLEW_ON]->(STS59_Endeavor_),
+(LindaM_Godwin)-[:FLEW_ON]->(STS76_Atlantis_),
+(LindaM_Godwin)-[:FLEW_ON]->(STS108_Endeavor_),
+(LindaM_Godwin)-[:RECRUITED_IN_CLASS]->(G11)
+
+CREATE (KathrynC_Thornton:Astronaut {name: 'Kathryn C. Thornton', birthplace: 'Montgomery, AL' , dateOfBirth: '8/17/1952' , gender: 'Female'})
+CREATE (KathrynC_Thornton)-[:EDUCATED_AT]->(AuburnUniversity),
+(KathrynC_Thornton)-[:FLEW_ON]->(STS33_Discovery_),
+(KathrynC_Thornton)-[:FLEW_ON]->(STS49_Endeavor_),
+(KathrynC_Thornton)-[:FLEW_ON]->(STS61_Endeavor_),
+(KathrynC_Thornton)-[:FLEW_ON]->(STS73_Columbia_),
+(KathrynC_Thornton)-[:RECRUITED_IN_CLASS]->(G10)
+
+CREATE (DominicA_Antonelli:Astronaut {name: 'Dominic A. Antonelli', birthplace: 'Detroit, MI' , dateOfBirth: '8/23/1967' , gender: 'Male'})
+CREATE (DominicA_Antonelli)-[:EDUCATED_AT]->(MIT),
+(DominicA_Antonelli)-[:FLEW_ON]->(STS119_Discovery_),
+(DominicA_Antonelli)-[:FLEW_ON]->(STS132_Atlantis_),
+(DominicA_Antonelli)-[:RECRUITED_IN_CLASS]->(G18)
+
+CREATE (AndrewJ_Feustel:Astronaut {name: 'Andrew J. Feustel', birthplace: 'Lancaster, PA' , dateOfBirth: '8/25/1965' , gender: 'Male'})
+CREATE (AndrewJ_Feustel)-[:EDUCATED_AT]->(PurdueUniversity),
+(AndrewJ_Feustel)-[:FLEW_ON]->(STS125_Atlantis_),
+(AndrewJ_Feustel)-[:FLEW_ON]->(STS134_Endeavor_),
+(AndrewJ_Feustel)-[:RECRUITED_IN_CLASS]->(G18)
+
+CREATE (PaulW_Richards:Astronaut {name: 'Paul W. Richards', birthplace: 'Scranton, PA' , dateOfBirth: '5/20/1964' , gender: 'Male'})
+CREATE (PaulW_Richards)-[:EDUCATED_AT]->(DrexelUniversity),
+(PaulW_Richards)-[:FLEW_ON]->(STS102_Discovery_),
+(PaulW_Richards)-[:RECRUITED_IN_CLASS]->(G16)
+
+CREATE (RichardH_Truly:Astronaut {name: 'Richard H. Truly', birthplace: 'Fayette, MS' , dateOfBirth: '11/12/1937' , gender: 'Male'})
+CREATE (RichardH_Truly)-[:EDUCATED_AT]->(GeorgiaInstituteofTechnology),
+(RichardH_Truly)-[:FLEW_ON]->(STS2_Columbia_),
+(RichardH_Truly)-[:FLEW_ON]->(STS8_Challenger_),
+(RichardH_Truly)-[:RECRUITED_IN_CLASS]->(G7)
+
+CREATE (ThomasH_Marshburn:Astronaut {name: 'Thomas H. Marshburn', birthplace: 'Statesville, NC' , dateOfBirth: '8/29/1960' , gender: 'Male'})
+CREATE (ThomasH_Marshburn)-[:EDUCATED_AT]->(DavidsonCollege),
+(ThomasH_Marshburn)-[:FLEW_ON]->(STS127_Endeavor_),
+(ThomasH_Marshburn)-[:FLEW_ON]->(ISS3435_Soyuz_),
+(ThomasH_Marshburn)-[:RECRUITED_IN_CLASS]->(G19)
+
+CREATE (FredW_HaiseJr_:Astronaut {name: 'Fred W. Haise Jr.', birthplace: 'Biloxi, MS' , dateOfBirth: '11/14/1933' , gender: 'Male'})
+CREATE (FredW_HaiseJr_)-[:EDUCATED_AT]->(UniversityofOklahoma),
+(FredW_HaiseJr_)-[:FLEW_ON]->(Apollo13),
+(FredW_HaiseJr_)-[:RECRUITED_IN_CLASS]->(G5)
+
+CREATE (KevinA_Ford:Astronaut {name: 'Kevin A. Ford', birthplace: 'Portland, IN' , dateOfBirth: '7/7/1960' , gender: 'Male'})
+CREATE (KevinA_Ford)-[:EDUCATED_AT]->(UniversityofNotreDame),
+(KevinA_Ford)-[:FLEW_ON]->(STS128_Discovery_),
+(KevinA_Ford)-[:FLEW_ON]->(ISS3334_Soyuz_),
+(KevinA_Ford)-[:RECRUITED_IN_CLASS]->(G18)
+
+CREATE (ThomasK_MattinglyII:Astronaut {name: 'Thomas K. Mattingly II', birthplace: 'Chicago, IL' , dateOfBirth: '3/17/1936' , gender: 'Male'})
+CREATE (ThomasK_MattinglyII)-[:EDUCATED_AT]->(AuburnUniversity),
+(ThomasK_MattinglyII)-[:FLEW_ON]->(Apollo16),
+(ThomasK_MattinglyII)-[:FLEW_ON]->(STS4_Columbia_),
+(ThomasK_MattinglyII)-[:FLEW_ON]->(STS51C_Discovery_),
+(ThomasK_MattinglyII)-[:RECRUITED_IN_CLASS]->(G5)
+
+CREATE (BrentW_Jett:Astronaut {name: 'Brent W. Jett', birthplace: 'Pontiac, MI' , dateOfBirth: '10/5/1958' , gender: 'Male'})
+CREATE (BrentW_Jett)-[:EDUCATED_AT]->(USNavalAcademy),
+(BrentW_Jett)-[:FLEW_ON]->(STS72_Endeavor_),
+(BrentW_Jett)-[:FLEW_ON]->(STS81_Atlantis_),
+(BrentW_Jett)-[:FLEW_ON]->(STS97_Endeavor_),
+(BrentW_Jett)-[:FLEW_ON]->(STS115_Atlantis_),
+(BrentW_Jett)-[:RECRUITED_IN_CLASS]->(G14)
+
+CREATE (GregoryJ_Harbaugh:Astronaut {name: 'Gregory J. Harbaugh', birthplace: 'Cleveland, OH' , dateOfBirth: '4/15/1956' , gender: 'Male'})
+CREATE (GregoryJ_Harbaugh)-[:EDUCATED_AT]->(PurdueUniversity),
+(GregoryJ_Harbaugh)-[:FLEW_ON]->(STS39_Discovery_),
+(GregoryJ_Harbaugh)-[:FLEW_ON]->(STS54_Endeavor_),
+(GregoryJ_Harbaugh)-[:FLEW_ON]->(STS71_Atlantis_),
+(GregoryJ_Harbaugh)-[:FLEW_ON]->(STS82_Discovery_),
+(GregoryJ_Harbaugh)-[:RECRUITED_IN_CLASS]->(G12)
+
+CREATE (YvonneD_Cagle:Astronaut {name: 'Yvonne D. Cagle', birthplace: 'West Point, NY' , dateOfBirth: '4/24/1959' , gender: 'Female'})
+CREATE (YvonneD_Cagle)-[:EDUCATED_AT]->(SanFranciscoStateUniversity),
+(YvonneD_Cagle)-[:RECRUITED_IN_CLASS]->(G16)
+
+CREATE (NormanE_Thagard:Astronaut {name: 'Norman E. Thagard', birthplace: 'Marianna, FL' , dateOfBirth: '7/3/1943' , gender: 'Male'})
+CREATE (NormanE_Thagard)-[:EDUCATED_AT]->(FloridaStateUniversity),
+(NormanE_Thagard)-[:FLEW_ON]->(STS7_Challenger_),
+(NormanE_Thagard)-[:FLEW_ON]->(STS51B_Challenger_),
+(NormanE_Thagard)-[:FLEW_ON]->(STS30_Atlantis_),
+(NormanE_Thagard)-[:FLEW_ON]->(STS42_Discovery_),
+(NormanE_Thagard)-[:FLEW_ON]->(STS71_SoyuzAtlantis_),
+(NormanE_Thagard)-[:RECRUITED_IN_CLASS]->(G8)
+
+CREATE (AlanG_Poindexter:Astronaut {name: 'Alan G. Poindexter', birthplace: 'Pasadena, CA' , dateOfBirth: '11/5/1961' , gender: 'Male'})
+CREATE (AlanG_Poindexter)-[:EDUCATED_AT]->(GeorgiaInstituteofTechnology),
+(AlanG_Poindexter)-[:FLEW_ON]->(STS122_Atlantis_),
+(AlanG_Poindexter)-[:FLEW_ON]->(STS131_Discovery_),
+(AlanG_Poindexter)-[:RECRUITED_IN_CLASS]->(G17)
+
+CREATE (JerryL_Ross:Astronaut {name: 'Jerry L. Ross', birthplace: 'Crown Point, IN' , dateOfBirth: '1/20/1948' , gender: 'Male'})
+CREATE (JerryL_Ross)-[:EDUCATED_AT]->(PurdueUniversity),
+(JerryL_Ross)-[:FLEW_ON]->(ST61B_Atlantis_),
+(JerryL_Ross)-[:FLEW_ON]->(ST27_Atlantis_),
+(JerryL_Ross)-[:FLEW_ON]->(ST37_Atlantis_),
+(JerryL_Ross)-[:FLEW_ON]->(STS55_Columbia_),
+(JerryL_Ross)-[:FLEW_ON]->(STS74_Atlantis_),
+(JerryL_Ross)-[:FLEW_ON]->(STS88_Endeavor_),
+(JerryL_Ross)-[:FLEW_ON]->(STS110_Atlantis_),
+(JerryL_Ross)-[:RECRUITED_IN_CLASS]->(G9)
+
+CREATE (EdgarD_Mitchell:Astronaut {name: 'Edgar D. Mitchell', birthplace: 'Hereford, TX' , dateOfBirth: '9/17/1930' , gender: 'Male'})
+CREATE (EdgarD_Mitchell)-[:EDUCATED_AT]->(CarnegieMellonUniversity),
+(EdgarD_Mitchell)-[:FLEW_ON]->(Apollo14),
+(EdgarD_Mitchell)-[:RECRUITED_IN_CLASS]->(G5)
+
+CREATE (ScottE_Parazynski:Astronaut {name: 'Scott E. Parazynski', birthplace: 'Little Rock, AR' , dateOfBirth: '7/28/1961' , gender: 'Male'})
+CREATE (ScottE_Parazynski)-[:EDUCATED_AT]->(StanfordUniversity),
+(ScottE_Parazynski)-[:FLEW_ON]->(STS66_Atlantis_),
+(ScottE_Parazynski)-[:FLEW_ON]->(STS86_Atlantis_),
+(ScottE_Parazynski)-[:FLEW_ON]->(STS95_Discovery_),
+(ScottE_Parazynski)-[:FLEW_ON]->(STS100_Endeavor_),
+(ScottE_Parazynski)-[:FLEW_ON]->(STS120_Discovery_),
+(ScottE_Parazynski)-[:RECRUITED_IN_CLASS]->(G14)
+
+CREATE (MichaelR_Clifford:Astronaut {name: 'Michael R. Clifford', birthplace: 'San Bernardino, CA' , dateOfBirth: '10/13/1952' , gender: 'Male'})
+CREATE (MichaelR_Clifford)-[:EDUCATED_AT]->(USMilitaryAcademy),
+(MichaelR_Clifford)-[:FLEW_ON]->(STS53_Discovery_),
+(MichaelR_Clifford)-[:FLEW_ON]->(STS59_Endeavor_),
+(MichaelR_Clifford)-[:FLEW_ON]->(STS76_Atlantis_),
+(MichaelR_Clifford)-[:RECRUITED_IN_CLASS]->(G13)
+
+CREATE (NiclolasJ_M_Patrick:Astronaut {name: 'Niclolas J. M. Patrick', birthplace: 'North Yorkshire, England' , dateOfBirth: '3/22/1964' , gender: 'Male'})
+CREATE (NiclolasJ_M_Patrick)-[:EDUCATED_AT]->(UniversityofCambridge),
+(NiclolasJ_M_Patrick)-[:FLEW_ON]->(STS116_Discovery_),
+(NiclolasJ_M_Patrick)-[:FLEW_ON]->(STS130_Endeavor_),
+(NiclolasJ_M_Patrick)-[:RECRUITED_IN_CLASS]->(G17)
+
+CREATE (JakeGarn:Astronaut {name: 'Jake Garn', birthplace: 'Richfield. UT' , dateOfBirth: '10/12/1932' , gender: 'Male'})
+CREATE (JakeGarn)-[:EDUCATED_AT]->(UniversityofUtah),
+(JakeGarn)-[:FLEW_ON]->(STS51D_Discovery_),
+(JakeGarn)-[:RECRUITED_IN_CLASS]->(G11)
+
+CREATE (KalpanaChawla:Astronaut {name: 'Kalpana Chawla', birthplace: 'Karnal, India' , dateOfBirth: '6/1/1961' , gender: 'Female'})
+CREATE (KalpanaChawla)-[:EDUCATED_AT]->(PunjabEngineeringCollege),
+(KalpanaChawla)-[:FLEW_ON]->(STS87_Columbia_),
+(KalpanaChawla)-[:FLEW_ON]->(STS107_Columbia_),
+(KalpanaChawla)-[:RECRUITED_IN_CLASS]->(G15)
+
+CREATE (PiersJ_Sellers:Astronaut {name: 'Piers J. Sellers', birthplace: 'Crowborough, England' , dateOfBirth: '4/11/1955' , gender: 'Male'})
+CREATE (PiersJ_Sellers)-[:EDUCATED_AT]->(UniversityofEdinburgh),
+(PiersJ_Sellers)-[:FLEW_ON]->(STS112_Atlantis_),
+(PiersJ_Sellers)-[:FLEW_ON]->(STS121_Discovery_),
+(PiersJ_Sellers)-[:FLEW_ON]->(STS132_Atlantis_),
+(PiersJ_Sellers)-[:RECRUITED_IN_CLASS]->(G16)
+
+CREATE (JohnDavidF_Bartoe:Astronaut {name: 'John-David F. Bartoe', birthplace: 'Abington, PA' , dateOfBirth: '11/17/1944' , gender: 'Male'})
+CREATE (JohnDavidF_Bartoe)-[:EDUCATED_AT]->(LehighUniversity),
+(JohnDavidF_Bartoe)-[:FLEW_ON]->(STS51F_Challenger_),
+(JohnDavidF_Bartoe)-[:RECRUITED_IN_CLASS]->(G10)
+
+CREATE (DonL_Lind:Astronaut {name: 'Don L. Lind', birthplace: 'Midvale, UT' , dateOfBirth: '5/18/1930' , gender: 'Male'})
+CREATE (DonL_Lind)-[:EDUCATED_AT]->(UniversityofUtah),
+(DonL_Lind)-[:FLEW_ON]->(STS51B_Challenger_),
+(DonL_Lind)-[:RECRUITED_IN_CLASS]->(G5)
+
+CREATE (DanielW_Bursch:Astronaut {name: 'Daniel W. Bursch', birthplace: 'Bristol, PA' , dateOfBirth: '7/25/1957' , gender: 'Male'})
+CREATE (DanielW_Bursch)-[:EDUCATED_AT]->(USNavalAcademy),
+(DanielW_Bursch)-[:FLEW_ON]->(STS51_Discovery_),
+(DanielW_Bursch)-[:FLEW_ON]->(STS68_Endeavor_),
+(DanielW_Bursch)-[:FLEW_ON]->(STS77_Endeavor_),
+(DanielW_Bursch)-[:FLEW_ON]->(STS108111_Endeavor_),
+(DanielW_Bursch)-[:RECRUITED_IN_CLASS]->(G13)
+
+CREATE (DanielT_Barry:Astronaut {name: 'Daniel T. Barry', birthplace: 'Norwalk, CT' , dateOfBirth: '12/30/1953' , gender: 'Male'})
+CREATE (DanielT_Barry)-[:EDUCATED_AT]->(CornellUniversity),
+(DanielT_Barry)-[:FLEW_ON]->(STS72_Endeavor_),
+(DanielT_Barry)-[:FLEW_ON]->(STS96_Discovery_),
+(DanielT_Barry)-[:FLEW_ON]->(STS105_Discovery_),
+(DanielT_Barry)-[:RECRUITED_IN_CLASS]->(G14)
+
+CREATE (ThomasD_Akers:Astronaut {name: 'Thomas D. Akers', birthplace: 'St. Louis, MO' , dateOfBirth: '5/20/1951' , gender: 'Male'})
+CREATE (ThomasD_Akers)-[:EDUCATED_AT]->(UniversityofMissouriRolla),
+(ThomasD_Akers)-[:FLEW_ON]->(STS41_Discovery_),
+(ThomasD_Akers)-[:FLEW_ON]->(STS49_Endeavor_),
+(ThomasD_Akers)-[:FLEW_ON]->(STS61_Endeavor_),
+(ThomasD_Akers)-[:FLEW_ON]->(STS79_Atlantis_),
+(ThomasD_Akers)-[:RECRUITED_IN_CLASS]->(G12)
+
+CREATE (RoyD_BridgesJr_:Astronaut {name: 'Roy D. Bridges Jr.', birthplace: 'Atlanta, GA' , dateOfBirth: '7/19/1943' , gender: 'Male'})
+CREATE (RoyD_BridgesJr_)-[:EDUCATED_AT]->(USAirForceAcademy),
+(RoyD_BridgesJr_)-[:FLEW_ON]->(STS51F_Challenger_),
+(RoyD_BridgesJr_)-[:RECRUITED_IN_CLASS]->(G9)
+
+CREATE (KjellN_Lindgren:Astronaut {name: 'Kjell N. Lindgren', birthplace: 'Taipei, Taiwan' , dateOfBirth: '1/23/1973' , gender: 'Male'})
+CREATE (KjellN_Lindgren)-[:EDUCATED_AT]->(USAirForceAcademy),
+(KjellN_Lindgren)-[:FLEW_ON]->(ISS4445_Soyuz_),
+(KjellN_Lindgren)-[:RECRUITED_IN_CLASS]->(G20)
+
+CREATE (StephenK_Robinson:Astronaut {name: 'Stephen K. Robinson', birthplace: 'Sacramento, CA' , dateOfBirth: '10/26/1955' , gender: 'Male'})
+CREATE (StephenK_Robinson)-[:EDUCATED_AT]->(UniversityofCaliforniaDavis),
+(StephenK_Robinson)-[:FLEW_ON]->(STS85_Discovery_),
+(StephenK_Robinson)-[:FLEW_ON]->(STS95_Discovery_),
+(StephenK_Robinson)-[:FLEW_ON]->(STS114_Discovery_),
+(StephenK_Robinson)-[:FLEW_ON]->(STS130_Endeavor_),
+(StephenK_Robinson)-[:RECRUITED_IN_CLASS]->(G15)
+
+CREATE (StevenR_Nagel:Astronaut {name: 'Steven R. Nagel', birthplace: 'Canton, IL' , dateOfBirth: '10/27/1946' , gender: 'Male'})
+CREATE (StevenR_Nagel)-[:EDUCATED_AT]->(UniversityofIllinois),
+(StevenR_Nagel)-[:FLEW_ON]->(STS51G_Discovery_),
+(StevenR_Nagel)-[:FLEW_ON]->(STS61A_Challenger_),
+(StevenR_Nagel)-[:FLEW_ON]->(STS37_Atlantis_),
+(StevenR_Nagel)-[:FLEW_ON]->(STS55_Columbia_),
+(StevenR_Nagel)-[:RECRUITED_IN_CLASS]->(G8)
+
+CREATE (JohnD_Olivas:Astronaut {name: 'John D. Olivas', birthplace: 'North Hollywood, CA' , dateOfBirth: '5/25/1966' , gender: 'Male'})
+CREATE (JohnD_Olivas)-[:EDUCATED_AT]->(UniversityofTexasElPaso),
+(JohnD_Olivas)-[:FLEW_ON]->(STS117_Atlantis_),
+(JohnD_Olivas)-[:FLEW_ON]->(STS128_Discovery_),
+(JohnD_Olivas)-[:RECRUITED_IN_CLASS]->(G17)
+
+CREATE (HeidemarieM_StefanyshynPiper:Astronaut {name: 'Heidemarie M. Stefanyshyn-Piper', birthplace: 'St. Paul, MN' , dateOfBirth: '2/7/1963' , gender: 'Female'})
+CREATE (HeidemarieM_StefanyshynPiper)-[:EDUCATED_AT]->(MIT),
+(HeidemarieM_StefanyshynPiper)-[:FLEW_ON]->(STS115_Atlantis_),
+(HeidemarieM_StefanyshynPiper)-[:FLEW_ON]->(STS126_Endeavor_),
+(HeidemarieM_StefanyshynPiper)-[:RECRUITED_IN_CLASS]->(G16)
+
+CREATE (RobertL_Gibson:Astronaut {name: 'Robert L. Gibson', birthplace: 'Cooperstown, NY' , dateOfBirth: '10/30/1946' , gender: 'Male'})
+CREATE (RobertL_Gibson)-[:EDUCATED_AT]->(CaliforniaPolytechnicInstitute),
+(RobertL_Gibson)-[:FLEW_ON]->(STS41B_Challenger_),
+(RobertL_Gibson)-[:FLEW_ON]->(STS61C_Columbia_),
+(RobertL_Gibson)-[:FLEW_ON]->(STS27_Atlantis_),
+(RobertL_Gibson)-[:FLEW_ON]->(STS47_Endeavor_),
+(RobertL_Gibson)-[:FLEW_ON]->(STS71_Atlantis_),
+(RobertL_Gibson)-[:RECRUITED_IN_CLASS]->(G8)
+
+CREATE (JeanetteJ_Epps:Astronaut {name: 'Jeanette J. Epps', birthplace: 'Syracuse, NY' , dateOfBirth: '11/3/1970' , gender: 'Female'})
+CREATE (JeanetteJ_Epps)-[:EDUCATED_AT]->(LeMoyneCollege),
+(JeanetteJ_Epps)-[:RECRUITED_IN_CLASS]->(G20)
+
+CREATE (MargaretRheaSeddon:Astronaut {name: 'Margaret Rhea Seddon', birthplace: 'Murfreesboro, TN' , dateOfBirth: '11/8/1947' , gender: 'Female'})
+CREATE (MargaretRheaSeddon)-[:EDUCATED_AT]->(UniversityofCaliforniaBerkeley),
+(MargaretRheaSeddon)-[:FLEW_ON]->(STS51D_Discovery_),
+(MargaretRheaSeddon)-[:FLEW_ON]->(STS40_Columbia_),
+(MargaretRheaSeddon)-[:FLEW_ON]->(STS58_Columbia_),
+(MargaretRheaSeddon)-[:RECRUITED_IN_CLASS]->(G8)
+
+CREATE (JamesA_McDivitt:Astronaut {name: 'James A. McDivitt', birthplace: 'Chicago, IL' , dateOfBirth: '6/10/1929' , gender: 'Male'})
+CREATE (JamesA_McDivitt)-[:EDUCATED_AT]->(UniversityofMichigan),
+(JamesA_McDivitt)-[:FLEW_ON]->(Gemini4),
+(JamesA_McDivitt)-[:FLEW_ON]->(Apollo9),
+(JamesA_McDivitt)-[:RECRUITED_IN_CLASS]->(G2)
+
+CREATE (ChristopherJ_Cassidy:Astronaut {name: 'Christopher J. Cassidy', birthplace: 'Salem, MA' , dateOfBirth: '1/4/1970' , gender: 'Male'})
+CREATE (ChristopherJ_Cassidy)-[:EDUCATED_AT]->(USNavalAcademy),
+(ChristopherJ_Cassidy)-[:FLEW_ON]->(STS127_Endeavor_),
+(ChristopherJ_Cassidy)-[:RECRUITED_IN_CLASS]->(G19)
+
+CREATE (CharlesF_BoldenJr_:Astronaut {name: 'Charles F. Bolden Jr.', birthplace: 'Columbia, SC' , dateOfBirth: '8/19/1946' , gender: 'Male'})
+CREATE (CharlesF_BoldenJr_)-[:EDUCATED_AT]->(USNavalAcademy),
+(CharlesF_BoldenJr_)-[:FLEW_ON]->(STS61C_Columbia_),
+(CharlesF_BoldenJr_)-[:FLEW_ON]->(STS31_Discovery_),
+(CharlesF_BoldenJr_)-[:FLEW_ON]->(STS45_Atlantis_),
+(CharlesF_BoldenJr_)-[:FLEW_ON]->(STS60_Discovery_),
+(CharlesF_BoldenJr_)-[:RECRUITED_IN_CLASS]->(G9)
+
+CREATE (KathrynD_Sullivan:Astronaut {name: 'Kathryn D. Sullivan', birthplace: 'Patterson, NJ' , dateOfBirth: '10/3/1951' , gender: 'Female'})
+CREATE (KathrynD_Sullivan)-[:EDUCATED_AT]->(UniversityofCaliforniaSantaCruz),
+(KathrynD_Sullivan)-[:FLEW_ON]->(STS41G_Challenger_),
+(KathrynD_Sullivan)-[:FLEW_ON]->(STS31_Discovery_),
+(KathrynD_Sullivan)-[:FLEW_ON]->(STS45_Atlantis_),
+(KathrynD_Sullivan)-[:RECRUITED_IN_CLASS]->(G8)
+
+CREATE (AndrewS_W_Thomas:Astronaut {name: 'Andrew S. W. Thomas', birthplace: 'Adelaide, Australia' , dateOfBirth: '12/18/1951' , gender: 'Male'})
+CREATE (AndrewS_W_Thomas)-[:EDUCATED_AT]->(UniversityofAdelaide),
+(AndrewS_W_Thomas)-[:FLEW_ON]->(STS77_Endeavor_),
+(AndrewS_W_Thomas)-[:FLEW_ON]->(STS8991_EndeavorDiscovery_),
+(AndrewS_W_Thomas)-[:FLEW_ON]->(STS102_Discovery_),
+(AndrewS_W_Thomas)-[:FLEW_ON]->(STS114_Discovery_),
+(AndrewS_W_Thomas)-[:RECRUITED_IN_CLASS]->(G14)
+
+CREATE (CharlesLacyVeach:Astronaut {name: 'Charles Lacy Veach', birthplace: 'Chicago, IL' , dateOfBirth: '9/18/1944' , gender: 'Male'})
+CREATE (CharlesLacyVeach)-[:EDUCATED_AT]->(USAirForceAcademy),
+(CharlesLacyVeach)-[:FLEW_ON]->(STS39_Discovery_),
+(CharlesLacyVeach)-[:FLEW_ON]->(STS52_Columbia_),
+(CharlesLacyVeach)-[:RECRUITED_IN_CLASS]->(G10)
+
+CREATE (DavidR_Scott:Astronaut {name: 'David R. Scott', birthplace: 'San Antonio, TX' , dateOfBirth: '6/6/1932' , gender: 'Male'})
+CREATE (DavidR_Scott)-[:EDUCATED_AT]->(USMilitaryAcademy),
+(DavidR_Scott)-[:FLEW_ON]->(Gemini8),
+(DavidR_Scott)-[:FLEW_ON]->(Apollo9),
+(DavidR_Scott)-[:FLEW_ON]->(Apollo15),
+(DavidR_Scott)-[:RECRUITED_IN_CLASS]->(G3)
+
+CREATE (GaryE_Payton:Astronaut {name: 'Gary E. Payton', birthplace: 'Rock Island, IL' , dateOfBirth: '6/20/1948' , gender: 'Male'})
+CREATE (GaryE_Payton)-[:EDUCATED_AT]->(USAirForceAcademy),
+(GaryE_Payton)-[:FLEW_ON]->(STS51C_Discovery_),
+(GaryE_Payton)-[:RECRUITED_IN_CLASS]->(G11)
+
+CREATE (GeorgeD_Nelson:Astronaut {name: 'George D. Nelson', birthplace: 'Charles City, IA' , dateOfBirth: '7/13/1950' , gender: 'Male'})
+CREATE (GeorgeD_Nelson)-[:EDUCATED_AT]->(HarveyMuddCollege),
+(GeorgeD_Nelson)-[:FLEW_ON]->(STS41C_Challenger_),
+(GeorgeD_Nelson)-[:FLEW_ON]->(STS61C_Columbia_),
+(GeorgeD_Nelson)-[:FLEW_ON]->(STS26_Discovery_),
+(GeorgeD_Nelson)-[:RECRUITED_IN_CLASS]->(G8)
+
+CREATE (PierreJ_Thuot:Astronaut {name: 'Pierre J. Thuot', birthplace: 'Groton, CT' , dateOfBirth: '5/19/1955' , gender: 'Male'})
+CREATE (PierreJ_Thuot)-[:EDUCATED_AT]->(USNavalAcademy),
+(PierreJ_Thuot)-[:FLEW_ON]->(STS36_Atlantis_),
+(PierreJ_Thuot)-[:FLEW_ON]->(STS49_Endeavor_),
+(PierreJ_Thuot)-[:FLEW_ON]->(STS62_Columbia_),
+(PierreJ_Thuot)-[:RECRUITED_IN_CLASS]->(G11)
+
+CREATE (SunitaL_Williams:Astronaut {name: 'Sunita L. Williams', birthplace: 'Euclid, OH' , dateOfBirth: '9/19/1965' , gender: 'Female'})
+CREATE (SunitaL_Williams)-[:EDUCATED_AT]->(USNavalAcademy),
+(SunitaL_Williams)-[:FLEW_ON]->(STS116117_DiscoveryAtlantis_),
+(SunitaL_Williams)-[:FLEW_ON]->(ISS3233_Soyuz_),
+(SunitaL_Williams)-[:RECRUITED_IN_CLASS]->(G17)
+
+CREATE (WilliamB_Lenoir:Astronaut {name: 'William B. Lenoir', birthplace: 'Miami, FL' , dateOfBirth: '3/14/1939' , gender: 'Male'})
+CREATE (WilliamB_Lenoir)-[:EDUCATED_AT]->(MIT),
+(WilliamB_Lenoir)-[:FLEW_ON]->(STS5_Columbia_),
+(WilliamB_Lenoir)-[:RECRUITED_IN_CLASS]->(G6)
+
+CREATE (CharlesA_BassettII:Astronaut {name: 'Charles A. Bassett II', birthplace: 'Dayton, OH' , dateOfBirth: '12/30/1931' , gender: 'Male'})
+CREATE (CharlesA_BassettII)-[:EDUCATED_AT]->(TexasTechnologicalCollege),
+(CharlesA_BassettII)-[:RECRUITED_IN_CLASS]->(G3)
+
+CREATE (BuzzAldrin:Astronaut {name: 'Buzz Aldrin', birthplace: 'Montclair, NJ' , dateOfBirth: '1/20/1930' , gender: 'Male'})
+CREATE (BuzzAldrin)-[:EDUCATED_AT]->(USMilitaryAcademy),
+(BuzzAldrin)-[:FLEW_ON]->(Gemini12),
+(BuzzAldrin)-[:FLEW_ON]->(Apollo11),
+(BuzzAldrin)-[:RECRUITED_IN_CLASS]->(G3)
+
+CREATE (StephenN_Frick:Astronaut {name: 'Stephen N. Frick', birthplace: 'Pittsburgh, PA' , dateOfBirth: '9/30/1961' , gender: 'Male'})
+CREATE (StephenN_Frick)-[:EDUCATED_AT]->(USNavalAcademy),
+(StephenN_Frick)-[:FLEW_ON]->(STS110_Atlantis_),
+(StephenN_Frick)-[:FLEW_ON]->(STS122_Atlantis_),
+(StephenN_Frick)-[:RECRUITED_IN_CLASS]->(G16)
+
+CREATE (JoeH_Engle:Astronaut {name: 'Joe H. Engle', birthplace: 'Dickinson, KS' , dateOfBirth: '8/26/1932' , gender: 'Male'})
+CREATE (JoeH_Engle)-[:EDUCATED_AT]->(UniversityofKansas),
+(JoeH_Engle)-[:FLEW_ON]->(STS2_Columbia_),
+(JoeH_Engle)-[:FLEW_ON]->(STS51I_Discovery_),
+(JoeH_Engle)-[:RECRUITED_IN_CLASS]->(G5)
+
+CREATE (F_CurtisMichel:Astronaut {name: 'F. Curtis Michel', birthplace: 'LaCrosse, WI' , dateOfBirth: '6/5/1934' , gender: 'Male'})
+CREATE (F_CurtisMichel)-[:EDUCATED_AT]->(CaliforniaInstituteofTechnology),
+(F_CurtisMichel)-[:RECRUITED_IN_CLASS]->(G4)
+
+CREATE (WilliamA_Oefelein:Astronaut {name: 'William A. Oefelein', birthplace: 'Ft. Belvoir, VA' , dateOfBirth: '3/29/1965' , gender: 'Male'})
+CREATE (WilliamA_Oefelein)-[:EDUCATED_AT]->(OregonStateUniversity),
+(WilliamA_Oefelein)-[:FLEW_ON]->(STS116_Discovery_),
+(WilliamA_Oefelein)-[:RECRUITED_IN_CLASS]->(G17)
+
+;
