@@ -11,31 +11,31 @@ driver = GraphDatabase.driver("bolt://" + hostname + ":7687",
 session = driver.session()
 
 #CREATE mission Expedition 52
-#session.run("CREATE (:Mission {name:{name}});",
-#    {"name":"ISS-51/52 (Soyuz)"})
+createMission = "CREATE (:Mission {name:{name}});"
+session.run(createMission,{"name":"ISS-51/52 (Soyuz)"})
 
 #CREATE FLOWN_ON edges for astronauts (below) to Expedition 52
 createRelationship = """MATCH (m:Mission),(a:Astronaut)
-    WHERE m.name = 'ISS-51/52 (Soyuz)' AND l.name='Jack D. Fischer'
+    WHERE m.name='ISS-51/52 (Soyuz)' AND a.name='Jack D. Fischer'
     CREATE (a)-[:FLEW_ON]->(m);"""
-#session.run(createRelationship)
+session.run(createRelationship)
 
 createRelationship = """MATCH (m:Mission),(a:Astronaut)
-    WHERE m.name = 'ISS-51/52 (Soyuz)' AND l.name='Peggy A. Whitson'
+    WHERE m.name='ISS-51/52 (Soyuz)' AND a.name='Peggy A. Whitson'
     CREATE (a)-[:FLEW_ON]->(m);"""
-#session.run(createRelationship)
+session.run(createRelationship)
 
 createRelationship = """MATCH (m:Mission),(a:Astronaut)
-    WHERE m.name = 'ISS-51/52 (Soyuz)' AND l.name='Randolph J. Bresnik'
+    WHERE m.name='ISS-51/52 (Soyuz)' AND a.name='Randolph J. Bresnik'
     CREATE (a)-[:FLEW_ON]->(m);"""
 session.run(createRelationship)
 
 #query the mission and the edges to the Astronauts
-queryRelationship = """MATCH (m:Mission)<-[:FLEW_ON]-
-    (a:Astronaut {name:'ISS-51/52'}) RETURN m,a;"""
+queryRelationship = """MATCH (m:Mission {name:'ISS-51/52 (Soyuz)'})<-[:FLEW_ON]-
+    (a:Astronaut) RETURN m,a;"""
 resultSet = session.run(queryRelationship)
 
 for result in resultSet:
-      print("%s from %s" % (result["m"]["name"], result["a"]["name"]))
+      print("%s flew on %s" % (result["a"]["name"],result["m"]["name"]))
 
 session.close()

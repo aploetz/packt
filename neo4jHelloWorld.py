@@ -11,8 +11,9 @@ driver = GraphDatabase.driver("bolt://" + hostname + ":7687",
 session = driver.session()
 
 #create Python language entity
-session.run("CREATE (:Language {name:{name},version:{ver}});",
-    {"name":"Python","ver":"2.7.13"})
+createLanguage = "CREATE (:Language {name:{name},version:{ver}});"
+session.run(createLanguage,{"name":"Python","ver":"2.7.13"})
+
 
 #create relationship from Python lanugage to welcome message
 createRelationship = """MATCH (m:Message),(l:Language)
