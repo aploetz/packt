@@ -1,0 +1,28 @@
+redis-cli pub/sub commands
+
+sub:
+127.0.0.1:6379> subscribe greeting
+Reading messages... (press Ctrl-C to quit)
+1) "subscribe"
+2) "greeting"
+3) (integer) 1
+1) "message"
+2) "greeting"
+3) "Hello world!"
+1) "message"
+2) "greeting"
+3) "Hello world from pub/sub!"
+^C
+
+127.0.0.1:6379> unsubscribe
+1) "unsubscribe"
+2) (nil)
+3) (integer) 0
+
+pub:
+127.0.0.1:6379> publish greeting "Hello world!"
+(integer) 1
+127.0.0.1:6379> publish greeting "Hello world from pub/sub"
+(integer) 1
+
+
