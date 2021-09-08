@@ -1,4 +1,6 @@
-CREATE TABLE packt.astronauts (
+CREATE KEYSPACE IF NOT EXISTS packt WITH REPLICATION={'class':'SimpleStrategy','replication_factor':'1'};
+
+CREATE TABLE IF NOT EXISTS packt.astronauts (
 name text,
 year int,
 group int,
@@ -14,7 +16,7 @@ spacewalk_hours int,
 missions text,
 PRIMARY KEY (name));
 
-CREATE TABLE packt.astronauts_by_group (
+CREATE TABLE IF NOT EXISTS packt.astronauts_by_group (
 name text,
 year int,
 group int,
